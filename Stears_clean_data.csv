@@ -1,0 +1,1962 @@
+id,status,currency,country_name
+1,failed,USD,United States
+2,success,NGN,Nigeria
+4,success,NGN,Nigeria
+5,abandoned,NGN,Nigeria
+7,success,NGN,Nigeria
+11,success,NGN,Nigeria
+12,failed,USD,United States
+13,abandoned,NGN,Nigeria
+14,success,NGN,Nigeria
+15,abandoned,NGN,Nigeria
+16,success,NGN,Nigeria
+19,abandoned,USD,United States
+20,failed,USD,United States
+21,success,NGN,United States
+22,failed,NGN,United Kingdom
+24,abandoned,NGN,Ghana
+25,failed,NGN,United Kingdom
+26,success,NGN,Nigeria
+27,failed,NGN,Nigeria
+29,failed,NGN,Nigeria
+31,abandoned,USD,United States
+32,success,NGN,Nigeria
+34,success,NGN,Nigeria
+36,failed,NGN,Nigeria
+39,success,USD,South Africa
+40,success,NGN,Nigeria
+41,abandoned,NGN,Nigeria
+44,success,NGN,Nigeria
+48,success,NGN,United Kingdom
+50,failed,NGN,Nigeria
+51,success,NGN,Nigeria
+53,success,NGN,United Kingdom
+56,success,NGN,Nigeria
+59,success,NGN,Nigeria
+60,success,USD,United Kingdom
+61,success,NGN,Nigeria
+62,success,NGN,Nigeria
+63,abandoned,USD,United States
+65,success,NGN,Nigeria
+70,success,NGN,Nigeria
+75,success,NGN,Nigeria
+77,failed,NGN,Nigeria
+78,success,NGN,Nigeria
+80,success,NGN,Nigeria
+81,success,NGN,Nigeria
+83,success,USD,United States
+84,success,NGN,Nigeria
+85,success,NGN,Nigeria
+87,success,NGN,Nigeria
+88,failed,NGN,United States
+89,success,USD,United States
+92,success,NGN,Nigeria
+95,success,NGN,Nigeria
+97,success,NGN,Nigeria
+98,failed,NGN,Nigeria
+101,failed,NGN,Nigeria
+103,success,NGN,United Kingdom
+104,success,USD,United States
+108,success,NGN,United Kingdom
+113,success,NGN,Nigeria
+116,success,NGN,Nigeria
+120,success,NGN,Nigeria
+123,success,NGN,Nigeria
+124,success,NGN,Nigeria
+125,success,NGN,Nigeria
+126,success,NGN,Nigeria
+127,abandoned,USD,Italy
+129,success,NGN,Nigeria
+130,success,NGN,United States
+131,success,NGN,Nigeria
+132,failed,NGN,Nigeria
+133,failed,NGN,Nigeria
+135,success,NGN,Nigeria
+136,success,NGN,Nigeria
+137,failed,USD,United States
+139,success,NGN,Nigeria
+140,success,NGN,Nigeria
+141,success,NGN,Nigeria
+142,success,NGN,Nigeria
+145,failed,USD,United States
+146,reversed,NGN,Nigeria
+147,success,NGN,Nigeria
+149,abandoned,NGN,Nigeria
+150,success,NGN,Nigeria
+151,failed,NGN,Nigeria
+152,success,NGN,Nigeria
+154,success,NGN,Nigeria
+156,failed,NGN,Nigeria
+157,success,NGN,Nigeria
+158,success,NGN,Nigeria
+159,abandoned,NGN,Nigeria
+160,success,NGN,United States
+162,success,NGN,Nigeria
+163,success,USD,United Kingdom
+166,success,NGN,Nigeria
+170,failed,NGN,Nigeria
+171,success,NGN,Nigeria
+173,success,NGN,Nigeria
+174,success,NGN,Nigeria
+175,failed,NGN,United States
+177,success,NGN,Nigeria
+181,success,NGN,Nigeria
+182,failed,NGN,Nigeria
+183,success,NGN,Nigeria
+187,success,NGN,Nigeria
+190,failed,USD,United States
+193,success,NGN,Nigeria
+194,success,NGN,Nigeria
+196,success,NGN,Nigeria
+197,failed,USD,Nigeria
+198,success,NGN,Nigeria
+199,success,USD,Ireland
+200,success,NGN,Nigeria
+205,failed,NGN,Nigeria
+206,success,USD,Nigeria
+207,success,USD,South Africa
+209,success,NGN,Nigeria
+212,success,NGN,Nigeria
+213,success,NGN,Nigeria
+215,failed,NGN,Nigeria
+217,success,NGN,United Kingdom
+219,success,USD,United States
+220,success,NGN,Nigeria
+221,abandoned,USD,United States
+222,success,NGN,Nigeria
+223,success,NGN,Nigeria
+224,failed,USD,United States
+226,success,NGN,Nigeria
+227,failed,USD,United States
+229,abandoned,NGN,Nigeria
+230,success,NGN,Nigeria
+232,failed,NGN,Canada
+234,success,NGN,Nigeria
+237,success,NGN,Nigeria
+238,abandoned,NGN,United States
+239,success,USD,United Kingdom
+240,success,NGN,Nigeria
+241,abandoned,USD,United States
+243,failed,NGN,Nigeria
+244,failed,USD,United States
+245,abandoned,NGN,Nigeria
+246,success,NGN,Nigeria
+247,success,NGN,Nigeria
+248,success,NGN,Nigeria
+249,reversed,NGN,Nigeria
+251,success,USD,Canada
+253,success,NGN,Nigeria
+254,success,NGN,Nigeria
+255,success,NGN,Nigeria
+256,success,NGN,Nigeria
+258,failed,USD,United Kingdom
+259,failed,NGN,Nigeria
+260,success,NGN,Nigeria
+264,success,NGN,United Kingdom
+267,failed,NGN,Nigeria
+268,success,NGN,Nigeria
+271,success,USD,United States
+272,success,NGN,Nigeria
+273,success,NGN,United Kingdom
+274,success,NGN,Nigeria
+276,failed,NGN,Nigeria
+277,success,NGN,Nigeria
+278,success,NGN,Nigeria
+283,success,NGN,Nigeria
+286,success,NGN,Nigeria
+289,abandoned,NGN,Nigeria
+292,success,NGN,Nigeria
+294,abandoned,NGN,Nigeria
+295,success,NGN,Nigeria
+297,success,NGN,Nigeria
+299,success,NGN,Nigeria
+301,success,USD,United Kingdom
+302,success,NGN,South Africa
+303,success,NGN,Nigeria
+306,success,NGN,United States
+308,failed,USD,United States
+309,success,NGN,Nigeria
+311,success,NGN,Nigeria
+312,success,NGN,Nigeria
+313,success,NGN,Nigeria
+314,failed,NGN,Nigeria
+315,success,NGN,Nigeria
+318,success,NGN,Nigeria
+319,success,NGN,Nigeria
+320,success,NGN,Nigeria
+322,success,NGN,Nigeria
+323,success,NGN,Nigeria
+324,success,NGN,Nigeria
+325,failed,NGN,Nigeria
+326,success,NGN,Nigeria
+328,success,NGN,Nigeria
+331,success,USD,United States
+333,failed,NGN,Nigeria
+335,success,NGN,Nigeria
+338,failed,USD,United States
+339,success,NGN,Nigeria
+342,success,NGN,Nigeria
+343,success,USD,United States
+344,success,NGN,Nigeria
+345,success,NGN,Nigeria
+346,success,NGN,Nigeria
+353,success,NGN,Nigeria
+355,success,NGN,Nigeria
+357,failed,NGN,Bangladesh
+358,success,USD,United States
+362,failed,USD,Namibia
+363,success,NGN,Nigeria
+364,success,NGN,Nigeria
+365,success,NGN,Nigeria
+368,success,NGN,Nigeria
+369,failed,NGN,Nigeria
+371,failed,NGN,United Kingdom
+373,success,NGN,Nigeria
+374,success,NGN,Nigeria
+376,failed,NGN,Nigeria
+378,abandoned,NGN,Nigeria
+381,success,NGN,Nigeria
+382,success,NGN,Nigeria
+383,success,NGN,Nigeria
+384,success,NGN,Nigeria
+388,success,NGN,Nigeria
+389,success,NGN,Nigeria
+390,abandoned,USD,United States
+393,success,NGN,Nigeria
+397,success,USD,South Africa
+398,success,NGN,United Kingdom
+399,success,NGN,Nigeria
+402,reversed,NGN,Nigeria
+403,success,NGN,Nigeria
+404,success,NGN,Nigeria
+407,success,NGN,Nigeria
+408,success,NGN,Nigeria
+409,success,NGN,Nigeria
+410,success,NGN,United Kingdom
+411,reversed,NGN,Nigeria
+412,failed,NGN,Canada
+413,success,NGN,Nigeria
+414,failed,NGN,Nigeria
+416,failed,NGN,Nigeria
+418,success,NGN,Nigeria
+420,success,NGN,Nigeria
+423,success,NGN,Nigeria
+425,failed,NGN,United States
+427,success,NGN,Nigeria
+430,success,NGN,Nigeria
+431,success,NGN,Nigeria
+432,success,NGN,Nigeria
+433,success,NGN,Nigeria
+435,success,NGN,Nigeria
+436,success,USD,Japan
+437,success,NGN,Nigeria
+442,success,NGN,Nigeria
+443,success,NGN,Nigeria
+446,success,NGN,Nigeria
+450,reversed,USD,United Kingdom
+453,success,NGN,Nigeria
+458,success,NGN,Nigeria
+459,failed,USD,Nigeria
+465,failed,NGN,Nigeria
+466,success,NGN,Nigeria
+467,failed,NGN,United States
+470,success,NGN,Nigeria
+471,success,NGN,Nigeria
+476,failed,NGN,Nigeria
+478,success,NGN,Nigeria
+479,success,USD,United States
+486,success,NGN,Nigeria
+487,success,NGN,Nigeria
+488,failed,NGN,Nigeria
+491,success,NGN,Nigeria
+493,abandoned,NGN,Nigeria
+495,success,NGN,Nigeria
+497,failed,NGN,Nigeria
+498,success,NGN,Nigeria
+501,success,NGN,Nigeria
+505,success,NGN,Nigeria
+508,failed,NGN,Nigeria
+510,success,NGN,Nigeria
+512,success,NGN,Nigeria
+514,failed,NGN,Nigeria
+517,success,NGN,Nigeria
+518,success,NGN,Nigeria
+519,success,NGN,Nigeria
+520,success,NGN,Nigeria
+521,abandoned,NGN,Nigeria
+522,failed,USD,United States
+523,success,NGN,Nigeria
+525,success,NGN,Nigeria
+526,success,NGN,Nigeria
+527,success,NGN,Nigeria
+529,success,NGN,Nigeria
+532,abandoned,NGN,Nigeria
+533,success,NGN,Nigeria
+534,failed,USD,United States
+535,failed,NGN,Nigeria
+536,success,USD,United Kingdom
+538,failed,USD,United States
+539,success,NGN,Nigeria
+540,success,NGN,Nigeria
+543,success,NGN,Nigeria
+544,success,NGN,Nigeria
+546,reversed,NGN,Nigeria
+548,success,NGN,Nigeria
+551,abandoned,USD,United States
+552,success,NGN,Nigeria
+554,success,NGN,Nigeria
+556,success,NGN,Nigeria
+559,success,USD,United States
+561,success,NGN,Nigeria
+563,failed,USD,United States
+566,failed,NGN,Nigeria
+568,success,NGN,Nigeria
+569,failed,NGN,United Kingdom
+571,success,NGN,Nigeria
+575,success,USD,United States
+577,abandoned,USD,Nigeria
+578,failed,NGN,Nigeria
+579,success,NGN,United Kingdom
+581,failed,NGN,Nigeria
+583,success,NGN,Nigeria
+584,success,NGN,Nigeria
+588,success,NGN,Nigeria
+589,success,NGN,Nigeria
+590,success,NGN,Nigeria
+591,failed,NGN,Nigeria
+593,success,NGN,Nigeria
+594,abandoned,NGN,Nigeria
+596,success,NGN,Nigeria
+598,success,NGN,Nigeria
+599,success,NGN,Nigeria
+602,success,NGN,Nigeria
+605,success,NGN,Nigeria
+607,failed,NGN,Nigeria
+608,success,NGN,Nigeria
+609,failed,USD,United States
+610,success,NGN,Nigeria
+611,success,NGN,Nigeria
+612,abandoned,NGN,Nigeria
+614,failed,NGN,Nigeria
+615,success,NGN,Nigeria
+616,success,NGN,Nigeria
+617,success,NGN,Nigeria
+619,success,NGN,Nigeria
+622,abandoned,USD,United Kingdom
+625,success,NGN,Nigeria
+626,success,NGN,Nigeria
+628,abandoned,USD,United States
+629,failed,NGN,United Kingdom
+633,success,NGN,Nigeria
+635,success,NGN,Nigeria
+637,failed,NGN,Nigeria
+638,success,NGN,Nigeria
+639,success,NGN,Nigeria
+640,failed,NGN,Nigeria
+641,success,NGN,Nigeria
+644,success,NGN,Nigeria
+645,success,NGN,Nigeria
+646,failed,NGN,Nigeria
+648,success,NGN,Nigeria
+651,success,NGN,Nigeria
+652,success,NGN,Nigeria
+654,success,NGN,Nigeria
+655,abandoned,NGN,Nigeria
+656,success,NGN,Nigeria
+658,success,NGN,Nigeria
+659,success,NGN,Nigeria
+660,success,NGN,Nigeria
+661,success,NGN,Nigeria
+662,success,NGN,Nigeria
+663,failed,NGN,Nigeria
+665,abandoned,USD,United States
+667,success,NGN,Nigeria
+669,failed,USD,United States
+670,success,NGN,Nigeria
+671,success,NGN,Nigeria
+672,success,NGN,Nigeria
+674,success,NGN,Nigeria
+675,failed,USD,United States
+676,success,NGN,Nigeria
+677,success,NGN,Nigeria
+678,failed,NGN,Nigeria
+679,success,NGN,Nigeria
+681,success,NGN,Nigeria
+683,failed,NGN,Nigeria
+684,success,NGN,Nigeria
+685,failed,NGN,Canada
+686,success,NGN,Nigeria
+687,failed,NGN,Nigeria
+689,success,NGN,Nigeria
+690,success,NGN,Nigeria
+693,success,NGN,Nigeria
+694,success,NGN,Nigeria
+696,success,NGN,Nigeria
+697,success,USD,Ukraine
+700,abandoned,NGN,Nigeria
+701,success,USD,United Kingdom
+702,success,NGN,Nigeria
+703,success,NGN,Nigeria
+705,success,NGN,Nigeria
+707,success,NGN,Nigeria
+710,success,NGN,Nigeria
+712,success,NGN,Nigeria
+716,success,NGN,Nigeria
+718,success,NGN,Nigeria
+720,success,NGN,Nigeria
+722,reversed,NGN,Nigeria
+723,success,NGN,Nigeria
+724,failed,NGN,Nigeria
+728,failed,NGN,Nigeria
+729,success,NGN,Nigeria
+731,success,NGN,Nigeria
+733,success,NGN,Nigeria
+734,success,NGN,Nigeria
+737,success,NGN,Nigeria
+739,success,NGN,Nigeria
+741,failed,NGN,Nigeria
+744,success,NGN,Nigeria
+745,failed,NGN,United Kingdom
+749,success,USD,United Kingdom
+753,failed,NGN,United States
+754,success,NGN,Nigeria
+756,success,NGN,Nigeria
+757,success,NGN,Nigeria
+759,success,NGN,Nigeria
+760,abandoned,USD,United States
+761,failed,NGN,United Kingdom
+763,failed,NGN,Nigeria
+764,failed,NGN,Nigeria
+767,success,NGN,Nigeria
+768,abandoned,USD,United States
+769,success,NGN,Nigeria
+771,abandoned,USD,United States
+772,success,NGN,Nigeria
+775,success,NGN,Nigeria
+776,success,NGN,Nigeria
+778,success,NGN,Nigeria
+779,success,NGN,Nigeria
+780,success,NGN,Nigeria
+782,reversed,NGN,Nigeria
+784,success,NGN,Nigeria
+786,failed,NGN,Nigeria
+790,success,NGN,Nigeria
+792,success,USD,Canada
+793,success,NGN,Nigeria
+795,success,NGN,Nigeria
+796,success,USD,United Kingdom
+797,abandoned,NGN,Nigeria
+798,abandoned,NGN,United Kingdom
+799,success,NGN,Nigeria
+801,success,NGN,Nigeria
+805,abandoned,USD,United States
+806,success,NGN,United Kingdom
+809,success,NGN,Nigeria
+810,success,NGN,Nigeria
+811,abandoned,NGN,Nigeria
+813,success,NGN,Nigeria
+814,success,NGN,Nigeria
+816,abandoned,NGN,Nigeria
+817,success,NGN,Nigeria
+820,abandoned,USD,France
+822,success,NGN,Nigeria
+823,failed,NGN,Nigeria
+826,failed,USD,United States
+827,success,NGN,Nigeria
+829,success,NGN,Nigeria
+832,success,USD,United States
+833,success,NGN,Nigeria
+834,abandoned,USD,United States
+836,failed,NGN,Nigeria
+837,failed,NGN,Nigeria
+838,success,NGN,Nigeria
+839,success,NGN,Nigeria
+845,failed,NGN,Nigeria
+847,success,NGN,Nigeria
+849,success,NGN,Nigeria
+850,failed,NGN,Nigeria
+852,success,NGN,Nigeria
+854,success,NGN,Nigeria
+857,failed,NGN,Nigeria
+858,failed,NGN,Nigeria
+859,success,NGN,Nigeria
+860,success,NGN,Nigeria
+861,success,NGN,Nigeria
+862,success,NGN,Nigeria
+864,abandoned,NGN,Nigeria
+865,success,NGN,United States
+866,success,USD,United Kingdom
+867,success,NGN,Nigeria
+868,success,NGN,Nigeria
+869,success,USD,United Kingdom
+873,success,NGN,Nigeria
+874,failed,NGN,Nigeria
+876,success,NGN,Nigeria
+880,failed,USD,United States
+881,success,NGN,Nigeria
+882,success,NGN,Nigeria
+883,failed,NGN,United States
+884,success,NGN,Nigeria
+885,abandoned,USD,United States
+886,success,NGN,Nigeria
+887,success,NGN,Nigeria
+888,success,NGN,Nigeria
+890,success,NGN,Nigeria
+891,success,USD,United Kingdom
+892,success,USD,Cameroon
+900,success,NGN,Nigeria
+901,success,NGN,Nigeria
+902,success,NGN,Nigeria
+903,success,USD,United States
+904,success,NGN,Nigeria
+905,abandoned,NGN,United Kingdom
+906,success,NGN,Nigeria
+907,success,NGN,United States
+908,reversed,NGN,Nigeria
+909,success,USD,United Kingdom
+910,success,NGN,Nigeria
+911,success,NGN,Nigeria
+912,success,NGN,Nigeria
+913,success,NGN,Nigeria
+915,success,NGN,Nigeria
+916,success,NGN,Nigeria
+917,success,NGN,Nigeria
+919,success,NGN,Nigeria
+921,failed,NGN,Nigeria
+925,success,NGN,Nigeria
+926,failed,NGN,Nigeria
+930,success,NGN,Nigeria
+937,failed,USD,Nigeria
+938,failed,NGN,Nigeria
+939,success,NGN,Nigeria
+940,success,USD,United States
+941,failed,USD,United States
+942,success,NGN,Nigeria
+943,success,NGN,Nigeria
+944,success,NGN,United Kingdom
+945,success,NGN,Nigeria
+946,abandoned,NGN,Nigeria
+947,success,NGN,Nigeria
+949,success,NGN,Nigeria
+951,success,NGN,Nigeria
+953,failed,NGN,Nigeria
+956,failed,NGN,Nigeria
+957,success,USD,United States
+960,abandoned,NGN,Nigeria
+961,failed,NGN,Nigeria
+962,success,USD,United Kingdom
+963,success,NGN,Nigeria
+966,success,NGN,Nigeria
+968,success,NGN,Nigeria
+969,success,NGN,Nigeria
+970,abandoned,USD,United States
+971,success,NGN,Nigeria
+972,abandoned,NGN,Nigeria
+973,failed,NGN,United States
+974,success,NGN,United Kingdom
+975,success,NGN,Nigeria
+979,failed,NGN,Nigeria
+982,abandoned,USD,United States
+983,success,NGN,Nigeria
+984,success,NGN,Nigeria
+985,failed,NGN,Nigeria
+987,success,NGN,Nigeria
+989,success,NGN,Nigeria
+990,success,NGN,Nigeria
+992,success,NGN,Nigeria
+993,success,NGN,Nigeria
+994,failed,NGN,Nigeria
+995,success,NGN,Nigeria
+996,success,USD,United Kingdom
+998,success,NGN,Nigeria
+999,success,NGN,Nigeria
+1002,success,NGN,Nigeria
+1003,failed,NGN,Nigeria
+1004,abandoned,NGN,United States
+1006,failed,NGN,Nigeria
+1007,success,NGN,United Kingdom
+1008,success,NGN,Nigeria
+1010,success,USD,United States
+1011,failed,NGN,Nigeria
+1012,success,NGN,Nigeria
+1014,success,NGN,Nigeria
+1016,failed,NGN,Nigeria
+1017,success,USD,United States
+1019,success,NGN,Nigeria
+1020,success,NGN,Nigeria
+1021,failed,USD,Nigeria
+1022,failed,NGN,Nigeria
+1023,success,NGN,Nigeria
+1025,success,USD,Kenya
+1026,abandoned,NGN,Nigeria
+1031,success,NGN,Nigeria
+1033,success,NGN,Nigeria
+1034,failed,USD,United States
+1035,success,NGN,Nigeria
+1037,success,NGN,Nigeria
+1041,success,USD,United Kingdom
+1042,reversed,NGN,Nigeria
+1044,failed,NGN,Nigeria
+1045,success,USD,United Kingdom
+1046,success,NGN,Nigeria
+1048,failed,USD,United Kingdom
+1049,failed,USD,United States
+1050,success,NGN,Nigeria
+1051,abandoned,USD,United States
+1052,success,NGN,Nigeria
+1053,success,NGN,Nigeria
+1054,success,NGN,Nigeria
+1056,failed,USD,United States
+1059,success,NGN,Nigeria
+1061,abandoned,USD,United States
+1062,success,NGN,Nigeria
+1063,success,NGN,United Kingdom
+1064,failed,NGN,Nigeria
+1066,success,NGN,Nigeria
+1068,success,NGN,Nigeria
+1070,success,NGN,Nigeria
+1071,abandoned,NGN,Nigeria
+1074,success,NGN,Nigeria
+1076,success,NGN,Nigeria
+1077,success,NGN,Nigeria
+1078,failed,USD,United States
+1080,success,USD,Nigeria
+1082,failed,NGN,Nigeria
+1084,success,NGN,Nigeria
+1085,success,NGN,Nigeria
+1088,success,USD,United States
+1089,success,NGN,Nigeria
+1090,failed,NGN,Nigeria
+1091,success,NGN,Nigeria
+1092,success,NGN,Nigeria
+1094,success,NGN,Nigeria
+1096,success,NGN,Nigeria
+1097,success,NGN,Nigeria
+1098,abandoned,USD,United States
+1100,success,NGN,Nigeria
+1101,reversed,NGN,Nigeria
+1102,failed,USD,Canada
+1103,success,NGN,Nigeria
+1104,success,NGN,Nigeria
+1106,success,NGN,Nigeria
+1107,success,NGN,Nigeria
+1108,failed,NGN,Canada
+1109,abandoned,NGN,Nigeria
+1110,success,NGN,Nigeria
+1117,success,NGN,Nigeria
+1118,abandoned,USD,United States
+1120,success,NGN,Nigeria
+1121,success,NGN,Nigeria
+1122,failed,NGN,Nigeria
+1124,success,USD,United Kingdom
+1125,failed,USD,United States
+1126,success,NGN,Nigeria
+1127,failed,NGN,Nigeria
+1128,success,NGN,Nigeria
+1130,abandoned,USD,Nigeria
+1134,success,NGN,Nigeria
+1136,success,NGN,Nigeria
+1138,success,NGN,Nigeria
+1139,success,NGN,Nigeria
+1141,success,NGN,Nigeria
+1143,success,NGN,Nigeria
+1146,success,NGN,Nigeria
+1147,success,USD,United Kingdom
+1148,abandoned,NGN,Nigeria
+1151,failed,NGN,Nigeria
+1152,success,NGN,Nigeria
+1154,success,NGN,Nigeria
+1155,success,NGN,Nigeria
+1156,failed,NGN,Nigeria
+1157,failed,USD,Nigeria
+1158,success,NGN,Nigeria
+1159,success,NGN,Nigeria
+1162,failed,NGN,Nigeria
+1163,success,USD,United Kingdom
+1164,success,NGN,Nigeria
+1166,success,NGN,Nigeria
+1167,success,NGN,Nigeria
+1168,failed,NGN,Nigeria
+1169,success,NGN,Nigeria
+1170,failed,NGN,Nigeria
+1171,success,NGN,Nigeria
+1172,abandoned,NGN,Nigeria
+1175,success,NGN,United States
+1177,success,NGN,Nigeria
+1179,failed,NGN,Nigeria
+1180,success,USD,United States
+1181,success,NGN,Nigeria
+1183,reversed,NGN,Nigeria
+1184,success,USD,United Kingdom
+1185,failed,NGN,Nigeria
+1186,failed,NGN,Nigeria
+1187,success,NGN,Nigeria
+1188,abandoned,NGN,Nigeria
+1189,reversed,USD,Ghana
+1190,success,NGN,Nigeria
+1191,success,NGN,Nigeria
+1192,success,NGN,Nigeria
+1193,success,NGN,Nigeria
+1194,failed,NGN,United States
+1195,success,NGN,Nigeria
+1196,success,USD,United Kingdom
+1202,success,NGN,Nigeria
+1203,reversed,NGN,Nigeria
+1205,failed,NGN,Nigeria
+1209,failed,NGN,Nigeria
+1210,failed,NGN,Nigeria
+1211,success,NGN,Nigeria
+1212,success,NGN,Nigeria
+1213,failed,USD,United States
+1214,reversed,NGN,Nigeria
+1216,success,NGN,Nigeria
+1217,success,NGN,Nigeria
+1218,success,NGN,Nigeria
+1219,success,NGN,Nigeria
+1221,success,NGN,Nigeria
+1224,failed,NGN,Nigeria
+1226,success,NGN,Nigeria
+1227,abandoned,NGN,Nigeria
+1228,success,NGN,Nigeria
+1230,success,NGN,Nigeria
+1231,success,NGN,Nigeria
+1232,success,USD,United States
+1233,success,USD,United States
+1234,success,NGN,Nigeria
+1235,success,NGN,Nigeria
+1236,reversed,NGN,United States
+1237,success,NGN,Nigeria
+1240,success,NGN,Nigeria
+1241,failed,USD,United States
+1243,success,NGN,Nigeria
+1244,success,USD,United States
+1245,abandoned,NGN,Nigeria
+1246,success,NGN,Nigeria
+1248,success,NGN,Nigeria
+1249,success,NGN,Nigeria
+1250,success,USD,United States
+1253,success,NGN,Nigeria
+1254,success,NGN,Nigeria
+1255,abandoned,NGN,Nigeria
+1256,failed,NGN,Nigeria
+1257,success,NGN,Nigeria
+1259,success,NGN,Nigeria
+1262,failed,NGN,Nigeria
+1267,failed,NGN,Nigeria
+1269,success,NGN,Nigeria
+1270,failed,USD,United States
+1271,success,NGN,Nigeria
+1272,abandoned,NGN,United States
+1274,failed,NGN,Nigeria
+1275,success,NGN,Nigeria
+1276,failed,NGN,Nigeria
+1277,success,USD,Kenya
+1278,abandoned,USD,Nigeria
+1279,failed,NGN,Nigeria
+1282,success,NGN,Nigeria
+1283,success,NGN,Nigeria
+1284,failed,NGN,Nigeria
+1285,abandoned,NGN,Nigeria
+1286,success,NGN,Nigeria
+1287,success,USD,United States
+1288,success,NGN,Nigeria
+1290,success,USD,United States
+1291,success,NGN,Nigeria
+1294,success,NGN,Nigeria
+1295,failed,NGN,Nigeria
+1298,failed,NGN,Nigeria
+1300,success,NGN,Nigeria
+1302,success,NGN,Nigeria
+1305,success,NGN,Nigeria
+1306,reversed,NGN,Nigeria
+1313,failed,NGN,Nigeria
+1316,abandoned,USD,United States
+1317,failed,NGN,Nigeria
+1318,success,USD,Nigeria
+1319,success,NGN,Nigeria
+1321,success,NGN,Nigeria
+1322,success,NGN,Nigeria
+1326,success,NGN,Nigeria
+1327,abandoned,NGN,Nigeria
+1329,success,NGN,Nigeria
+1330,success,NGN,Nigeria
+1331,success,NGN,Nigeria
+1334,reversed,NGN,Nigeria
+1335,success,NGN,Nigeria
+1337,success,NGN,Nigeria
+1338,success,NGN,Nigeria
+1340,abandoned,USD,United States
+1342,success,NGN,Nigeria
+1343,failed,NGN,Nigeria
+1345,failed,NGN,Nigeria
+1346,success,NGN,Nigeria
+1350,success,NGN,Nigeria
+1352,success,NGN,Nigeria
+1356,success,NGN,Nigeria
+1358,success,NGN,Nigeria
+1362,failed,NGN,Nigeria
+1363,success,NGN,Nigeria
+1364,success,NGN,Nigeria
+1365,failed,NGN,Nigeria
+1366,success,NGN,Nigeria
+1369,failed,NGN,Nigeria
+1370,success,NGN,Nigeria
+1371,success,USD,United States
+1372,success,NGN,Nigeria
+1374,failed,USD,United States
+1375,failed,NGN,Nigeria
+1376,success,NGN,Nigeria
+1377,success,NGN,Nigeria
+1378,success,NGN,Uganda
+1379,failed,NGN,Nigeria
+1380,success,NGN,Nigeria
+1383,success,NGN,Nigeria
+1384,abandoned,NGN,Nigeria
+1385,success,NGN,Nigeria
+1387,success,NGN,Nigeria
+1389,success,NGN,Nigeria
+1390,failed,USD,United States
+1392,success,USD,United States
+1394,success,NGN,Nigeria
+1395,success,NGN,Nigeria
+1397,abandoned,NGN,Nigeria
+1398,failed,USD,United States
+1399,failed,NGN,Nigeria
+1400,success,USD,United States
+1401,reversed,NGN,Nigeria
+1403,abandoned,NGN,Nigeria
+1404,success,USD,Kenya
+1407,failed,NGN,Nigeria
+1408,success,NGN,Nigeria
+1409,success,NGN,Nigeria
+1410,failed,NGN,Nigeria
+1414,success,NGN,Nigeria
+1415,failed,NGN,Nigeria
+1416,success,NGN,Nigeria
+1417,abandoned,NGN,Nigeria
+1419,abandoned,USD,United States
+1420,failed,USD,United States
+1422,abandoned,NGN,Nigeria
+1423,failed,NGN,Nigeria
+1424,success,NGN,Nigeria
+1426,reversed,NGN,Nigeria
+1428,success,NGN,United Kingdom
+1431,failed,NGN,Nigeria
+1432,abandoned,NGN,United Kingdom
+1433,reversed,NGN,Nigeria
+1434,success,NGN,Nigeria
+1435,success,NGN,Nigeria
+1440,success,NGN,Nigeria
+1441,success,NGN,Nigeria
+1442,failed,USD,United States
+1444,success,USD,Nigeria
+1446,success,NGN,Nigeria
+1448,success,NGN,Nigeria
+1449,success,USD,United Kingdom
+1450,success,NGN,Nigeria
+1451,failed,USD,United Kingdom
+1452,success,NGN,Nigeria
+1453,success,NGN,Nigeria
+1456,failed,NGN,Nigeria
+1457,success,USD,United Kingdom
+1458,success,NGN,Nigeria
+1460,success,USD,United Kingdom
+1461,success,NGN,Nigeria
+1463,success,NGN,Nigeria
+1464,success,NGN,Nigeria
+1466,failed,NGN,United States
+1468,success,NGN,Nigeria
+1469,failed,NGN,Nigeria
+1471,failed,NGN,United States
+1472,success,NGN,Nigeria
+1473,abandoned,USD,United Kingdom
+1475,success,NGN,Nigeria
+1476,success,NGN,Nigeria
+1478,success,NGN,Nigeria
+1479,reversed,NGN,Nigeria
+1481,success,NGN,Nigeria
+1482,success,NGN,Nigeria
+1484,success,NGN,Nigeria
+1485,failed,NGN,Nigeria
+1486,success,NGN,Nigeria
+1487,success,NGN,Nigeria
+1488,failed,USD,United States
+1490,success,NGN,Nigeria
+1491,success,NGN,Nigeria
+1493,failed,USD,United States
+1494,success,NGN,Nigeria
+1495,success,NGN,Nigeria
+1497,success,NGN,Nigeria
+1499,success,NGN,Nigeria
+1500,success,NGN,Nigeria
+1502,success,NGN,Nigeria
+1504,success,NGN,Nigeria
+1507,success,NGN,Nigeria
+1508,success,NGN,Nigeria
+1509,abandoned,NGN,Nigeria
+1510,abandoned,NGN,Nigeria
+1511,success,NGN,Nigeria
+1513,abandoned,NGN,Nigeria
+1514,success,NGN,Nigeria
+1515,success,NGN,Nigeria
+1516,success,NGN,Nigeria
+1517,success,NGN,Nigeria
+1518,success,NGN,Nigeria
+1519,success,USD,Kenya
+1520,success,NGN,Nigeria
+1521,failed,USD,Nigeria
+1522,success,NGN,Nigeria
+1523,success,NGN,Nigeria
+1524,success,NGN,Nigeria
+1525,failed,USD,United States
+1526,success,NGN,Nigeria
+1527,abandoned,NGN,Nigeria
+1530,failed,USD,Nigeria
+1532,success,USD,United Kingdom
+1533,success,NGN,Nigeria
+1535,abandoned,USD,United States
+1540,success,NGN,Nigeria
+1542,success,NGN,Nigeria
+1543,success,NGN,Nigeria
+1546,failed,NGN,Nigeria
+1548,success,NGN,Nigeria
+1549,success,NGN,Nigeria
+1551,abandoned,NGN,Nigeria
+1552,success,NGN,Nigeria
+1553,failed,NGN,Nigeria
+1554,reversed,NGN,Nigeria
+1556,success,NGN,Nigeria
+1558,success,NGN,Nigeria
+1559,success,NGN,Nigeria
+1560,success,NGN,Nigeria
+1561,failed,NGN,Nigeria
+1564,success,NGN,Nigeria
+1566,failed,USD,United Kingdom
+1567,success,NGN,Nigeria
+1569,failed,NGN,Nigeria
+1573,abandoned,USD,United States
+1574,success,NGN,Nigeria
+1575,success,NGN,Nigeria
+1576,failed,NGN,Nigeria
+1577,success,NGN,Nigeria
+1580,success,NGN,Nigeria
+1581,success,NGN,United Kingdom
+1583,failed,USD,canada
+1584,success,NGN,Nigeria
+1586,success,NGN,Nigeria
+1587,failed,NGN,Nigeria
+1588,success,NGN,Nigeria
+1589,success,NGN,Nigeria
+1591,reversed,NGN,Nigeria
+1592,failed,NGN,United Kingdom
+1596,success,NGN,Nigeria
+1597,success,NGN,Nigeria
+1598,success,NGN,Nigeria
+1599,abandoned,NGN,Nigeria
+1604,failed,NGN,Nigeria
+1605,success,NGN,Nigeria
+1606,success,NGN,Nigeria
+1607,success,NGN,Nigeria
+1608,success,NGN,Nigeria
+1613,success,NGN,Nigeria
+1614,success,NGN,Nigeria
+1615,success,NGN,Nigeria
+1616,success,NGN,Nigeria
+1617,abandoned,USD,United States
+1620,abandoned,USD,United States
+1621,abandoned,NGN,Nigeria
+1622,success,NGN,Nigeria
+1623,failed,NGN,Nigeria
+1625,success,NGN,Nigeria
+1626,failed,NGN,Nigeria
+1627,failed,USD,United Kingdom
+1631,failed,NGN,Nigeria
+1632,success,NGN,United Kingdom
+1633,success,NGN,Nigeria
+1634,failed,NGN,United States
+1639,success,NGN,Nigeria
+1640,abandoned,USD,Nigeria
+1641,success,NGN,Nigeria
+1642,success,NGN,United Kingdom
+1644,success,NGN,Nigeria
+1646,success,NGN,Nigeria
+1647,success,NGN,Nigeria
+1651,success,NGN,Nigeria
+1653,failed,NGN,United Kingdom
+1656,success,USD,United States
+1657,success,NGN,Nigeria
+1658,success,USD,United Kingdom
+1661,failed,NGN,Nigeria
+1662,abandoned,NGN,Nigeria
+1664,failed,NGN,Nigeria
+1666,success,NGN,Ireland
+1671,failed,USD,United States
+1674,success,NGN,Nigeria
+1677,abandoned,NGN,Nigeria
+1680,failed,NGN,Nigeria
+1681,success,NGN,Nigeria
+1682,success,NGN,Nigeria
+1684,success,NGN,Nigeria
+1685,failed,USD,United States
+1686,success,NGN,Nigeria
+1687,failed,NGN,Nigeria
+1688,success,USD,Nigeria
+1689,failed,NGN,Nigeria
+1690,success,NGN,Nigeria
+1692,abandoned,USD,United States
+1693,success,NGN,United States
+1694,success,NGN,Nigeria
+1695,failed,NGN,Nigeria
+1697,failed,NGN,United States
+1699,success,NGN,Nigeria
+1702,success,NGN,Nigeria
+1703,success,NGN,Nigeria
+1704,success,NGN,Nigeria
+1705,success,NGN,Nigeria
+1706,success,NGN,Nigeria
+1707,success,NGN,Nigeria
+1708,success,USD,United Arab Emirate
+1710,success,NGN,Nigeria
+1711,success,NGN,Nigeria
+1712,success,NGN,Nigeria
+1714,abandoned,NGN,Nigeria
+1715,success,NGN,Nigeria
+1716,failed,NGN,Nigeria
+1717,success,USD,United Kingdom
+1718,success,NGN,Nigeria
+1719,failed,USD,Nigeria
+1721,failed,NGN,Nigeria
+1722,success,NGN,Nigeria
+1723,failed,NGN,Nigeria
+1724,success,NGN,Nigeria
+1725,success,NGN,Nigeria
+1727,success,NGN,Nigeria
+1729,failed,USD,Nigeria
+1730,success,USD,United Kingdom
+1733,success,USD,Poland
+1736,failed,NGN,Nigeria
+1738,success,NGN,Nigeria
+1739,success,NGN,Nigeria
+1740,failed,NGN,United States
+1746,success,NGN,Nigeria
+1748,success,NGN,Nigeria
+1749,success,NGN,Nigeria
+1751,success,NGN,Nigeria
+1752,success,NGN,Nigeria
+1753,success,NGN,Nigeria
+1754,reversed,NGN,Nigeria
+1756,success,NGN,Nigeria
+1758,success,NGN,Nigeria
+1761,success,NGN,Nigeria
+1762,abandoned,NGN,Nigeria
+1763,success,USD,United States
+1764,success,USD,United States
+1765,failed,NGN,Nigeria
+1770,success,NGN,Nigeria
+1772,success,USD,United States
+1773,failed,USD,United Kingdom
+1774,failed,NGN,Nigeria
+1777,success,NGN,Nigeria
+1778,success,NGN,Nigeria
+1779,success,NGN,Nigeria
+1781,success,NGN,Nigeria
+1782,abandoned,NGN,Nigeria
+1784,failed,USD,Bangladesh
+1785,success,NGN,Nigeria
+1786,abandoned,NGN,Nigeria
+1788,success,NGN,Nigeria
+1789,success,NGN,Nigeria
+1790,success,NGN,Nigeria
+1791,success,NGN,Nigeria
+1792,abandoned,NGN,Nigeria
+1793,success,NGN,Nigeria
+1794,success,NGN,Nigeria
+1795,success,NGN,Nigeria
+1796,failed,NGN,Nigeria
+1799,success,NGN,Nigeria
+1802,success,NGN,Nigeria
+1803,success,NGN,United Kingdom
+1804,success,NGN,Nigeria
+1805,abandoned,NGN,Nigeria
+1806,success,USD,United Kingdom
+1808,failed,NGN,Nigeria
+1809,failed,USD,United States
+1811,success,NGN,Nigeria
+1813,success,NGN,Nigeria
+1817,success,NGN,Nigeria
+1818,success,NGN,Nigeria
+1822,failed,NGN,United Kingdom
+1823,failed,USD,United States
+1825,failed,NGN,United Kingdom
+1826,abandoned,USD,United States
+1829,success,NGN,Nigeria
+1830,abandoned,NGN,United Kingdom
+1831,failed,NGN,Nigeria
+1832,success,NGN,Nigeria
+1833,failed,NGN,Nigeria
+1836,success,NGN,Nigeria
+1840,success,NGN,Nigeria
+1842,success,NGN,Nigeria
+1843,success,NGN,Nigeria
+1844,reversed,NGN,Uganda
+1845,abandoned,USD,United States
+1846,success,USD,United Kingdom
+1848,abandoned,NGN,Nigeria
+1849,success,NGN,Nigeria
+1850,success,NGN,Nigeria
+1853,success,NGN,Nigeria
+1854,success,NGN,Nigeria
+1855,success,NGN,Nigeria
+1856,success,NGN,Nigeria
+1858,success,NGN,Nigeria
+1860,success,NGN,Nigeria
+1862,success,NGN,Nigeria
+1863,success,NGN,Nigeria
+1864,success,NGN,Nigeria
+1865,success,NGN,Nigeria
+1866,success,NGN,Nigeria
+1869,success,NGN,Nigeria
+1871,failed,NGN,Nigeria
+1872,failed,NGN,Nigeria
+1873,success,NGN,Nigeria
+1874,success,NGN,Nigeria
+1875,success,NGN,Nigeria
+1876,success,USD,United States
+1877,success,NGN,Nigeria
+1879,failed,NGN,Nigeria
+1880,failed,NGN,Nigeria
+1882,failed,NGN,Nigeria
+1883,success,NGN,Nigeria
+1884,success,NGN,Nigeria
+1885,success,NGN,Nigeria
+1888,failed,NGN,Nigeria
+1890,success,NGN,Nigeria
+1893,success,NGN,Nigeria
+1894,failed,NGN,Nigeria
+1897,abandoned,USD,Japan
+1898,success,NGN,Nigeria
+1899,success,NGN,Nigeria
+1900,success,NGN,Nigeria
+1902,success,NGN,Nigeria
+1903,success,NGN,Nigeria
+1904,success,NGN,Nigeria
+1905,success,USD,United States
+1906,failed,NGN,Nigeria
+1907,failed,NGN,United States
+1909,failed,USD,United States
+1910,success,NGN,Nigeria
+1912,abandoned,NGN,Nigeria
+1913,success,NGN,Norway
+1914,reversed,NGN,Nigeria
+1917,success,NGN,Nigeria
+1920,success,NGN,Nigeria
+1921,success,NGN,United States
+1923,success,USD,United Kingdom
+1924,failed,NGN,Nigeria
+1929,success,NGN,Ghana
+1930,failed,NGN,Nigeria
+1931,failed,NGN,Nigeria
+1932,success,NGN,Nigeria
+1935,abandoned,NGN,Nigeria
+1936,success,NGN,Nigeria
+1938,success,NGN,Nigeria
+1939,success,NGN,Nigeria
+1940,success,NGN,Nigeria
+1941,success,NGN,Nigeria
+1944,success,NGN,Nigeria
+1947,success,NGN,Nigeria
+1949,failed,NGN,Nigeria
+1950,success,NGN,Nigeria
+1951,success,NGN,Nigeria
+1952,success,NGN,Nigeria
+1954,success,NGN,Nigeria
+1956,success,NGN,Nigeria
+1957,success,NGN,Nigeria
+1958,success,NGN,Nigeria
+1961,success,NGN,Nigeria
+1962,success,NGN,Nigeria
+1963,success,NGN,Nigeria
+1965,success,NGN,Nigeria
+1968,failed,NGN,canada
+1969,success,NGN,Nigeria
+1970,success,NGN,Nigeria
+1971,success,NGN,Nigeria
+1973,failed,NGN,Nigeria
+1974,failed,USD,United States
+1975,success,NGN,Nigeria
+1977,failed,NGN,Nigeria
+1978,success,NGN,Nigeria
+1979,abandoned,NGN,Nigeria
+1980,failed,NGN,Nigeria
+1982,failed,USD,United States
+1984,success,USD,United States
+1986,success,NGN,Nigeria
+1987,failed,NGN,Nigeria
+1988,failed,NGN,Nigeria
+1990,abandoned,NGN,Nigeria
+1993,success,NGN,Nigeria
+1994,failed,NGN,Nigeria
+1995,success,NGN,Nigeria
+1996,success,NGN,Nigeria
+1997,failed,USD,United States
+1998,success,NGN,Nigeria
+1999,success,NGN,Nigeria
+2001,success,NGN,Nigeria
+2002,success,NGN,Nigeria
+2003,success,NGN,Nigeria
+2004,success,NGN,Nigeria
+2005,success,NGN,Nigeria
+2006,failed,NGN,Nigeria
+2007,success,NGN,United States
+2009,failed,NGN,Nigeria
+2011,abandoned,NGN,Nigeria
+2012,success,NGN,Nigeria
+2014,success,NGN,Nigeria
+2016,success,NGN,Nigeria
+2017,success,NGN,Nigeria
+2018,success,NGN,Nigeria
+2019,success,NGN,Nigeria
+2021,failed,NGN,Nigeria
+2023,failed,NGN,Nigeria
+2025,success,NGN,Nigeria
+2026,success,NGN,Nigeria
+2027,success,NGN,Nigeria
+2028,success,NGN,Nigeria
+2029,success,NGN,Nigeria
+2032,success,NGN,Nigeria
+2034,success,NGN,Nigeria
+2035,success,NGN,Nigeria
+2036,success,NGN,Nigeria
+2037,success,NGN,Nigeria
+2038,success,USD,Nigeria
+2040,success,NGN,Nigeria
+2044,success,NGN,Nigeria
+2045,failed,NGN,Nigeria
+2046,success,NGN,Nigeria
+2054,failed,USD,United States
+2055,failed,NGN,United States
+2061,success,NGN,Nigeria
+2062,abandoned,NGN,Nigeria
+2064,success,NGN,Nigeria
+2065,failed,NGN,Nigeria
+2066,failed,NGN,Nigeria
+2067,success,NGN,Nigeria
+2068,failed,NGN,Nigeria
+2070,success,NGN,Nigeria
+2074,success,NGN,Nigeria
+2075,success,NGN,Nigeria
+2076,failed,NGN,Nigeria
+2080,success,NGN,Nigeria
+2082,success,NGN,Nigeria
+2086,success,NGN,Nigeria
+2088,success,NGN,Nigeria
+2089,success,NGN,Nigeria
+2091,success,NGN,Nigeria
+2092,success,NGN,Nigeria
+2094,success,NGN,Nigeria
+2095,success,NGN,Nigeria
+2096,failed,NGN,Nigeria
+2097,success,NGN,Nigeria
+2098,failed,NGN,Nigeria
+2099,failed,NGN,Nigeria
+2101,success,NGN,Nigeria
+2102,failed,USD,Nigeria
+2104,success,USD,United States
+2105,success,NGN,Nigeria
+2106,success,NGN,Nigeria
+2108,failed,NGN,Nigeria
+2114,failed,NGN,Nigeria
+2116,success,USD,United Kingdom
+2117,success,NGN,Nigeria
+2118,failed,NGN,Nigeria
+2119,success,NGN,Nigeria
+2121,success,NGN,Nigeria
+2122,success,NGN,Nigeria
+2124,failed,USD,United States
+2125,success,NGN,Nigeria
+2126,abandoned,USD,United States
+2128,success,NGN,Uganda
+2131,abandoned,NGN,Nigeria
+2132,abandoned,NGN,Nigeria
+2133,success,NGN,Nigeria
+2134,success,NGN,Nigeria
+2135,failed,NGN,United Kingdom
+2138,abandoned,NGN,Nigeria
+2139,success,NGN,Nigeria
+2140,success,NGN,Nigeria
+2142,success,NGN,Nigeria
+2143,success,NGN,Nigeria
+2144,failed,USD,United States
+2148,success,NGN,Nigeria
+2149,success,NGN,Nigeria
+2150,success,NGN,Nigeria
+2152,abandoned,NGN,Nigeria
+2154,failed,USD,United States
+2155,success,USD,Kenya
+2157,success,NGN,Nigeria
+2159,failed,NGN,United States
+2161,success,NGN,Nigeria
+2162,success,NGN,Nigeria
+2165,failed,NGN,United Kingdom
+2166,success,NGN,Nigeria
+2167,success,NGN,Nigeria
+2168,success,NGN,Nigeria
+2170,success,NGN,United Kingdom
+2171,success,NGN,Nigeria
+2175,success,NGN,Nigeria
+2176,success,NGN,Nigeria
+2177,success,NGN,Nigeria
+2178,success,NGN,Nigeria
+2179,failed,NGN,Nigeria
+2180,success,NGN,Nigeria
+2181,success,NGN,Nigeria
+2182,success,NGN,Nigeria
+2183,failed,NGN,Nigeria
+2186,success,NGN,Nigeria
+2187,success,NGN,Canada
+2189,success,NGN,Nigeria
+2191,success,NGN,Nigeria
+2192,failed,USD,United States
+2194,failed,NGN,Nigeria
+2196,success,NGN,Nigeria
+2200,success,NGN,Nigeria
+2201,success,NGN,Nigeria
+2203,success,NGN,Nigeria
+2204,failed,NGN,Nigeria
+2207,success,NGN,Nigeria
+2208,success,NGN,Nigeria
+2210,success,NGN,Nigeria
+2212,success,NGN,Nigeria
+2213,success,NGN,Nigeria
+2215,success,NGN,Nigeria
+2217,success,NGN,Nigeria
+2219,success,NGN,Nigeria
+2220,success,NGN,Nigeria
+2222,success,NGN,Nigeria
+2225,reversed,NGN,Nigeria
+2226,success,NGN,Nigeria
+2228,success,NGN,Nigeria
+2229,success,NGN,Nigeria
+2232,success,USD,United States
+2233,success,USD,United States
+2235,abandoned,USD,United States
+2236,failed,NGN,Nigeria
+2238,success,NGN,Nigeria
+2239,success,NGN,Nigeria
+2243,success,NGN,Ghana
+2246,success,NGN,Nigeria
+2247,success,NGN,Nigeria
+2248,failed,NGN,Nigeria
+2249,success,NGN,Nigeria
+2250,success,NGN,Nigeria
+2252,success,NGN,Nigeria
+2253,abandoned,USD,United States
+2254,failed,USD,Canada
+2255,abandoned,USD,United States
+2256,success,NGN,Nigeria
+2257,success,NGN,Nigeria
+2258,success,NGN,Nigeria
+2259,success,NGN,Nigeria
+2260,success,NGN,Nigeria
+2261,success,NGN,Nigeria
+2262,success,NGN,Nigeria
+2264,reversed,NGN,Nigeria
+2266,success,NGN,Nigeria
+2267,success,NGN,Nigeria
+2268,success,NGN,Nigeria
+2269,success,USD,United States
+2270,success,NGN,Nigeria
+2273,success,NGN,Nigeria
+2276,success,NGN,Nigeria
+2278,success,NGN,Nigeria
+2280,success,NGN,Nigeria
+2284,success,NGN,Nigeria
+2285,success,NGN,Nigeria
+2286,reversed,NGN,Nigeria
+2287,success,NGN,Nigeria
+2289,failed,NGN,Nigeria
+2292,failed,NGN,United States
+2297,success,NGN,Nigeria
+2299,failed,NGN,Nigeria
+2300,success,NGN,Nigeria
+2301,success,USD,United States
+2302,success,NGN,Nigeria
+2304,abandoned,USD,Nigeria
+2305,failed,NGN,Nigeria
+2306,success,NGN,Nigeria
+2307,failed,NGN,Nigeria
+2309,success,NGN,Nigeria
+2310,success,NGN,Nigeria
+2311,failed,NGN,Nigeria
+2314,failed,NGN,United States
+2315,failed,NGN,Nigeria
+2316,success,NGN,Nigeria
+2317,failed,NGN,Nigeria
+2318,success,NGN,Nigeria
+2319,success,NGN,Nigeria
+2320,failed,NGN,Nigeria
+2321,failed,NGN,Nigeria
+2324,success,NGN,Nigeria
+2325,success,USD,United Kingdom
+2327,success,NGN,Nigeria
+2328,abandoned,NGN,Nigeria
+2329,success,NGN,Nigeria
+2330,success,NGN,Nigeria
+2333,failed,NGN,Nigeria
+2336,success,NGN,Nigeria
+2337,success,NGN,Nigeria
+2338,failed,NGN,Nigeria
+2339,success,NGN,Nigeria
+2340,success,NGN,Nigeria
+2341,success,NGN,United Kingdom
+2342,success,NGN,Nigeria
+2343,abandoned,USD,United States
+2344,success,NGN,Nigeria
+2345,success,NGN,Nigeria
+2346,success,NGN,Nigeria
+2348,success,USD,United States
+2349,abandoned,USD,United States
+2350,success,NGN,Nigeria
+2351,abandoned,NGN,Nigeria
+2353,success,NGN,Nigeria
+2355,success,NGN,Nigeria
+2356,success,USD,Japan
+2357,abandoned,NGN,Nigeria
+2361,failed,USD,United Kingdom
+2362,success,NGN,Nigeria
+2363,success,NGN,Nigeria
+2364,success,NGN,Nigeria
+2366,success,NGN,Nigeria
+2369,success,NGN,Nigeria
+2371,failed,NGN,Nigeria
+2373,abandoned,USD,Canada
+2375,success,NGN,Nigeria
+2376,failed,NGN,Nigeria
+2377,success,NGN,Nigeria
+2378,abandoned,NGN,Nigeria
+2380,abandoned,NGN,United Kingdom
+2383,failed,NGN,Nigeria
+2384,reversed,NGN,Nigeria
+2385,success,NGN,Nigeria
+2386,failed,NGN,Nigeria
+2387,success,NGN,Nigeria
+2388,success,NGN,Nigeria
+2389,abandoned,NGN,Nigeria
+2390,success,NGN,Nigeria
+2391,success,USD,United States
+2392,success,NGN,Nigeria
+2393,success,USD,Qatar
+2395,success,NGN,Nigeria
+2396,failed,NGN,Nigeria
+2399,success,NGN,Nigeria
+2400,success,NGN,Nigeria
+2402,success,NGN,Nigeria
+2403,failed,NGN,Nigeria
+2404,success,NGN,Nigeria
+2405,success,NGN,Nigeria
+2407,success,NGN,Nigeria
+2410,failed,USD,United States
+2411,success,NGN,Nigeria
+2413,abandoned,NGN,South Africa
+2415,abandoned,USD,United States
+2416,success,NGN,Nigeria
+2420,success,NGN,United States
+2424,success,USD,United Kingdom
+2427,success,NGN,Nigeria
+2428,failed,NGN,Canada
+2433,abandoned,USD,United States
+2436,success,USD,United Kingdom
+2438,success,NGN,Nigeria
+2439,success,NGN,Nigeria
+2440,success,NGN,Nigeria
+2441,success,NGN,Nigeria
+2442,failed,NGN,Nigeria
+2443,success,NGN,Nigeria
+2444,success,NGN,Nigeria
+2448,success,USD,United States
+2449,success,NGN,Nigeria
+2450,success,NGN,Nigeria
+2455,success,NGN,Nigeria
+2456,failed,USD,United States
+2458,failed,USD,Nigeria
+2459,success,NGN,Nigeria
+2461,failed,NGN,Nigeria
+2463,failed,NGN,Nigeria
+2464,failed,NGN,Nigeria
+2465,success,NGN,Nigeria
+2466,success,NGN,Nigeria
+2468,abandoned,NGN,Nigeria
+2470,success,NGN,Nigeria
+2471,success,NGN,Nigeria
+2472,success,NGN,Nigeria
+2473,success,NGN,Nigeria
+2476,success,NGN,Nigeria
+2477,success,USD,United States
+2478,success,NGN,Nigeria
+2479,success,NGN,Nigeria
+2484,success,USD,United States
+2485,success,NGN,Nigeria
+2486,success,NGN,Nigeria
+2489,failed,NGN,Nigeria
+2492,failed,NGN,Nigeria
+2493,success,NGN,Nigeria
+2494,success,NGN,Nigeria
+2495,success,USD,United Kingdom
+2498,failed,NGN,United States
+2499,success,NGN,Nigeria
+2500,abandoned,NGN,Nigeria
+2501,success,NGN,Nigeria
+2502,success,NGN,Nigeria
+2505,failed,NGN,Nigeria
+2506,success,NGN,Nigeria
+2507,success,NGN,Nigeria
+2508,success,NGN,Nigeria
+2509,success,NGN,Nigeria
+2511,abandoned,NGN,United States
+2512,failed,NGN,Nigeria
+2516,success,NGN,Nigeria
+2518,success,USD,United States
+2520,success,NGN,Nigeria
+2521,success,NGN,Nigeria
+2522,success,NGN,Nigeria
+2524,abandoned,USD,United States
+2526,failed,NGN,Nigeria
+2527,failed,NGN,Nigeria
+2529,success,NGN,Nigeria
+2530,success,NGN,Nigeria
+2533,success,NGN,Nigeria
+2534,failed,NGN,Nigeria
+2535,success,NGN,Nigeria
+2536,failed,USD,United States
+2538,success,NGN,Nigeria
+2539,failed,NGN,Nigeria
+2540,success,NGN,Nigeria
+2541,failed,NGN,Nigeria
+2542,success,NGN,Nigeria
+2543,success,NGN,Nigeria
+2544,success,NGN,Nigeria
+2545,success,NGN,Nigeria
+2546,success,NGN,Nigeria
+2548,abandoned,NGN,Nigeria
+2549,failed,NGN,Nigeria
+2550,success,USD,United Kingdom
+2552,success,NGN,Nigeria
+2554,failed,NGN,Nigeria
+2556,success,NGN,Nigeria
+2557,success,NGN,Nigeria
+2558,success,NGN,United States
+2559,success,NGN,Nigeria
+2562,failed,NGN,United States
+2563,success,NGN,Nigeria
+2564,failed,NGN,Nigeria
+2565,abandoned,NGN,Nigeria
+2566,success,NGN,Nigeria
+2567,success,NGN,Nigeria
+2570,failed,NGN,Nigeria
+2571,reversed,USD,United Kingdom
+2572,failed,NGN,Nigeria
+2573,success,NGN,Nigeria
+2574,success,NGN,Nigeria
+2575,success,NGN,Nigeria
+2577,success,NGN,Nigeria
+2580,success,NGN,Nigeria
+2581,success,NGN,Nigeria
+2582,success,NGN,United Kingdom
+2583,success,NGN,Nigeria
+2585,success,NGN,Nigeria
+2586,success,USD,Canada
+2587,failed,NGN,Nigeria
+2588,success,NGN,Nigeria
+2589,abandoned,USD,United Kingdom
+2590,success,NGN,Nigeria
+2592,success,NGN,Nigeria
+2593,success,NGN,Nigeria
+2596,success,NGN,Nigeria
+2598,success,NGN,Nigeria
+2600,success,NGN,Nigeria
+2602,success,NGN,Nigeria
+2603,success,NGN,Nigeria
+2606,success,USD,United States
+2607,success,NGN,Nigeria
+2609,success,NGN,Nigeria
+2610,failed,NGN,Nigeria
+2613,failed,NGN,Nigeria
+2614,success,NGN,Nigeria
+2616,failed,NGN,United States
+2617,success,NGN,Nigeria
+2619,failed,NGN,Nigeria
+2620,success,NGN,Nigeria
+2624,success,NGN,Nigeria
+2625,success,NGN,Nigeria
+2631,success,NGN,Nigeria
+2632,success,NGN,Nigeria
+2634,success,NGN,Nigeria
+2635,failed,NGN,Nigeria
+2636,success,NGN,Nigeria
+2637,abandoned,NGN,Nigeria
+2641,success,NGN,Nigeria
+2642,success,NGN,Nigeria
+2643,success,NGN,Nigeria
+2647,failed,USD,United States
+2650,success,NGN,Nigeria
+2652,success,NGN,Nigeria
+2655,success,NGN,Nigeria
+2658,failed,NGN,Nigeria
+2659,failed,NGN,Nigeria
+2660,success,NGN,Nigeria
+2663,success,NGN,Nigeria
+2664,success,NGN,Canada
+2666,success,NGN,United Kingdom
+2667,failed,NGN,Nigeria
+2668,success,NGN,Nigeria
+2670,success,NGN,Nigeria
+2672,success,NGN,Nigeria
+2673,success,NGN,Nigeria
+2674,success,USD,United Kingdom
+2675,success,NGN,Nigeria
+2677,success,USD,United States
+2680,failed,NGN,Nigeria
+2682,success,NGN,Nigeria
+2683,success,NGN,Nigeria
+2685,success,NGN,Nigeria
+2687,success,NGN,Nigeria
+2692,failed,NGN,Nigeria
+2694,success,USD,Nigeria
+2695,success,NGN,Nigeria
+2698,failed,NGN,Nigeria
+2699,success,NGN,Nigeria
+2700,failed,NGN,Nigeria
+2701,success,NGN,Nigeria
+2702,success,NGN,Nigeria
+2703,success,NGN,Nigeria
+2704,success,NGN,Nigeria
+2705,success,NGN,Nigeria
+2707,failed,NGN,Nigeria
+2708,abandoned,NGN,Nigeria
+2709,failed,USD,Nigeria
+2710,success,NGN,United Kingdom
+2711,success,NGN,Nigeria
+2712,success,NGN,Nigeria
+2713,success,NGN,Nigeria
+2714,success,NGN,Nigeria
+2715,success,NGN,Nigeria
+2716,success,NGN,Nigeria
+2718,abandoned,USD,Canada
+2719,failed,NGN,Nigeria
+2720,success,NGN,Nigeria
+2721,success,USD,United States
+2722,success,NGN,Nigeria
+2725,success,NGN,Nigeria
+2727,success,NGN,Nigeria
+2729,failed,USD,Nigeria
+2731,success,NGN,Nigeria
+2733,success,NGN,Nigeria
+2734,failed,NGN,Nigeria
+2737,abandoned,NGN,Nigeria
+2739,success,NGN,Nigeria
+2741,abandoned,NGN,Nigeria
+2742,reversed,NGN,Nigeria
+2743,success,NGN,Nigeria
+2744,failed,USD,United States
+2747,success,NGN,Nigeria
+2748,success,NGN,Nigeria
+2749,failed,USD,Cayman Islands
+2750,success,NGN,Nigeria
+2752,success,USD,United Kingdom
+2753,success,USD,Ireland
+2758,failed,NGN,United States
+2759,failed,NGN,Nigeria
+2762,success,NGN,Nigeria
+2763,success,NGN,Nigeria
+2764,success,NGN,Nigeria
+2765,success,NGN,Nigeria
+2767,success,USD,United Kingdom
+2768,success,NGN,Nigeria
+2769,reversed,NGN,Nigeria
+2773,success,NGN,Nigeria
+2774,success,NGN,Nigeria
+2775,success,NGN,Nigeria
+2776,success,NGN,Nigeria
+2777,reversed,NGN,Nigeria
+2779,success,NGN,Nigeria
+2780,failed,NGN,Nigeria
+2782,success,NGN,Nigeria
+2783,success,NGN,Nigeria
+2788,success,NGN,Nigeria
+2789,abandoned,NGN,Nigeria
+2791,success,NGN,Nigeria
+2792,success,NGN,Nigeria
+2795,failed,NGN,Nigeria
+2796,success,NGN,Nigeria
+2799,success,NGN,Nigeria
+2800,success,USD,Nigeria
+2801,success,NGN,Nigeria
+2803,success,NGN,Nigeria
+2805,success,NGN,Nigeria
+2807,success,NGN,Ireland
+2808,success,NGN,Nigeria
+2809,success,NGN,Nigeria
+2810,failed,NGN,Nigeria
+2811,success,NGN,Nigeria
+2812,success,NGN,Nigeria
+2813,success,NGN,Nigeria
+2814,success,NGN,Nigeria
+2815,success,NGN,Nigeria
+2818,failed,USD,United States
+2820,failed,USD,United States
+2821,success,NGN,Nigeria
+2822,failed,NGN,United Kingdom
+2823,success,NGN,Nigeria
+2825,success,NGN,Nigeria
+2826,failed,NGN,Nigeria
+2827,abandoned,USD,Bangladesh
+2829,success,NGN,France
+2831,success,NGN,United Kingdom
+2832,failed,NGN,Nigeria
+2836,success,USD,United States
+2837,failed,NGN,Nigeria
+2841,success,NGN,Nigeria
+2844,success,NGN,Nigeria
+2845,abandoned,USD,United States
+2847,failed,NGN,Nigeria
+2848,failed,NGN,Nigeria
+2849,success,NGN,Nigeria
+2850,success,NGN,Nigeria
+2852,failed,NGN,United Kingdom
+2853,success,NGN,Nigeria
+2854,success,NGN,Nigeria
+2855,success,NGN,Nigeria
+2856,success,NGN,Nigeria
+2857,success,USD,United Arab Emirate
+2858,success,NGN,Nigeria
+2859,abandoned,NGN,Nigeria
+2861,success,NGN,Nigeria
+2862,success,NGN,Nigeria
+2863,success,NGN,Nigeria
+2864,reversed,NGN,Nigeria
+2867,success,NGN,Nigeria
+2868,success,NGN,Nigeria
+2869,success,NGN,Nigeria
+2872,success,NGN,United States
+2874,success,NGN,Nigeria
+2879,success,NGN,Nigeria
+2880,success,NGN,Canada
+2882,success,NGN,Nigeria
+2883,success,NGN,Nigeria
+2886,failed,NGN,Nigeria
+2887,success,NGN,Nigeria
+2888,success,USD,United States
+2891,success,USD,Canada
+2892,failed,NGN,Nigeria
+2896,success,NGN,Nigeria
+2897,failed,NGN,Nigeria
+2898,failed,NGN,Nigeria
+2899,success,NGN,Nigeria
+2901,success,NGN,Nigeria
+2902,success,NGN,Nigeria
+2904,success,NGN,Nigeria
+2905,failed,USD,Nigeria
+2906,success,NGN,Nigeria
+2907,success,NGN,Nigeria
+2908,success,NGN,Nigeria
+2911,success,NGN,Nigeria
+2912,success,NGN,Nigeria
+2914,success,NGN,Nigeria
+2915,abandoned,NGN,Nigeria
+2916,success,NGN,Nigeria
+2919,success,USD,United Kingdom
+2920,success,NGN,Nigeria
+2924,success,NGN,Nigeria
+2925,failed,NGN,Nigeria
+2927,failed,USD,United Kingdom
+2931,success,NGN,Nigeria
+2936,success,NGN,Nigeria
+2937,failed,NGN,United States
+2940,success,NGN,Nigeria
+2941,success,NGN,Nigeria
+2942,success,NGN,Nigeria
+2946,success,NGN,Nigeria
+2947,success,NGN,Nigeria
+2950,failed,NGN,Nigeria
+2951,success,NGN,Nigeria
+2953,success,USD,United States
+2955,success,NGN,Nigeria
+2956,failed,NGN,Nigeria
+2957,success,NGN,Nigeria
+2958,success,NGN,United States
+2959,success,USD,United States
+2961,success,NGN,Nigeria
+2966,failed,NGN,Nigeria
+2967,success,NGN,Nigeria
+2968,failed,USD,United States
+2969,success,NGN,Nigeria
+2970,success,NGN,Nigeria
+2974,success,NGN,Nigeria
+2978,success,NGN,Nigeria
+2981,reversed,NGN,United Kingdom
+2982,success,NGN,Nigeria
+2983,success,NGN,Nigeria
+2984,abandoned,NGN,Nigeria
+2986,success,USD,United States
+2987,failed,NGN,Nigeria
+2988,failed,NGN,Nigeria
+2990,success,NGN,Nigeria
+2992,failed,NGN,Nigeria
+2993,success,NGN,Nigeria
+2994,abandoned,NGN,Nigeria
+2995,reversed,NGN,Nigeria
+2996,success,NGN,Nigeria
+2998,success,NGN,Nigeria
+2999,success,USD,United Kingdom
+3000,reversed,NGN,Nigeria
+3001,success,NGN,Nigeria
+3004,success,NGN,Nigeria
+3006,abandoned,NGN,Nigeria
+3007,success,NGN,Nigeria
+3008,success,NGN,Nigeria
+3010,success,NGN,Nigeria
+3011,failed,USD,United States
+3012,reversed,NGN,Nigeria
+3014,failed,USD,United States
+3016,success,NGN,Nigeria
+3019,success,NGN,Nigeria
+3021,success,NGN,Nigeria
+3024,success,NGN,Nigeria
+3025,abandoned,NGN,Nigeria
+3026,success,NGN,Nigeria
+3027,reversed,NGN,Nigeria
+3029,success,NGN,Nigeria
+3032,success,NGN,Nigeria
+3036,success,NGN,Nigeria
+3037,success,NGN,Nigeria
+3039,success,NGN,Nigeria
+3041,success,NGN,Nigeria
+3042,success,NGN,Nigeria
+3043,success,NGN,Nigeria
+3044,success,NGN,Nigeria
+3045,success,NGN,Nigeria
+3047,success,NGN,Nigeria
+3049,success,NGN,Nigeria
+3050,success,NGN,Nigeria
+3051,failed,NGN,Nigeria
+3052,success,NGN,Nigeria
+3053,success,NGN,Nigeria
+3056,success,NGN,Nigeria
+3063,success,USD,United States
+3065,success,NGN,Nigeria
+3066,success,NGN,Nigeria
+3068,success,NGN,Nigeria
+3069,success,NGN,Nigeria
+3071,success,NGN,United Kingdom
+3073,failed,NGN,Nigeria
+3074,abandoned,NGN,Nigeria
+3078,success,NGN,Nigeria
+3079,success,NGN,Nigeria
+3080,success,NGN,Nigeria
+3082,success,NGN,Nigeria
+3083,failed,NGN,United States
+3084,abandoned,NGN,Nigeria
+3087,failed,USD,Canada
+3088,success,NGN,Nigeria
+3089,success,NGN,Nigeria
+3090,success,NGN,Nigeria
+3091,success,NGN,Nigeria
+3095,failed,USD,United States
+3096,failed,NGN,Nigeria
+3098,abandoned,USD,United States
+3100,abandoned,NGN,Nigeria
+3101,success,NGN,Nigeria
+3102,success,NGN,Nigeria
+3104,success,NGN,Nigeria
+3105,success,NGN,Nigeria
+3106,abandoned,NGN,Nigeria
+3107,success,NGN,Nigeria
+3110,failed,NGN,Nigeria
+3113,success,NGN,Nigeria
+3114,abandoned,NGN,Nigeria
+3115,success,NGN,Nigeria
+3116,success,NGN,Nigeria
+3118,success,NGN,Nigeria
+3119,success,NGN,Nigeria
+3122,success,NGN,United Kingdom
+3123,success,NGN,Nigeria
+3124,success,NGN,Nigeria
+3125,success,NGN,Nigeria
+3127,success,NGN,Nigeria
+3128,success,USD,United States
+3130,success,NGN,Nigeria
+3135,failed,NGN,United States
+3136,success,NGN,Nigeria
+3138,success,NGN,Nigeria
+3139,success,NGN,Nigeria
+3141,failed,NGN,Nigeria
+3143,failed,NGN,Nigeria
+3144,success,NGN,Nigeria
+3145,success,NGN,Nigeria
+3147,success,NGN,Nigeria
+3148,success,NGN,Nigeria
+3149,success,NGN,Nigeria
+3150,success,NGN,Nigeria
+3154,success,NGN,Nigeria
+3157,success,NGN,Nigeria
+3158,abandoned,NGN,Nigeria
+3159,abandoned,USD,United States
+3160,failed,NGN,Nigeria
+3162,success,NGN,Nigeria
+3163,success,NGN,Nigeria
+3165,success,NGN,Nigeria
+3167,success,USD,Ireland
+3169,failed,NGN,Nigeria
+3170,abandoned,NGN,Nigeria
+3171,success,NGN,Nigeria
+3173,failed,NGN,Nigeria
+3176,success,NGN,Nigeria
+3180,failed,NGN,Nigeria
+3181,success,NGN,Nigeria
+3182,success,NGN,Nigeria
+3183,success,NGN,Nigeria
+3188,success,NGN,Nigeria
+3189,failed,USD,United States
+3190,failed,NGN,Nigeria
+3192,success,NGN,Nigeria
+3193,failed,NGN,Nigeria
+3196,failed,NGN,Australia
+3199,success,NGN,Nigeria
+3200,success,NGN,Nigeria
+3201,success,NGN,Nigeria
+3202,failed,USD,Nigeria
+3204,failed,NGN,Nigeria
+3206,success,NGN,Nigeria
+3207,abandoned,NGN,Nigeria
+3208,success,USD,United Kingdom
+3213,success,NGN,Nigeria
+3217,failed,USD,United States
+3220,success,NGN,Nigeria
+3222,success,NGN,Nigeria
+3226,success,NGN,Nigeria
+3228,failed,NGN,Nigeria
+3230,abandoned,NGN,Nigeria
+3231,success,NGN,Nigeria
+3233,success,NGN,Nigeria
+3234,success,NGN,Nigeria
+3239,success,NGN,Nigeria
+3240,success,NGN,Nigeria
+3241,failed,NGN,United Kingdom
+3242,success,NGN,Nigeria
+3243,abandoned,USD,Italy
+3248,success,NGN,Nigeria
+3249,abandoned,NGN,Nigeria
+3250,failed,NGN,United States
+3252,success,USD,United Kingdom
+3255,success,NGN,United States
+3256,abandoned,NGN,Nigeria
+3257,failed,NGN,Nigeria
+3259,failed,USD,Nigeria
+3261,failed,NGN,Nigeria
+3263,failed,USD,United States
+3265,success,USD,United Kingdom
+3267,success,USD,United States
+3268,success,NGN,Nigeria
+3271,abandoned,USD,France
+3273,abandoned,NGN,Nigeria
+3276,success,NGN,Nigeria

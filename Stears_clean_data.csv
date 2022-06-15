@@ -1,1962 +1,3277 @@
-id,status,currency,country_name
-1,failed,USD,United States
-2,success,NGN,Nigeria
-4,success,NGN,Nigeria
-5,abandoned,NGN,Nigeria
-7,success,NGN,Nigeria
-11,success,NGN,Nigeria
-12,failed,USD,United States
-13,abandoned,NGN,Nigeria
-14,success,NGN,Nigeria
-15,abandoned,NGN,Nigeria
-16,success,NGN,Nigeria
-19,abandoned,USD,United States
-20,failed,USD,United States
-21,success,NGN,United States
-22,failed,NGN,United Kingdom
-24,abandoned,NGN,Ghana
-25,failed,NGN,United Kingdom
-26,success,NGN,Nigeria
-27,failed,NGN,Nigeria
-29,failed,NGN,Nigeria
-31,abandoned,USD,United States
-32,success,NGN,Nigeria
-34,success,NGN,Nigeria
-36,failed,NGN,Nigeria
-39,success,USD,South Africa
-40,success,NGN,Nigeria
-41,abandoned,NGN,Nigeria
-44,success,NGN,Nigeria
-48,success,NGN,United Kingdom
-50,failed,NGN,Nigeria
-51,success,NGN,Nigeria
-53,success,NGN,United Kingdom
-56,success,NGN,Nigeria
-59,success,NGN,Nigeria
-60,success,USD,United Kingdom
-61,success,NGN,Nigeria
-62,success,NGN,Nigeria
-63,abandoned,USD,United States
-65,success,NGN,Nigeria
-70,success,NGN,Nigeria
-75,success,NGN,Nigeria
-77,failed,NGN,Nigeria
-78,success,NGN,Nigeria
-80,success,NGN,Nigeria
-81,success,NGN,Nigeria
-83,success,USD,United States
-84,success,NGN,Nigeria
-85,success,NGN,Nigeria
-87,success,NGN,Nigeria
-88,failed,NGN,United States
-89,success,USD,United States
-92,success,NGN,Nigeria
-95,success,NGN,Nigeria
-97,success,NGN,Nigeria
-98,failed,NGN,Nigeria
-101,failed,NGN,Nigeria
-103,success,NGN,United Kingdom
-104,success,USD,United States
-108,success,NGN,United Kingdom
-113,success,NGN,Nigeria
-116,success,NGN,Nigeria
-120,success,NGN,Nigeria
-123,success,NGN,Nigeria
-124,success,NGN,Nigeria
-125,success,NGN,Nigeria
-126,success,NGN,Nigeria
-127,abandoned,USD,Italy
-129,success,NGN,Nigeria
-130,success,NGN,United States
-131,success,NGN,Nigeria
-132,failed,NGN,Nigeria
-133,failed,NGN,Nigeria
-135,success,NGN,Nigeria
-136,success,NGN,Nigeria
-137,failed,USD,United States
-139,success,NGN,Nigeria
-140,success,NGN,Nigeria
-141,success,NGN,Nigeria
-142,success,NGN,Nigeria
-145,failed,USD,United States
-146,reversed,NGN,Nigeria
-147,success,NGN,Nigeria
-149,abandoned,NGN,Nigeria
-150,success,NGN,Nigeria
-151,failed,NGN,Nigeria
-152,success,NGN,Nigeria
-154,success,NGN,Nigeria
-156,failed,NGN,Nigeria
-157,success,NGN,Nigeria
-158,success,NGN,Nigeria
-159,abandoned,NGN,Nigeria
-160,success,NGN,United States
-162,success,NGN,Nigeria
-163,success,USD,United Kingdom
-166,success,NGN,Nigeria
-170,failed,NGN,Nigeria
-171,success,NGN,Nigeria
-173,success,NGN,Nigeria
-174,success,NGN,Nigeria
-175,failed,NGN,United States
-177,success,NGN,Nigeria
-181,success,NGN,Nigeria
-182,failed,NGN,Nigeria
-183,success,NGN,Nigeria
-187,success,NGN,Nigeria
-190,failed,USD,United States
-193,success,NGN,Nigeria
-194,success,NGN,Nigeria
-196,success,NGN,Nigeria
-197,failed,USD,Nigeria
-198,success,NGN,Nigeria
-199,success,USD,Ireland
-200,success,NGN,Nigeria
-205,failed,NGN,Nigeria
-206,success,USD,Nigeria
-207,success,USD,South Africa
-209,success,NGN,Nigeria
-212,success,NGN,Nigeria
-213,success,NGN,Nigeria
-215,failed,NGN,Nigeria
-217,success,NGN,United Kingdom
-219,success,USD,United States
-220,success,NGN,Nigeria
-221,abandoned,USD,United States
-222,success,NGN,Nigeria
-223,success,NGN,Nigeria
-224,failed,USD,United States
-226,success,NGN,Nigeria
-227,failed,USD,United States
-229,abandoned,NGN,Nigeria
-230,success,NGN,Nigeria
-232,failed,NGN,Canada
-234,success,NGN,Nigeria
-237,success,NGN,Nigeria
-238,abandoned,NGN,United States
-239,success,USD,United Kingdom
-240,success,NGN,Nigeria
-241,abandoned,USD,United States
-243,failed,NGN,Nigeria
-244,failed,USD,United States
-245,abandoned,NGN,Nigeria
-246,success,NGN,Nigeria
-247,success,NGN,Nigeria
-248,success,NGN,Nigeria
-249,reversed,NGN,Nigeria
-251,success,USD,Canada
-253,success,NGN,Nigeria
-254,success,NGN,Nigeria
-255,success,NGN,Nigeria
-256,success,NGN,Nigeria
-258,failed,USD,United Kingdom
-259,failed,NGN,Nigeria
-260,success,NGN,Nigeria
-264,success,NGN,United Kingdom
-267,failed,NGN,Nigeria
-268,success,NGN,Nigeria
-271,success,USD,United States
-272,success,NGN,Nigeria
-273,success,NGN,United Kingdom
-274,success,NGN,Nigeria
-276,failed,NGN,Nigeria
-277,success,NGN,Nigeria
-278,success,NGN,Nigeria
-283,success,NGN,Nigeria
-286,success,NGN,Nigeria
-289,abandoned,NGN,Nigeria
-292,success,NGN,Nigeria
-294,abandoned,NGN,Nigeria
-295,success,NGN,Nigeria
-297,success,NGN,Nigeria
-299,success,NGN,Nigeria
-301,success,USD,United Kingdom
-302,success,NGN,South Africa
-303,success,NGN,Nigeria
-306,success,NGN,United States
-308,failed,USD,United States
-309,success,NGN,Nigeria
-311,success,NGN,Nigeria
-312,success,NGN,Nigeria
-313,success,NGN,Nigeria
-314,failed,NGN,Nigeria
-315,success,NGN,Nigeria
-318,success,NGN,Nigeria
-319,success,NGN,Nigeria
-320,success,NGN,Nigeria
-322,success,NGN,Nigeria
-323,success,NGN,Nigeria
-324,success,NGN,Nigeria
-325,failed,NGN,Nigeria
-326,success,NGN,Nigeria
-328,success,NGN,Nigeria
-331,success,USD,United States
-333,failed,NGN,Nigeria
-335,success,NGN,Nigeria
-338,failed,USD,United States
-339,success,NGN,Nigeria
-342,success,NGN,Nigeria
-343,success,USD,United States
-344,success,NGN,Nigeria
-345,success,NGN,Nigeria
-346,success,NGN,Nigeria
-353,success,NGN,Nigeria
-355,success,NGN,Nigeria
-357,failed,NGN,Bangladesh
-358,success,USD,United States
-362,failed,USD,Namibia
-363,success,NGN,Nigeria
-364,success,NGN,Nigeria
-365,success,NGN,Nigeria
-368,success,NGN,Nigeria
-369,failed,NGN,Nigeria
-371,failed,NGN,United Kingdom
-373,success,NGN,Nigeria
-374,success,NGN,Nigeria
-376,failed,NGN,Nigeria
-378,abandoned,NGN,Nigeria
-381,success,NGN,Nigeria
-382,success,NGN,Nigeria
-383,success,NGN,Nigeria
-384,success,NGN,Nigeria
-388,success,NGN,Nigeria
-389,success,NGN,Nigeria
-390,abandoned,USD,United States
-393,success,NGN,Nigeria
-397,success,USD,South Africa
-398,success,NGN,United Kingdom
-399,success,NGN,Nigeria
-402,reversed,NGN,Nigeria
-403,success,NGN,Nigeria
-404,success,NGN,Nigeria
-407,success,NGN,Nigeria
-408,success,NGN,Nigeria
-409,success,NGN,Nigeria
-410,success,NGN,United Kingdom
-411,reversed,NGN,Nigeria
-412,failed,NGN,Canada
-413,success,NGN,Nigeria
-414,failed,NGN,Nigeria
-416,failed,NGN,Nigeria
-418,success,NGN,Nigeria
-420,success,NGN,Nigeria
-423,success,NGN,Nigeria
-425,failed,NGN,United States
-427,success,NGN,Nigeria
-430,success,NGN,Nigeria
-431,success,NGN,Nigeria
-432,success,NGN,Nigeria
-433,success,NGN,Nigeria
-435,success,NGN,Nigeria
-436,success,USD,Japan
-437,success,NGN,Nigeria
-442,success,NGN,Nigeria
-443,success,NGN,Nigeria
-446,success,NGN,Nigeria
-450,reversed,USD,United Kingdom
-453,success,NGN,Nigeria
-458,success,NGN,Nigeria
-459,failed,USD,Nigeria
-465,failed,NGN,Nigeria
-466,success,NGN,Nigeria
-467,failed,NGN,United States
-470,success,NGN,Nigeria
-471,success,NGN,Nigeria
-476,failed,NGN,Nigeria
-478,success,NGN,Nigeria
-479,success,USD,United States
-486,success,NGN,Nigeria
-487,success,NGN,Nigeria
-488,failed,NGN,Nigeria
-491,success,NGN,Nigeria
-493,abandoned,NGN,Nigeria
-495,success,NGN,Nigeria
-497,failed,NGN,Nigeria
-498,success,NGN,Nigeria
-501,success,NGN,Nigeria
-505,success,NGN,Nigeria
-508,failed,NGN,Nigeria
-510,success,NGN,Nigeria
-512,success,NGN,Nigeria
-514,failed,NGN,Nigeria
-517,success,NGN,Nigeria
-518,success,NGN,Nigeria
-519,success,NGN,Nigeria
-520,success,NGN,Nigeria
-521,abandoned,NGN,Nigeria
-522,failed,USD,United States
-523,success,NGN,Nigeria
-525,success,NGN,Nigeria
-526,success,NGN,Nigeria
-527,success,NGN,Nigeria
-529,success,NGN,Nigeria
-532,abandoned,NGN,Nigeria
-533,success,NGN,Nigeria
-534,failed,USD,United States
-535,failed,NGN,Nigeria
-536,success,USD,United Kingdom
-538,failed,USD,United States
-539,success,NGN,Nigeria
-540,success,NGN,Nigeria
-543,success,NGN,Nigeria
-544,success,NGN,Nigeria
-546,reversed,NGN,Nigeria
-548,success,NGN,Nigeria
-551,abandoned,USD,United States
-552,success,NGN,Nigeria
-554,success,NGN,Nigeria
-556,success,NGN,Nigeria
-559,success,USD,United States
-561,success,NGN,Nigeria
-563,failed,USD,United States
-566,failed,NGN,Nigeria
-568,success,NGN,Nigeria
-569,failed,NGN,United Kingdom
-571,success,NGN,Nigeria
-575,success,USD,United States
-577,abandoned,USD,Nigeria
-578,failed,NGN,Nigeria
-579,success,NGN,United Kingdom
-581,failed,NGN,Nigeria
-583,success,NGN,Nigeria
-584,success,NGN,Nigeria
-588,success,NGN,Nigeria
-589,success,NGN,Nigeria
-590,success,NGN,Nigeria
-591,failed,NGN,Nigeria
-593,success,NGN,Nigeria
-594,abandoned,NGN,Nigeria
-596,success,NGN,Nigeria
-598,success,NGN,Nigeria
-599,success,NGN,Nigeria
-602,success,NGN,Nigeria
-605,success,NGN,Nigeria
-607,failed,NGN,Nigeria
-608,success,NGN,Nigeria
-609,failed,USD,United States
-610,success,NGN,Nigeria
-611,success,NGN,Nigeria
-612,abandoned,NGN,Nigeria
-614,failed,NGN,Nigeria
-615,success,NGN,Nigeria
-616,success,NGN,Nigeria
-617,success,NGN,Nigeria
-619,success,NGN,Nigeria
-622,abandoned,USD,United Kingdom
-625,success,NGN,Nigeria
-626,success,NGN,Nigeria
-628,abandoned,USD,United States
-629,failed,NGN,United Kingdom
-633,success,NGN,Nigeria
-635,success,NGN,Nigeria
-637,failed,NGN,Nigeria
-638,success,NGN,Nigeria
-639,success,NGN,Nigeria
-640,failed,NGN,Nigeria
-641,success,NGN,Nigeria
-644,success,NGN,Nigeria
-645,success,NGN,Nigeria
-646,failed,NGN,Nigeria
-648,success,NGN,Nigeria
-651,success,NGN,Nigeria
-652,success,NGN,Nigeria
-654,success,NGN,Nigeria
-655,abandoned,NGN,Nigeria
-656,success,NGN,Nigeria
-658,success,NGN,Nigeria
-659,success,NGN,Nigeria
-660,success,NGN,Nigeria
-661,success,NGN,Nigeria
-662,success,NGN,Nigeria
-663,failed,NGN,Nigeria
-665,abandoned,USD,United States
-667,success,NGN,Nigeria
-669,failed,USD,United States
-670,success,NGN,Nigeria
-671,success,NGN,Nigeria
-672,success,NGN,Nigeria
-674,success,NGN,Nigeria
-675,failed,USD,United States
-676,success,NGN,Nigeria
-677,success,NGN,Nigeria
-678,failed,NGN,Nigeria
-679,success,NGN,Nigeria
-681,success,NGN,Nigeria
-683,failed,NGN,Nigeria
-684,success,NGN,Nigeria
-685,failed,NGN,Canada
-686,success,NGN,Nigeria
-687,failed,NGN,Nigeria
-689,success,NGN,Nigeria
-690,success,NGN,Nigeria
-693,success,NGN,Nigeria
-694,success,NGN,Nigeria
-696,success,NGN,Nigeria
-697,success,USD,Ukraine
-700,abandoned,NGN,Nigeria
-701,success,USD,United Kingdom
-702,success,NGN,Nigeria
-703,success,NGN,Nigeria
-705,success,NGN,Nigeria
-707,success,NGN,Nigeria
-710,success,NGN,Nigeria
-712,success,NGN,Nigeria
-716,success,NGN,Nigeria
-718,success,NGN,Nigeria
-720,success,NGN,Nigeria
-722,reversed,NGN,Nigeria
-723,success,NGN,Nigeria
-724,failed,NGN,Nigeria
-728,failed,NGN,Nigeria
-729,success,NGN,Nigeria
-731,success,NGN,Nigeria
-733,success,NGN,Nigeria
-734,success,NGN,Nigeria
-737,success,NGN,Nigeria
-739,success,NGN,Nigeria
-741,failed,NGN,Nigeria
-744,success,NGN,Nigeria
-745,failed,NGN,United Kingdom
-749,success,USD,United Kingdom
-753,failed,NGN,United States
-754,success,NGN,Nigeria
-756,success,NGN,Nigeria
-757,success,NGN,Nigeria
-759,success,NGN,Nigeria
-760,abandoned,USD,United States
-761,failed,NGN,United Kingdom
-763,failed,NGN,Nigeria
-764,failed,NGN,Nigeria
-767,success,NGN,Nigeria
-768,abandoned,USD,United States
-769,success,NGN,Nigeria
-771,abandoned,USD,United States
-772,success,NGN,Nigeria
-775,success,NGN,Nigeria
-776,success,NGN,Nigeria
-778,success,NGN,Nigeria
-779,success,NGN,Nigeria
-780,success,NGN,Nigeria
-782,reversed,NGN,Nigeria
-784,success,NGN,Nigeria
-786,failed,NGN,Nigeria
-790,success,NGN,Nigeria
-792,success,USD,Canada
-793,success,NGN,Nigeria
-795,success,NGN,Nigeria
-796,success,USD,United Kingdom
-797,abandoned,NGN,Nigeria
-798,abandoned,NGN,United Kingdom
-799,success,NGN,Nigeria
-801,success,NGN,Nigeria
-805,abandoned,USD,United States
-806,success,NGN,United Kingdom
-809,success,NGN,Nigeria
-810,success,NGN,Nigeria
-811,abandoned,NGN,Nigeria
-813,success,NGN,Nigeria
-814,success,NGN,Nigeria
-816,abandoned,NGN,Nigeria
-817,success,NGN,Nigeria
-820,abandoned,USD,France
-822,success,NGN,Nigeria
-823,failed,NGN,Nigeria
-826,failed,USD,United States
-827,success,NGN,Nigeria
-829,success,NGN,Nigeria
-832,success,USD,United States
-833,success,NGN,Nigeria
-834,abandoned,USD,United States
-836,failed,NGN,Nigeria
-837,failed,NGN,Nigeria
-838,success,NGN,Nigeria
-839,success,NGN,Nigeria
-845,failed,NGN,Nigeria
-847,success,NGN,Nigeria
-849,success,NGN,Nigeria
-850,failed,NGN,Nigeria
-852,success,NGN,Nigeria
-854,success,NGN,Nigeria
-857,failed,NGN,Nigeria
-858,failed,NGN,Nigeria
-859,success,NGN,Nigeria
-860,success,NGN,Nigeria
-861,success,NGN,Nigeria
-862,success,NGN,Nigeria
-864,abandoned,NGN,Nigeria
-865,success,NGN,United States
-866,success,USD,United Kingdom
-867,success,NGN,Nigeria
-868,success,NGN,Nigeria
-869,success,USD,United Kingdom
-873,success,NGN,Nigeria
-874,failed,NGN,Nigeria
-876,success,NGN,Nigeria
-880,failed,USD,United States
-881,success,NGN,Nigeria
-882,success,NGN,Nigeria
-883,failed,NGN,United States
-884,success,NGN,Nigeria
-885,abandoned,USD,United States
-886,success,NGN,Nigeria
-887,success,NGN,Nigeria
-888,success,NGN,Nigeria
-890,success,NGN,Nigeria
-891,success,USD,United Kingdom
-892,success,USD,Cameroon
-900,success,NGN,Nigeria
-901,success,NGN,Nigeria
-902,success,NGN,Nigeria
-903,success,USD,United States
-904,success,NGN,Nigeria
-905,abandoned,NGN,United Kingdom
-906,success,NGN,Nigeria
-907,success,NGN,United States
-908,reversed,NGN,Nigeria
-909,success,USD,United Kingdom
-910,success,NGN,Nigeria
-911,success,NGN,Nigeria
-912,success,NGN,Nigeria
-913,success,NGN,Nigeria
-915,success,NGN,Nigeria
-916,success,NGN,Nigeria
-917,success,NGN,Nigeria
-919,success,NGN,Nigeria
-921,failed,NGN,Nigeria
-925,success,NGN,Nigeria
-926,failed,NGN,Nigeria
-930,success,NGN,Nigeria
-937,failed,USD,Nigeria
-938,failed,NGN,Nigeria
-939,success,NGN,Nigeria
-940,success,USD,United States
-941,failed,USD,United States
-942,success,NGN,Nigeria
-943,success,NGN,Nigeria
-944,success,NGN,United Kingdom
-945,success,NGN,Nigeria
-946,abandoned,NGN,Nigeria
-947,success,NGN,Nigeria
-949,success,NGN,Nigeria
-951,success,NGN,Nigeria
-953,failed,NGN,Nigeria
-956,failed,NGN,Nigeria
-957,success,USD,United States
-960,abandoned,NGN,Nigeria
-961,failed,NGN,Nigeria
-962,success,USD,United Kingdom
-963,success,NGN,Nigeria
-966,success,NGN,Nigeria
-968,success,NGN,Nigeria
-969,success,NGN,Nigeria
-970,abandoned,USD,United States
-971,success,NGN,Nigeria
-972,abandoned,NGN,Nigeria
-973,failed,NGN,United States
-974,success,NGN,United Kingdom
-975,success,NGN,Nigeria
-979,failed,NGN,Nigeria
-982,abandoned,USD,United States
-983,success,NGN,Nigeria
-984,success,NGN,Nigeria
-985,failed,NGN,Nigeria
-987,success,NGN,Nigeria
-989,success,NGN,Nigeria
-990,success,NGN,Nigeria
-992,success,NGN,Nigeria
-993,success,NGN,Nigeria
-994,failed,NGN,Nigeria
-995,success,NGN,Nigeria
-996,success,USD,United Kingdom
-998,success,NGN,Nigeria
-999,success,NGN,Nigeria
-1002,success,NGN,Nigeria
-1003,failed,NGN,Nigeria
-1004,abandoned,NGN,United States
-1006,failed,NGN,Nigeria
-1007,success,NGN,United Kingdom
-1008,success,NGN,Nigeria
-1010,success,USD,United States
-1011,failed,NGN,Nigeria
-1012,success,NGN,Nigeria
-1014,success,NGN,Nigeria
-1016,failed,NGN,Nigeria
-1017,success,USD,United States
-1019,success,NGN,Nigeria
-1020,success,NGN,Nigeria
-1021,failed,USD,Nigeria
-1022,failed,NGN,Nigeria
-1023,success,NGN,Nigeria
-1025,success,USD,Kenya
-1026,abandoned,NGN,Nigeria
-1031,success,NGN,Nigeria
-1033,success,NGN,Nigeria
-1034,failed,USD,United States
-1035,success,NGN,Nigeria
-1037,success,NGN,Nigeria
-1041,success,USD,United Kingdom
-1042,reversed,NGN,Nigeria
-1044,failed,NGN,Nigeria
-1045,success,USD,United Kingdom
-1046,success,NGN,Nigeria
-1048,failed,USD,United Kingdom
-1049,failed,USD,United States
-1050,success,NGN,Nigeria
-1051,abandoned,USD,United States
-1052,success,NGN,Nigeria
-1053,success,NGN,Nigeria
-1054,success,NGN,Nigeria
-1056,failed,USD,United States
-1059,success,NGN,Nigeria
-1061,abandoned,USD,United States
-1062,success,NGN,Nigeria
-1063,success,NGN,United Kingdom
-1064,failed,NGN,Nigeria
-1066,success,NGN,Nigeria
-1068,success,NGN,Nigeria
-1070,success,NGN,Nigeria
-1071,abandoned,NGN,Nigeria
-1074,success,NGN,Nigeria
-1076,success,NGN,Nigeria
-1077,success,NGN,Nigeria
-1078,failed,USD,United States
-1080,success,USD,Nigeria
-1082,failed,NGN,Nigeria
-1084,success,NGN,Nigeria
-1085,success,NGN,Nigeria
-1088,success,USD,United States
-1089,success,NGN,Nigeria
-1090,failed,NGN,Nigeria
-1091,success,NGN,Nigeria
-1092,success,NGN,Nigeria
-1094,success,NGN,Nigeria
-1096,success,NGN,Nigeria
-1097,success,NGN,Nigeria
-1098,abandoned,USD,United States
-1100,success,NGN,Nigeria
-1101,reversed,NGN,Nigeria
-1102,failed,USD,Canada
-1103,success,NGN,Nigeria
-1104,success,NGN,Nigeria
-1106,success,NGN,Nigeria
-1107,success,NGN,Nigeria
-1108,failed,NGN,Canada
-1109,abandoned,NGN,Nigeria
-1110,success,NGN,Nigeria
-1117,success,NGN,Nigeria
-1118,abandoned,USD,United States
-1120,success,NGN,Nigeria
-1121,success,NGN,Nigeria
-1122,failed,NGN,Nigeria
-1124,success,USD,United Kingdom
-1125,failed,USD,United States
-1126,success,NGN,Nigeria
-1127,failed,NGN,Nigeria
-1128,success,NGN,Nigeria
-1130,abandoned,USD,Nigeria
-1134,success,NGN,Nigeria
-1136,success,NGN,Nigeria
-1138,success,NGN,Nigeria
-1139,success,NGN,Nigeria
-1141,success,NGN,Nigeria
-1143,success,NGN,Nigeria
-1146,success,NGN,Nigeria
-1147,success,USD,United Kingdom
-1148,abandoned,NGN,Nigeria
-1151,failed,NGN,Nigeria
-1152,success,NGN,Nigeria
-1154,success,NGN,Nigeria
-1155,success,NGN,Nigeria
-1156,failed,NGN,Nigeria
-1157,failed,USD,Nigeria
-1158,success,NGN,Nigeria
-1159,success,NGN,Nigeria
-1162,failed,NGN,Nigeria
-1163,success,USD,United Kingdom
-1164,success,NGN,Nigeria
-1166,success,NGN,Nigeria
-1167,success,NGN,Nigeria
-1168,failed,NGN,Nigeria
-1169,success,NGN,Nigeria
-1170,failed,NGN,Nigeria
-1171,success,NGN,Nigeria
-1172,abandoned,NGN,Nigeria
-1175,success,NGN,United States
-1177,success,NGN,Nigeria
-1179,failed,NGN,Nigeria
-1180,success,USD,United States
-1181,success,NGN,Nigeria
-1183,reversed,NGN,Nigeria
-1184,success,USD,United Kingdom
-1185,failed,NGN,Nigeria
-1186,failed,NGN,Nigeria
-1187,success,NGN,Nigeria
-1188,abandoned,NGN,Nigeria
-1189,reversed,USD,Ghana
-1190,success,NGN,Nigeria
-1191,success,NGN,Nigeria
-1192,success,NGN,Nigeria
-1193,success,NGN,Nigeria
-1194,failed,NGN,United States
-1195,success,NGN,Nigeria
-1196,success,USD,United Kingdom
-1202,success,NGN,Nigeria
-1203,reversed,NGN,Nigeria
-1205,failed,NGN,Nigeria
-1209,failed,NGN,Nigeria
-1210,failed,NGN,Nigeria
-1211,success,NGN,Nigeria
-1212,success,NGN,Nigeria
-1213,failed,USD,United States
-1214,reversed,NGN,Nigeria
-1216,success,NGN,Nigeria
-1217,success,NGN,Nigeria
-1218,success,NGN,Nigeria
-1219,success,NGN,Nigeria
-1221,success,NGN,Nigeria
-1224,failed,NGN,Nigeria
-1226,success,NGN,Nigeria
-1227,abandoned,NGN,Nigeria
-1228,success,NGN,Nigeria
-1230,success,NGN,Nigeria
-1231,success,NGN,Nigeria
-1232,success,USD,United States
-1233,success,USD,United States
-1234,success,NGN,Nigeria
-1235,success,NGN,Nigeria
-1236,reversed,NGN,United States
-1237,success,NGN,Nigeria
-1240,success,NGN,Nigeria
-1241,failed,USD,United States
-1243,success,NGN,Nigeria
-1244,success,USD,United States
-1245,abandoned,NGN,Nigeria
-1246,success,NGN,Nigeria
-1248,success,NGN,Nigeria
-1249,success,NGN,Nigeria
-1250,success,USD,United States
-1253,success,NGN,Nigeria
-1254,success,NGN,Nigeria
-1255,abandoned,NGN,Nigeria
-1256,failed,NGN,Nigeria
-1257,success,NGN,Nigeria
-1259,success,NGN,Nigeria
-1262,failed,NGN,Nigeria
-1267,failed,NGN,Nigeria
-1269,success,NGN,Nigeria
-1270,failed,USD,United States
-1271,success,NGN,Nigeria
-1272,abandoned,NGN,United States
-1274,failed,NGN,Nigeria
-1275,success,NGN,Nigeria
-1276,failed,NGN,Nigeria
-1277,success,USD,Kenya
-1278,abandoned,USD,Nigeria
-1279,failed,NGN,Nigeria
-1282,success,NGN,Nigeria
-1283,success,NGN,Nigeria
-1284,failed,NGN,Nigeria
-1285,abandoned,NGN,Nigeria
-1286,success,NGN,Nigeria
-1287,success,USD,United States
-1288,success,NGN,Nigeria
-1290,success,USD,United States
-1291,success,NGN,Nigeria
-1294,success,NGN,Nigeria
-1295,failed,NGN,Nigeria
-1298,failed,NGN,Nigeria
-1300,success,NGN,Nigeria
-1302,success,NGN,Nigeria
-1305,success,NGN,Nigeria
-1306,reversed,NGN,Nigeria
-1313,failed,NGN,Nigeria
-1316,abandoned,USD,United States
-1317,failed,NGN,Nigeria
-1318,success,USD,Nigeria
-1319,success,NGN,Nigeria
-1321,success,NGN,Nigeria
-1322,success,NGN,Nigeria
-1326,success,NGN,Nigeria
-1327,abandoned,NGN,Nigeria
-1329,success,NGN,Nigeria
-1330,success,NGN,Nigeria
-1331,success,NGN,Nigeria
-1334,reversed,NGN,Nigeria
-1335,success,NGN,Nigeria
-1337,success,NGN,Nigeria
-1338,success,NGN,Nigeria
-1340,abandoned,USD,United States
-1342,success,NGN,Nigeria
-1343,failed,NGN,Nigeria
-1345,failed,NGN,Nigeria
-1346,success,NGN,Nigeria
-1350,success,NGN,Nigeria
-1352,success,NGN,Nigeria
-1356,success,NGN,Nigeria
-1358,success,NGN,Nigeria
-1362,failed,NGN,Nigeria
-1363,success,NGN,Nigeria
-1364,success,NGN,Nigeria
-1365,failed,NGN,Nigeria
-1366,success,NGN,Nigeria
-1369,failed,NGN,Nigeria
-1370,success,NGN,Nigeria
-1371,success,USD,United States
-1372,success,NGN,Nigeria
-1374,failed,USD,United States
-1375,failed,NGN,Nigeria
-1376,success,NGN,Nigeria
-1377,success,NGN,Nigeria
-1378,success,NGN,Uganda
-1379,failed,NGN,Nigeria
-1380,success,NGN,Nigeria
-1383,success,NGN,Nigeria
-1384,abandoned,NGN,Nigeria
-1385,success,NGN,Nigeria
-1387,success,NGN,Nigeria
-1389,success,NGN,Nigeria
-1390,failed,USD,United States
-1392,success,USD,United States
-1394,success,NGN,Nigeria
-1395,success,NGN,Nigeria
-1397,abandoned,NGN,Nigeria
-1398,failed,USD,United States
-1399,failed,NGN,Nigeria
-1400,success,USD,United States
-1401,reversed,NGN,Nigeria
-1403,abandoned,NGN,Nigeria
-1404,success,USD,Kenya
-1407,failed,NGN,Nigeria
-1408,success,NGN,Nigeria
-1409,success,NGN,Nigeria
-1410,failed,NGN,Nigeria
-1414,success,NGN,Nigeria
-1415,failed,NGN,Nigeria
-1416,success,NGN,Nigeria
-1417,abandoned,NGN,Nigeria
-1419,abandoned,USD,United States
-1420,failed,USD,United States
-1422,abandoned,NGN,Nigeria
-1423,failed,NGN,Nigeria
-1424,success,NGN,Nigeria
-1426,reversed,NGN,Nigeria
-1428,success,NGN,United Kingdom
-1431,failed,NGN,Nigeria
-1432,abandoned,NGN,United Kingdom
-1433,reversed,NGN,Nigeria
-1434,success,NGN,Nigeria
-1435,success,NGN,Nigeria
-1440,success,NGN,Nigeria
-1441,success,NGN,Nigeria
-1442,failed,USD,United States
-1444,success,USD,Nigeria
-1446,success,NGN,Nigeria
-1448,success,NGN,Nigeria
-1449,success,USD,United Kingdom
-1450,success,NGN,Nigeria
-1451,failed,USD,United Kingdom
-1452,success,NGN,Nigeria
-1453,success,NGN,Nigeria
-1456,failed,NGN,Nigeria
-1457,success,USD,United Kingdom
-1458,success,NGN,Nigeria
-1460,success,USD,United Kingdom
-1461,success,NGN,Nigeria
-1463,success,NGN,Nigeria
-1464,success,NGN,Nigeria
-1466,failed,NGN,United States
-1468,success,NGN,Nigeria
-1469,failed,NGN,Nigeria
-1471,failed,NGN,United States
-1472,success,NGN,Nigeria
-1473,abandoned,USD,United Kingdom
-1475,success,NGN,Nigeria
-1476,success,NGN,Nigeria
-1478,success,NGN,Nigeria
-1479,reversed,NGN,Nigeria
-1481,success,NGN,Nigeria
-1482,success,NGN,Nigeria
-1484,success,NGN,Nigeria
-1485,failed,NGN,Nigeria
-1486,success,NGN,Nigeria
-1487,success,NGN,Nigeria
-1488,failed,USD,United States
-1490,success,NGN,Nigeria
-1491,success,NGN,Nigeria
-1493,failed,USD,United States
-1494,success,NGN,Nigeria
-1495,success,NGN,Nigeria
-1497,success,NGN,Nigeria
-1499,success,NGN,Nigeria
-1500,success,NGN,Nigeria
-1502,success,NGN,Nigeria
-1504,success,NGN,Nigeria
-1507,success,NGN,Nigeria
-1508,success,NGN,Nigeria
-1509,abandoned,NGN,Nigeria
-1510,abandoned,NGN,Nigeria
-1511,success,NGN,Nigeria
-1513,abandoned,NGN,Nigeria
-1514,success,NGN,Nigeria
-1515,success,NGN,Nigeria
-1516,success,NGN,Nigeria
-1517,success,NGN,Nigeria
-1518,success,NGN,Nigeria
-1519,success,USD,Kenya
-1520,success,NGN,Nigeria
-1521,failed,USD,Nigeria
-1522,success,NGN,Nigeria
-1523,success,NGN,Nigeria
-1524,success,NGN,Nigeria
-1525,failed,USD,United States
-1526,success,NGN,Nigeria
-1527,abandoned,NGN,Nigeria
-1530,failed,USD,Nigeria
-1532,success,USD,United Kingdom
-1533,success,NGN,Nigeria
-1535,abandoned,USD,United States
-1540,success,NGN,Nigeria
-1542,success,NGN,Nigeria
-1543,success,NGN,Nigeria
-1546,failed,NGN,Nigeria
-1548,success,NGN,Nigeria
-1549,success,NGN,Nigeria
-1551,abandoned,NGN,Nigeria
-1552,success,NGN,Nigeria
-1553,failed,NGN,Nigeria
-1554,reversed,NGN,Nigeria
-1556,success,NGN,Nigeria
-1558,success,NGN,Nigeria
-1559,success,NGN,Nigeria
-1560,success,NGN,Nigeria
-1561,failed,NGN,Nigeria
-1564,success,NGN,Nigeria
-1566,failed,USD,United Kingdom
-1567,success,NGN,Nigeria
-1569,failed,NGN,Nigeria
-1573,abandoned,USD,United States
-1574,success,NGN,Nigeria
-1575,success,NGN,Nigeria
-1576,failed,NGN,Nigeria
-1577,success,NGN,Nigeria
-1580,success,NGN,Nigeria
-1581,success,NGN,United Kingdom
-1583,failed,USD,canada
-1584,success,NGN,Nigeria
-1586,success,NGN,Nigeria
-1587,failed,NGN,Nigeria
-1588,success,NGN,Nigeria
-1589,success,NGN,Nigeria
-1591,reversed,NGN,Nigeria
-1592,failed,NGN,United Kingdom
-1596,success,NGN,Nigeria
-1597,success,NGN,Nigeria
-1598,success,NGN,Nigeria
-1599,abandoned,NGN,Nigeria
-1604,failed,NGN,Nigeria
-1605,success,NGN,Nigeria
-1606,success,NGN,Nigeria
-1607,success,NGN,Nigeria
-1608,success,NGN,Nigeria
-1613,success,NGN,Nigeria
-1614,success,NGN,Nigeria
-1615,success,NGN,Nigeria
-1616,success,NGN,Nigeria
-1617,abandoned,USD,United States
-1620,abandoned,USD,United States
-1621,abandoned,NGN,Nigeria
-1622,success,NGN,Nigeria
-1623,failed,NGN,Nigeria
-1625,success,NGN,Nigeria
-1626,failed,NGN,Nigeria
-1627,failed,USD,United Kingdom
-1631,failed,NGN,Nigeria
-1632,success,NGN,United Kingdom
-1633,success,NGN,Nigeria
-1634,failed,NGN,United States
-1639,success,NGN,Nigeria
-1640,abandoned,USD,Nigeria
-1641,success,NGN,Nigeria
-1642,success,NGN,United Kingdom
-1644,success,NGN,Nigeria
-1646,success,NGN,Nigeria
-1647,success,NGN,Nigeria
-1651,success,NGN,Nigeria
-1653,failed,NGN,United Kingdom
-1656,success,USD,United States
-1657,success,NGN,Nigeria
-1658,success,USD,United Kingdom
-1661,failed,NGN,Nigeria
-1662,abandoned,NGN,Nigeria
-1664,failed,NGN,Nigeria
-1666,success,NGN,Ireland
-1671,failed,USD,United States
-1674,success,NGN,Nigeria
-1677,abandoned,NGN,Nigeria
-1680,failed,NGN,Nigeria
-1681,success,NGN,Nigeria
-1682,success,NGN,Nigeria
-1684,success,NGN,Nigeria
-1685,failed,USD,United States
-1686,success,NGN,Nigeria
-1687,failed,NGN,Nigeria
-1688,success,USD,Nigeria
-1689,failed,NGN,Nigeria
-1690,success,NGN,Nigeria
-1692,abandoned,USD,United States
-1693,success,NGN,United States
-1694,success,NGN,Nigeria
-1695,failed,NGN,Nigeria
-1697,failed,NGN,United States
-1699,success,NGN,Nigeria
-1702,success,NGN,Nigeria
-1703,success,NGN,Nigeria
-1704,success,NGN,Nigeria
-1705,success,NGN,Nigeria
-1706,success,NGN,Nigeria
-1707,success,NGN,Nigeria
-1708,success,USD,United Arab Emirate
-1710,success,NGN,Nigeria
-1711,success,NGN,Nigeria
-1712,success,NGN,Nigeria
-1714,abandoned,NGN,Nigeria
-1715,success,NGN,Nigeria
-1716,failed,NGN,Nigeria
-1717,success,USD,United Kingdom
-1718,success,NGN,Nigeria
-1719,failed,USD,Nigeria
-1721,failed,NGN,Nigeria
-1722,success,NGN,Nigeria
-1723,failed,NGN,Nigeria
-1724,success,NGN,Nigeria
-1725,success,NGN,Nigeria
-1727,success,NGN,Nigeria
-1729,failed,USD,Nigeria
-1730,success,USD,United Kingdom
-1733,success,USD,Poland
-1736,failed,NGN,Nigeria
-1738,success,NGN,Nigeria
-1739,success,NGN,Nigeria
-1740,failed,NGN,United States
-1746,success,NGN,Nigeria
-1748,success,NGN,Nigeria
-1749,success,NGN,Nigeria
-1751,success,NGN,Nigeria
-1752,success,NGN,Nigeria
-1753,success,NGN,Nigeria
-1754,reversed,NGN,Nigeria
-1756,success,NGN,Nigeria
-1758,success,NGN,Nigeria
-1761,success,NGN,Nigeria
-1762,abandoned,NGN,Nigeria
-1763,success,USD,United States
-1764,success,USD,United States
-1765,failed,NGN,Nigeria
-1770,success,NGN,Nigeria
-1772,success,USD,United States
-1773,failed,USD,United Kingdom
-1774,failed,NGN,Nigeria
-1777,success,NGN,Nigeria
-1778,success,NGN,Nigeria
-1779,success,NGN,Nigeria
-1781,success,NGN,Nigeria
-1782,abandoned,NGN,Nigeria
-1784,failed,USD,Bangladesh
-1785,success,NGN,Nigeria
-1786,abandoned,NGN,Nigeria
-1788,success,NGN,Nigeria
-1789,success,NGN,Nigeria
-1790,success,NGN,Nigeria
-1791,success,NGN,Nigeria
-1792,abandoned,NGN,Nigeria
-1793,success,NGN,Nigeria
-1794,success,NGN,Nigeria
-1795,success,NGN,Nigeria
-1796,failed,NGN,Nigeria
-1799,success,NGN,Nigeria
-1802,success,NGN,Nigeria
-1803,success,NGN,United Kingdom
-1804,success,NGN,Nigeria
-1805,abandoned,NGN,Nigeria
-1806,success,USD,United Kingdom
-1808,failed,NGN,Nigeria
-1809,failed,USD,United States
-1811,success,NGN,Nigeria
-1813,success,NGN,Nigeria
-1817,success,NGN,Nigeria
-1818,success,NGN,Nigeria
-1822,failed,NGN,United Kingdom
-1823,failed,USD,United States
-1825,failed,NGN,United Kingdom
-1826,abandoned,USD,United States
-1829,success,NGN,Nigeria
-1830,abandoned,NGN,United Kingdom
-1831,failed,NGN,Nigeria
-1832,success,NGN,Nigeria
-1833,failed,NGN,Nigeria
-1836,success,NGN,Nigeria
-1840,success,NGN,Nigeria
-1842,success,NGN,Nigeria
-1843,success,NGN,Nigeria
-1844,reversed,NGN,Uganda
-1845,abandoned,USD,United States
-1846,success,USD,United Kingdom
-1848,abandoned,NGN,Nigeria
-1849,success,NGN,Nigeria
-1850,success,NGN,Nigeria
-1853,success,NGN,Nigeria
-1854,success,NGN,Nigeria
-1855,success,NGN,Nigeria
-1856,success,NGN,Nigeria
-1858,success,NGN,Nigeria
-1860,success,NGN,Nigeria
-1862,success,NGN,Nigeria
-1863,success,NGN,Nigeria
-1864,success,NGN,Nigeria
-1865,success,NGN,Nigeria
-1866,success,NGN,Nigeria
-1869,success,NGN,Nigeria
-1871,failed,NGN,Nigeria
-1872,failed,NGN,Nigeria
-1873,success,NGN,Nigeria
-1874,success,NGN,Nigeria
-1875,success,NGN,Nigeria
-1876,success,USD,United States
-1877,success,NGN,Nigeria
-1879,failed,NGN,Nigeria
-1880,failed,NGN,Nigeria
-1882,failed,NGN,Nigeria
-1883,success,NGN,Nigeria
-1884,success,NGN,Nigeria
-1885,success,NGN,Nigeria
-1888,failed,NGN,Nigeria
-1890,success,NGN,Nigeria
-1893,success,NGN,Nigeria
-1894,failed,NGN,Nigeria
-1897,abandoned,USD,Japan
-1898,success,NGN,Nigeria
-1899,success,NGN,Nigeria
-1900,success,NGN,Nigeria
-1902,success,NGN,Nigeria
-1903,success,NGN,Nigeria
-1904,success,NGN,Nigeria
-1905,success,USD,United States
-1906,failed,NGN,Nigeria
-1907,failed,NGN,United States
-1909,failed,USD,United States
-1910,success,NGN,Nigeria
-1912,abandoned,NGN,Nigeria
-1913,success,NGN,Norway
-1914,reversed,NGN,Nigeria
-1917,success,NGN,Nigeria
-1920,success,NGN,Nigeria
-1921,success,NGN,United States
-1923,success,USD,United Kingdom
-1924,failed,NGN,Nigeria
-1929,success,NGN,Ghana
-1930,failed,NGN,Nigeria
-1931,failed,NGN,Nigeria
-1932,success,NGN,Nigeria
-1935,abandoned,NGN,Nigeria
-1936,success,NGN,Nigeria
-1938,success,NGN,Nigeria
-1939,success,NGN,Nigeria
-1940,success,NGN,Nigeria
-1941,success,NGN,Nigeria
-1944,success,NGN,Nigeria
-1947,success,NGN,Nigeria
-1949,failed,NGN,Nigeria
-1950,success,NGN,Nigeria
-1951,success,NGN,Nigeria
-1952,success,NGN,Nigeria
-1954,success,NGN,Nigeria
-1956,success,NGN,Nigeria
-1957,success,NGN,Nigeria
-1958,success,NGN,Nigeria
-1961,success,NGN,Nigeria
-1962,success,NGN,Nigeria
-1963,success,NGN,Nigeria
-1965,success,NGN,Nigeria
-1968,failed,NGN,canada
-1969,success,NGN,Nigeria
-1970,success,NGN,Nigeria
-1971,success,NGN,Nigeria
-1973,failed,NGN,Nigeria
-1974,failed,USD,United States
-1975,success,NGN,Nigeria
-1977,failed,NGN,Nigeria
-1978,success,NGN,Nigeria
-1979,abandoned,NGN,Nigeria
-1980,failed,NGN,Nigeria
-1982,failed,USD,United States
-1984,success,USD,United States
-1986,success,NGN,Nigeria
-1987,failed,NGN,Nigeria
-1988,failed,NGN,Nigeria
-1990,abandoned,NGN,Nigeria
-1993,success,NGN,Nigeria
-1994,failed,NGN,Nigeria
-1995,success,NGN,Nigeria
-1996,success,NGN,Nigeria
-1997,failed,USD,United States
-1998,success,NGN,Nigeria
-1999,success,NGN,Nigeria
-2001,success,NGN,Nigeria
-2002,success,NGN,Nigeria
-2003,success,NGN,Nigeria
-2004,success,NGN,Nigeria
-2005,success,NGN,Nigeria
-2006,failed,NGN,Nigeria
-2007,success,NGN,United States
-2009,failed,NGN,Nigeria
-2011,abandoned,NGN,Nigeria
-2012,success,NGN,Nigeria
-2014,success,NGN,Nigeria
-2016,success,NGN,Nigeria
-2017,success,NGN,Nigeria
-2018,success,NGN,Nigeria
-2019,success,NGN,Nigeria
-2021,failed,NGN,Nigeria
-2023,failed,NGN,Nigeria
-2025,success,NGN,Nigeria
-2026,success,NGN,Nigeria
-2027,success,NGN,Nigeria
-2028,success,NGN,Nigeria
-2029,success,NGN,Nigeria
-2032,success,NGN,Nigeria
-2034,success,NGN,Nigeria
-2035,success,NGN,Nigeria
-2036,success,NGN,Nigeria
-2037,success,NGN,Nigeria
-2038,success,USD,Nigeria
-2040,success,NGN,Nigeria
-2044,success,NGN,Nigeria
-2045,failed,NGN,Nigeria
-2046,success,NGN,Nigeria
-2054,failed,USD,United States
-2055,failed,NGN,United States
-2061,success,NGN,Nigeria
-2062,abandoned,NGN,Nigeria
-2064,success,NGN,Nigeria
-2065,failed,NGN,Nigeria
-2066,failed,NGN,Nigeria
-2067,success,NGN,Nigeria
-2068,failed,NGN,Nigeria
-2070,success,NGN,Nigeria
-2074,success,NGN,Nigeria
-2075,success,NGN,Nigeria
-2076,failed,NGN,Nigeria
-2080,success,NGN,Nigeria
-2082,success,NGN,Nigeria
-2086,success,NGN,Nigeria
-2088,success,NGN,Nigeria
-2089,success,NGN,Nigeria
-2091,success,NGN,Nigeria
-2092,success,NGN,Nigeria
-2094,success,NGN,Nigeria
-2095,success,NGN,Nigeria
-2096,failed,NGN,Nigeria
-2097,success,NGN,Nigeria
-2098,failed,NGN,Nigeria
-2099,failed,NGN,Nigeria
-2101,success,NGN,Nigeria
-2102,failed,USD,Nigeria
-2104,success,USD,United States
-2105,success,NGN,Nigeria
-2106,success,NGN,Nigeria
-2108,failed,NGN,Nigeria
-2114,failed,NGN,Nigeria
-2116,success,USD,United Kingdom
-2117,success,NGN,Nigeria
-2118,failed,NGN,Nigeria
-2119,success,NGN,Nigeria
-2121,success,NGN,Nigeria
-2122,success,NGN,Nigeria
-2124,failed,USD,United States
-2125,success,NGN,Nigeria
-2126,abandoned,USD,United States
-2128,success,NGN,Uganda
-2131,abandoned,NGN,Nigeria
-2132,abandoned,NGN,Nigeria
-2133,success,NGN,Nigeria
-2134,success,NGN,Nigeria
-2135,failed,NGN,United Kingdom
-2138,abandoned,NGN,Nigeria
-2139,success,NGN,Nigeria
-2140,success,NGN,Nigeria
-2142,success,NGN,Nigeria
-2143,success,NGN,Nigeria
-2144,failed,USD,United States
-2148,success,NGN,Nigeria
-2149,success,NGN,Nigeria
-2150,success,NGN,Nigeria
-2152,abandoned,NGN,Nigeria
-2154,failed,USD,United States
-2155,success,USD,Kenya
-2157,success,NGN,Nigeria
-2159,failed,NGN,United States
-2161,success,NGN,Nigeria
-2162,success,NGN,Nigeria
-2165,failed,NGN,United Kingdom
-2166,success,NGN,Nigeria
-2167,success,NGN,Nigeria
-2168,success,NGN,Nigeria
-2170,success,NGN,United Kingdom
-2171,success,NGN,Nigeria
-2175,success,NGN,Nigeria
-2176,success,NGN,Nigeria
-2177,success,NGN,Nigeria
-2178,success,NGN,Nigeria
-2179,failed,NGN,Nigeria
-2180,success,NGN,Nigeria
-2181,success,NGN,Nigeria
-2182,success,NGN,Nigeria
-2183,failed,NGN,Nigeria
-2186,success,NGN,Nigeria
-2187,success,NGN,Canada
-2189,success,NGN,Nigeria
-2191,success,NGN,Nigeria
-2192,failed,USD,United States
-2194,failed,NGN,Nigeria
-2196,success,NGN,Nigeria
-2200,success,NGN,Nigeria
-2201,success,NGN,Nigeria
-2203,success,NGN,Nigeria
-2204,failed,NGN,Nigeria
-2207,success,NGN,Nigeria
-2208,success,NGN,Nigeria
-2210,success,NGN,Nigeria
-2212,success,NGN,Nigeria
-2213,success,NGN,Nigeria
-2215,success,NGN,Nigeria
-2217,success,NGN,Nigeria
-2219,success,NGN,Nigeria
-2220,success,NGN,Nigeria
-2222,success,NGN,Nigeria
-2225,reversed,NGN,Nigeria
-2226,success,NGN,Nigeria
-2228,success,NGN,Nigeria
-2229,success,NGN,Nigeria
-2232,success,USD,United States
-2233,success,USD,United States
-2235,abandoned,USD,United States
-2236,failed,NGN,Nigeria
-2238,success,NGN,Nigeria
-2239,success,NGN,Nigeria
-2243,success,NGN,Ghana
-2246,success,NGN,Nigeria
-2247,success,NGN,Nigeria
-2248,failed,NGN,Nigeria
-2249,success,NGN,Nigeria
-2250,success,NGN,Nigeria
-2252,success,NGN,Nigeria
-2253,abandoned,USD,United States
-2254,failed,USD,Canada
-2255,abandoned,USD,United States
-2256,success,NGN,Nigeria
-2257,success,NGN,Nigeria
-2258,success,NGN,Nigeria
-2259,success,NGN,Nigeria
-2260,success,NGN,Nigeria
-2261,success,NGN,Nigeria
-2262,success,NGN,Nigeria
-2264,reversed,NGN,Nigeria
-2266,success,NGN,Nigeria
-2267,success,NGN,Nigeria
-2268,success,NGN,Nigeria
-2269,success,USD,United States
-2270,success,NGN,Nigeria
-2273,success,NGN,Nigeria
-2276,success,NGN,Nigeria
-2278,success,NGN,Nigeria
-2280,success,NGN,Nigeria
-2284,success,NGN,Nigeria
-2285,success,NGN,Nigeria
-2286,reversed,NGN,Nigeria
-2287,success,NGN,Nigeria
-2289,failed,NGN,Nigeria
-2292,failed,NGN,United States
-2297,success,NGN,Nigeria
-2299,failed,NGN,Nigeria
-2300,success,NGN,Nigeria
-2301,success,USD,United States
-2302,success,NGN,Nigeria
-2304,abandoned,USD,Nigeria
-2305,failed,NGN,Nigeria
-2306,success,NGN,Nigeria
-2307,failed,NGN,Nigeria
-2309,success,NGN,Nigeria
-2310,success,NGN,Nigeria
-2311,failed,NGN,Nigeria
-2314,failed,NGN,United States
-2315,failed,NGN,Nigeria
-2316,success,NGN,Nigeria
-2317,failed,NGN,Nigeria
-2318,success,NGN,Nigeria
-2319,success,NGN,Nigeria
-2320,failed,NGN,Nigeria
-2321,failed,NGN,Nigeria
-2324,success,NGN,Nigeria
-2325,success,USD,United Kingdom
-2327,success,NGN,Nigeria
-2328,abandoned,NGN,Nigeria
-2329,success,NGN,Nigeria
-2330,success,NGN,Nigeria
-2333,failed,NGN,Nigeria
-2336,success,NGN,Nigeria
-2337,success,NGN,Nigeria
-2338,failed,NGN,Nigeria
-2339,success,NGN,Nigeria
-2340,success,NGN,Nigeria
-2341,success,NGN,United Kingdom
-2342,success,NGN,Nigeria
-2343,abandoned,USD,United States
-2344,success,NGN,Nigeria
-2345,success,NGN,Nigeria
-2346,success,NGN,Nigeria
-2348,success,USD,United States
-2349,abandoned,USD,United States
-2350,success,NGN,Nigeria
-2351,abandoned,NGN,Nigeria
-2353,success,NGN,Nigeria
-2355,success,NGN,Nigeria
-2356,success,USD,Japan
-2357,abandoned,NGN,Nigeria
-2361,failed,USD,United Kingdom
-2362,success,NGN,Nigeria
-2363,success,NGN,Nigeria
-2364,success,NGN,Nigeria
-2366,success,NGN,Nigeria
-2369,success,NGN,Nigeria
-2371,failed,NGN,Nigeria
-2373,abandoned,USD,Canada
-2375,success,NGN,Nigeria
-2376,failed,NGN,Nigeria
-2377,success,NGN,Nigeria
-2378,abandoned,NGN,Nigeria
-2380,abandoned,NGN,United Kingdom
-2383,failed,NGN,Nigeria
-2384,reversed,NGN,Nigeria
-2385,success,NGN,Nigeria
-2386,failed,NGN,Nigeria
-2387,success,NGN,Nigeria
-2388,success,NGN,Nigeria
-2389,abandoned,NGN,Nigeria
-2390,success,NGN,Nigeria
-2391,success,USD,United States
-2392,success,NGN,Nigeria
-2393,success,USD,Qatar
-2395,success,NGN,Nigeria
-2396,failed,NGN,Nigeria
-2399,success,NGN,Nigeria
-2400,success,NGN,Nigeria
-2402,success,NGN,Nigeria
-2403,failed,NGN,Nigeria
-2404,success,NGN,Nigeria
-2405,success,NGN,Nigeria
-2407,success,NGN,Nigeria
-2410,failed,USD,United States
-2411,success,NGN,Nigeria
-2413,abandoned,NGN,South Africa
-2415,abandoned,USD,United States
-2416,success,NGN,Nigeria
-2420,success,NGN,United States
-2424,success,USD,United Kingdom
-2427,success,NGN,Nigeria
-2428,failed,NGN,Canada
-2433,abandoned,USD,United States
-2436,success,USD,United Kingdom
-2438,success,NGN,Nigeria
-2439,success,NGN,Nigeria
-2440,success,NGN,Nigeria
-2441,success,NGN,Nigeria
-2442,failed,NGN,Nigeria
-2443,success,NGN,Nigeria
-2444,success,NGN,Nigeria
-2448,success,USD,United States
-2449,success,NGN,Nigeria
-2450,success,NGN,Nigeria
-2455,success,NGN,Nigeria
-2456,failed,USD,United States
-2458,failed,USD,Nigeria
-2459,success,NGN,Nigeria
-2461,failed,NGN,Nigeria
-2463,failed,NGN,Nigeria
-2464,failed,NGN,Nigeria
-2465,success,NGN,Nigeria
-2466,success,NGN,Nigeria
-2468,abandoned,NGN,Nigeria
-2470,success,NGN,Nigeria
-2471,success,NGN,Nigeria
-2472,success,NGN,Nigeria
-2473,success,NGN,Nigeria
-2476,success,NGN,Nigeria
-2477,success,USD,United States
-2478,success,NGN,Nigeria
-2479,success,NGN,Nigeria
-2484,success,USD,United States
-2485,success,NGN,Nigeria
-2486,success,NGN,Nigeria
-2489,failed,NGN,Nigeria
-2492,failed,NGN,Nigeria
-2493,success,NGN,Nigeria
-2494,success,NGN,Nigeria
-2495,success,USD,United Kingdom
-2498,failed,NGN,United States
-2499,success,NGN,Nigeria
-2500,abandoned,NGN,Nigeria
-2501,success,NGN,Nigeria
-2502,success,NGN,Nigeria
-2505,failed,NGN,Nigeria
-2506,success,NGN,Nigeria
-2507,success,NGN,Nigeria
-2508,success,NGN,Nigeria
-2509,success,NGN,Nigeria
-2511,abandoned,NGN,United States
-2512,failed,NGN,Nigeria
-2516,success,NGN,Nigeria
-2518,success,USD,United States
-2520,success,NGN,Nigeria
-2521,success,NGN,Nigeria
-2522,success,NGN,Nigeria
-2524,abandoned,USD,United States
-2526,failed,NGN,Nigeria
-2527,failed,NGN,Nigeria
-2529,success,NGN,Nigeria
-2530,success,NGN,Nigeria
-2533,success,NGN,Nigeria
-2534,failed,NGN,Nigeria
-2535,success,NGN,Nigeria
-2536,failed,USD,United States
-2538,success,NGN,Nigeria
-2539,failed,NGN,Nigeria
-2540,success,NGN,Nigeria
-2541,failed,NGN,Nigeria
-2542,success,NGN,Nigeria
-2543,success,NGN,Nigeria
-2544,success,NGN,Nigeria
-2545,success,NGN,Nigeria
-2546,success,NGN,Nigeria
-2548,abandoned,NGN,Nigeria
-2549,failed,NGN,Nigeria
-2550,success,USD,United Kingdom
-2552,success,NGN,Nigeria
-2554,failed,NGN,Nigeria
-2556,success,NGN,Nigeria
-2557,success,NGN,Nigeria
-2558,success,NGN,United States
-2559,success,NGN,Nigeria
-2562,failed,NGN,United States
-2563,success,NGN,Nigeria
-2564,failed,NGN,Nigeria
-2565,abandoned,NGN,Nigeria
-2566,success,NGN,Nigeria
-2567,success,NGN,Nigeria
-2570,failed,NGN,Nigeria
-2571,reversed,USD,United Kingdom
-2572,failed,NGN,Nigeria
-2573,success,NGN,Nigeria
-2574,success,NGN,Nigeria
-2575,success,NGN,Nigeria
-2577,success,NGN,Nigeria
-2580,success,NGN,Nigeria
-2581,success,NGN,Nigeria
-2582,success,NGN,United Kingdom
-2583,success,NGN,Nigeria
-2585,success,NGN,Nigeria
-2586,success,USD,Canada
-2587,failed,NGN,Nigeria
-2588,success,NGN,Nigeria
-2589,abandoned,USD,United Kingdom
-2590,success,NGN,Nigeria
-2592,success,NGN,Nigeria
-2593,success,NGN,Nigeria
-2596,success,NGN,Nigeria
-2598,success,NGN,Nigeria
-2600,success,NGN,Nigeria
-2602,success,NGN,Nigeria
-2603,success,NGN,Nigeria
-2606,success,USD,United States
-2607,success,NGN,Nigeria
-2609,success,NGN,Nigeria
-2610,failed,NGN,Nigeria
-2613,failed,NGN,Nigeria
-2614,success,NGN,Nigeria
-2616,failed,NGN,United States
-2617,success,NGN,Nigeria
-2619,failed,NGN,Nigeria
-2620,success,NGN,Nigeria
-2624,success,NGN,Nigeria
-2625,success,NGN,Nigeria
-2631,success,NGN,Nigeria
-2632,success,NGN,Nigeria
-2634,success,NGN,Nigeria
-2635,failed,NGN,Nigeria
-2636,success,NGN,Nigeria
-2637,abandoned,NGN,Nigeria
-2641,success,NGN,Nigeria
-2642,success,NGN,Nigeria
-2643,success,NGN,Nigeria
-2647,failed,USD,United States
-2650,success,NGN,Nigeria
-2652,success,NGN,Nigeria
-2655,success,NGN,Nigeria
-2658,failed,NGN,Nigeria
-2659,failed,NGN,Nigeria
-2660,success,NGN,Nigeria
-2663,success,NGN,Nigeria
-2664,success,NGN,Canada
-2666,success,NGN,United Kingdom
-2667,failed,NGN,Nigeria
-2668,success,NGN,Nigeria
-2670,success,NGN,Nigeria
-2672,success,NGN,Nigeria
-2673,success,NGN,Nigeria
-2674,success,USD,United Kingdom
-2675,success,NGN,Nigeria
-2677,success,USD,United States
-2680,failed,NGN,Nigeria
-2682,success,NGN,Nigeria
-2683,success,NGN,Nigeria
-2685,success,NGN,Nigeria
-2687,success,NGN,Nigeria
-2692,failed,NGN,Nigeria
-2694,success,USD,Nigeria
-2695,success,NGN,Nigeria
-2698,failed,NGN,Nigeria
-2699,success,NGN,Nigeria
-2700,failed,NGN,Nigeria
-2701,success,NGN,Nigeria
-2702,success,NGN,Nigeria
-2703,success,NGN,Nigeria
-2704,success,NGN,Nigeria
-2705,success,NGN,Nigeria
-2707,failed,NGN,Nigeria
-2708,abandoned,NGN,Nigeria
-2709,failed,USD,Nigeria
-2710,success,NGN,United Kingdom
-2711,success,NGN,Nigeria
-2712,success,NGN,Nigeria
-2713,success,NGN,Nigeria
-2714,success,NGN,Nigeria
-2715,success,NGN,Nigeria
-2716,success,NGN,Nigeria
-2718,abandoned,USD,Canada
-2719,failed,NGN,Nigeria
-2720,success,NGN,Nigeria
-2721,success,USD,United States
-2722,success,NGN,Nigeria
-2725,success,NGN,Nigeria
-2727,success,NGN,Nigeria
-2729,failed,USD,Nigeria
-2731,success,NGN,Nigeria
-2733,success,NGN,Nigeria
-2734,failed,NGN,Nigeria
-2737,abandoned,NGN,Nigeria
-2739,success,NGN,Nigeria
-2741,abandoned,NGN,Nigeria
-2742,reversed,NGN,Nigeria
-2743,success,NGN,Nigeria
-2744,failed,USD,United States
-2747,success,NGN,Nigeria
-2748,success,NGN,Nigeria
-2749,failed,USD,Cayman Islands
-2750,success,NGN,Nigeria
-2752,success,USD,United Kingdom
-2753,success,USD,Ireland
-2758,failed,NGN,United States
-2759,failed,NGN,Nigeria
-2762,success,NGN,Nigeria
-2763,success,NGN,Nigeria
-2764,success,NGN,Nigeria
-2765,success,NGN,Nigeria
-2767,success,USD,United Kingdom
-2768,success,NGN,Nigeria
-2769,reversed,NGN,Nigeria
-2773,success,NGN,Nigeria
-2774,success,NGN,Nigeria
-2775,success,NGN,Nigeria
-2776,success,NGN,Nigeria
-2777,reversed,NGN,Nigeria
-2779,success,NGN,Nigeria
-2780,failed,NGN,Nigeria
-2782,success,NGN,Nigeria
-2783,success,NGN,Nigeria
-2788,success,NGN,Nigeria
-2789,abandoned,NGN,Nigeria
-2791,success,NGN,Nigeria
-2792,success,NGN,Nigeria
-2795,failed,NGN,Nigeria
-2796,success,NGN,Nigeria
-2799,success,NGN,Nigeria
-2800,success,USD,Nigeria
-2801,success,NGN,Nigeria
-2803,success,NGN,Nigeria
-2805,success,NGN,Nigeria
-2807,success,NGN,Ireland
-2808,success,NGN,Nigeria
-2809,success,NGN,Nigeria
-2810,failed,NGN,Nigeria
-2811,success,NGN,Nigeria
-2812,success,NGN,Nigeria
-2813,success,NGN,Nigeria
-2814,success,NGN,Nigeria
-2815,success,NGN,Nigeria
-2818,failed,USD,United States
-2820,failed,USD,United States
-2821,success,NGN,Nigeria
-2822,failed,NGN,United Kingdom
-2823,success,NGN,Nigeria
-2825,success,NGN,Nigeria
-2826,failed,NGN,Nigeria
-2827,abandoned,USD,Bangladesh
-2829,success,NGN,France
-2831,success,NGN,United Kingdom
-2832,failed,NGN,Nigeria
-2836,success,USD,United States
-2837,failed,NGN,Nigeria
-2841,success,NGN,Nigeria
-2844,success,NGN,Nigeria
-2845,abandoned,USD,United States
-2847,failed,NGN,Nigeria
-2848,failed,NGN,Nigeria
-2849,success,NGN,Nigeria
-2850,success,NGN,Nigeria
-2852,failed,NGN,United Kingdom
-2853,success,NGN,Nigeria
-2854,success,NGN,Nigeria
-2855,success,NGN,Nigeria
-2856,success,NGN,Nigeria
-2857,success,USD,United Arab Emirate
-2858,success,NGN,Nigeria
-2859,abandoned,NGN,Nigeria
-2861,success,NGN,Nigeria
-2862,success,NGN,Nigeria
-2863,success,NGN,Nigeria
-2864,reversed,NGN,Nigeria
-2867,success,NGN,Nigeria
-2868,success,NGN,Nigeria
-2869,success,NGN,Nigeria
-2872,success,NGN,United States
-2874,success,NGN,Nigeria
-2879,success,NGN,Nigeria
-2880,success,NGN,Canada
-2882,success,NGN,Nigeria
-2883,success,NGN,Nigeria
-2886,failed,NGN,Nigeria
-2887,success,NGN,Nigeria
-2888,success,USD,United States
-2891,success,USD,Canada
-2892,failed,NGN,Nigeria
-2896,success,NGN,Nigeria
-2897,failed,NGN,Nigeria
-2898,failed,NGN,Nigeria
-2899,success,NGN,Nigeria
-2901,success,NGN,Nigeria
-2902,success,NGN,Nigeria
-2904,success,NGN,Nigeria
-2905,failed,USD,Nigeria
-2906,success,NGN,Nigeria
-2907,success,NGN,Nigeria
-2908,success,NGN,Nigeria
-2911,success,NGN,Nigeria
-2912,success,NGN,Nigeria
-2914,success,NGN,Nigeria
-2915,abandoned,NGN,Nigeria
-2916,success,NGN,Nigeria
-2919,success,USD,United Kingdom
-2920,success,NGN,Nigeria
-2924,success,NGN,Nigeria
-2925,failed,NGN,Nigeria
-2927,failed,USD,United Kingdom
-2931,success,NGN,Nigeria
-2936,success,NGN,Nigeria
-2937,failed,NGN,United States
-2940,success,NGN,Nigeria
-2941,success,NGN,Nigeria
-2942,success,NGN,Nigeria
-2946,success,NGN,Nigeria
-2947,success,NGN,Nigeria
-2950,failed,NGN,Nigeria
-2951,success,NGN,Nigeria
-2953,success,USD,United States
-2955,success,NGN,Nigeria
-2956,failed,NGN,Nigeria
-2957,success,NGN,Nigeria
-2958,success,NGN,United States
-2959,success,USD,United States
-2961,success,NGN,Nigeria
-2966,failed,NGN,Nigeria
-2967,success,NGN,Nigeria
-2968,failed,USD,United States
-2969,success,NGN,Nigeria
-2970,success,NGN,Nigeria
-2974,success,NGN,Nigeria
-2978,success,NGN,Nigeria
-2981,reversed,NGN,United Kingdom
-2982,success,NGN,Nigeria
-2983,success,NGN,Nigeria
-2984,abandoned,NGN,Nigeria
-2986,success,USD,United States
-2987,failed,NGN,Nigeria
-2988,failed,NGN,Nigeria
-2990,success,NGN,Nigeria
-2992,failed,NGN,Nigeria
-2993,success,NGN,Nigeria
-2994,abandoned,NGN,Nigeria
-2995,reversed,NGN,Nigeria
-2996,success,NGN,Nigeria
-2998,success,NGN,Nigeria
-2999,success,USD,United Kingdom
-3000,reversed,NGN,Nigeria
-3001,success,NGN,Nigeria
-3004,success,NGN,Nigeria
-3006,abandoned,NGN,Nigeria
-3007,success,NGN,Nigeria
-3008,success,NGN,Nigeria
-3010,success,NGN,Nigeria
-3011,failed,USD,United States
-3012,reversed,NGN,Nigeria
-3014,failed,USD,United States
-3016,success,NGN,Nigeria
-3019,success,NGN,Nigeria
-3021,success,NGN,Nigeria
-3024,success,NGN,Nigeria
-3025,abandoned,NGN,Nigeria
-3026,success,NGN,Nigeria
-3027,reversed,NGN,Nigeria
-3029,success,NGN,Nigeria
-3032,success,NGN,Nigeria
-3036,success,NGN,Nigeria
-3037,success,NGN,Nigeria
-3039,success,NGN,Nigeria
-3041,success,NGN,Nigeria
-3042,success,NGN,Nigeria
-3043,success,NGN,Nigeria
-3044,success,NGN,Nigeria
-3045,success,NGN,Nigeria
-3047,success,NGN,Nigeria
-3049,success,NGN,Nigeria
-3050,success,NGN,Nigeria
-3051,failed,NGN,Nigeria
-3052,success,NGN,Nigeria
-3053,success,NGN,Nigeria
-3056,success,NGN,Nigeria
-3063,success,USD,United States
-3065,success,NGN,Nigeria
-3066,success,NGN,Nigeria
-3068,success,NGN,Nigeria
-3069,success,NGN,Nigeria
-3071,success,NGN,United Kingdom
-3073,failed,NGN,Nigeria
-3074,abandoned,NGN,Nigeria
-3078,success,NGN,Nigeria
-3079,success,NGN,Nigeria
-3080,success,NGN,Nigeria
-3082,success,NGN,Nigeria
-3083,failed,NGN,United States
-3084,abandoned,NGN,Nigeria
-3087,failed,USD,Canada
-3088,success,NGN,Nigeria
-3089,success,NGN,Nigeria
-3090,success,NGN,Nigeria
-3091,success,NGN,Nigeria
-3095,failed,USD,United States
-3096,failed,NGN,Nigeria
-3098,abandoned,USD,United States
-3100,abandoned,NGN,Nigeria
-3101,success,NGN,Nigeria
-3102,success,NGN,Nigeria
-3104,success,NGN,Nigeria
-3105,success,NGN,Nigeria
-3106,abandoned,NGN,Nigeria
-3107,success,NGN,Nigeria
-3110,failed,NGN,Nigeria
-3113,success,NGN,Nigeria
-3114,abandoned,NGN,Nigeria
-3115,success,NGN,Nigeria
-3116,success,NGN,Nigeria
-3118,success,NGN,Nigeria
-3119,success,NGN,Nigeria
-3122,success,NGN,United Kingdom
-3123,success,NGN,Nigeria
-3124,success,NGN,Nigeria
-3125,success,NGN,Nigeria
-3127,success,NGN,Nigeria
-3128,success,USD,United States
-3130,success,NGN,Nigeria
-3135,failed,NGN,United States
-3136,success,NGN,Nigeria
-3138,success,NGN,Nigeria
-3139,success,NGN,Nigeria
-3141,failed,NGN,Nigeria
-3143,failed,NGN,Nigeria
-3144,success,NGN,Nigeria
-3145,success,NGN,Nigeria
-3147,success,NGN,Nigeria
-3148,success,NGN,Nigeria
-3149,success,NGN,Nigeria
-3150,success,NGN,Nigeria
-3154,success,NGN,Nigeria
-3157,success,NGN,Nigeria
-3158,abandoned,NGN,Nigeria
-3159,abandoned,USD,United States
-3160,failed,NGN,Nigeria
-3162,success,NGN,Nigeria
-3163,success,NGN,Nigeria
-3165,success,NGN,Nigeria
-3167,success,USD,Ireland
-3169,failed,NGN,Nigeria
-3170,abandoned,NGN,Nigeria
-3171,success,NGN,Nigeria
-3173,failed,NGN,Nigeria
-3176,success,NGN,Nigeria
-3180,failed,NGN,Nigeria
-3181,success,NGN,Nigeria
-3182,success,NGN,Nigeria
-3183,success,NGN,Nigeria
-3188,success,NGN,Nigeria
-3189,failed,USD,United States
-3190,failed,NGN,Nigeria
-3192,success,NGN,Nigeria
-3193,failed,NGN,Nigeria
-3196,failed,NGN,Australia
-3199,success,NGN,Nigeria
-3200,success,NGN,Nigeria
-3201,success,NGN,Nigeria
-3202,failed,USD,Nigeria
-3204,failed,NGN,Nigeria
-3206,success,NGN,Nigeria
-3207,abandoned,NGN,Nigeria
-3208,success,USD,United Kingdom
-3213,success,NGN,Nigeria
-3217,failed,USD,United States
-3220,success,NGN,Nigeria
-3222,success,NGN,Nigeria
-3226,success,NGN,Nigeria
-3228,failed,NGN,Nigeria
-3230,abandoned,NGN,Nigeria
-3231,success,NGN,Nigeria
-3233,success,NGN,Nigeria
-3234,success,NGN,Nigeria
-3239,success,NGN,Nigeria
-3240,success,NGN,Nigeria
-3241,failed,NGN,United Kingdom
-3242,success,NGN,Nigeria
-3243,abandoned,USD,Italy
-3248,success,NGN,Nigeria
-3249,abandoned,NGN,Nigeria
-3250,failed,NGN,United States
-3252,success,USD,United Kingdom
-3255,success,NGN,United States
-3256,abandoned,NGN,Nigeria
-3257,failed,NGN,Nigeria
-3259,failed,USD,Nigeria
-3261,failed,NGN,Nigeria
-3263,failed,USD,United States
-3265,success,USD,United Kingdom
-3267,success,USD,United States
-3268,success,NGN,Nigeria
-3271,abandoned,USD,France
-3273,abandoned,NGN,Nigeria
-3276,success,NGN,Nigeria
+id,status,currency,country_code,country_name
+1,failed,USD,US,United States
+2,success,NGN,NG,Nigeria
+3,abandoned,NGN,null,null
+4,success,NGN,NG,Nigeria
+5,abandoned,NGN,NG,Nigeria
+6,abandoned,NGN,null,null
+7,success,NGN,NG,Nigeria
+8,abandoned,USD,null,null
+9,abandoned,NGN,null,null
+10,abandoned,NGN,null,null
+11,success,NGN,NG,Nigeria
+12,failed,USD,US,United States
+13,abandoned,NGN,NG,Nigeria
+14,success,NGN,NG,Nigeria
+15,abandoned,NGN,NG,Nigeria
+16,success,NGN,NG,Nigeria
+17,abandoned,NGN,null,null
+18,abandoned,NGN,null,null
+19,abandoned,USD,US,United States
+20,failed,USD,US,United States
+21,success,NGN,US,United States
+22,failed,NGN,GB,United Kingdom
+23,abandoned,NGN,null,null
+24,abandoned,NGN,GH,Ghana
+25,failed,NGN,GB,United Kingdom
+26,success,NGN,NG,Nigeria
+27,failed,NGN,NG,Nigeria
+28,failed,NGN,null,null
+29,failed,NGN,NG,Nigeria
+30,abandoned,USD,null,null
+31,abandoned,USD,US,United States
+32,success,NGN,NG,Nigeria
+33,abandoned,USD,null,null
+34,success,NGN,NG,Nigeria
+35,abandoned,NGN,null,null
+36,failed,NGN,NG,Nigeria
+37,abandoned,USD,null,null
+38,abandoned,NGN,null,null
+39,success,USD,ZA,South Africa
+40,success,NGN,NG,Nigeria
+41,abandoned,NGN,NG,Nigeria
+42,abandoned,NGN,null,null
+43,abandoned,NGN,null,null
+44,success,NGN,NG,Nigeria
+45,abandoned,NGN,null,null
+46,abandoned,NGN,null,null
+47,abandoned,NGN,null,null
+48,success,NGN,GB,United Kingdom
+49,abandoned,NGN,null,null
+50,failed,NGN,NG,Nigeria
+51,success,NGN,NG,Nigeria
+52,abandoned,NGN,null,null
+53,success,NGN,GB,United Kingdom
+54,abandoned,NGN,null,null
+55,abandoned,NGN,null,null
+56,success,NGN,NG,Nigeria
+57,success,NGN,NG,null
+58,abandoned,NGN,null,null
+59,success,NGN,NG,Nigeria
+60,success,USD,GB,United Kingdom
+61,success,NGN,NG,Nigeria
+62,success,NGN,NG,Nigeria
+63,abandoned,USD,US,United States
+64,abandoned,NGN,null,null
+65,success,NGN,NG,Nigeria
+66,abandoned,USD,null,null
+67,success,NGN,null,null
+68,abandoned,NGN,null,null
+69,abandoned,NGN,null,null
+70,success,NGN,NG,Nigeria
+71,abandoned,NGN,null,null
+72,abandoned,USD,null,null
+73,abandoned,NGN,null,null
+74,abandoned,NGN,null,null
+75,success,NGN,NG,Nigeria
+76,abandoned,NGN,null,null
+77,failed,NGN,NG,Nigeria
+78,success,NGN,NG,Nigeria
+79,abandoned,NGN,null,null
+80,success,NGN,NG,Nigeria
+81,success,NGN,NG,Nigeria
+82,abandoned,NGN,null,null
+83,success,USD,US,United States
+84,success,NGN,NG,Nigeria
+85,success,NGN,NG,Nigeria
+86,abandoned,NGN,null,null
+87,success,NGN,NG,Nigeria
+88,failed,NGN,US,United States
+89,success,USD,US,United States
+90,abandoned,NGN,null,null
+91,abandoned,NGN,null,null
+92,success,NGN,NG,Nigeria
+93,abandoned,NGN,null,null
+94,abandoned,NGN,null,null
+95,success,NGN,NG,Nigeria
+96,abandoned,USD,null,null
+97,success,NGN,NG,Nigeria
+98,failed,NGN,NG,Nigeria
+99,abandoned,NGN,null,null
+100,abandoned,USD,null,null
+101,failed,NGN,NG,Nigeria
+102,abandoned,NGN,null,null
+103,success,NGN,GB,United Kingdom
+104,success,USD,US,United States
+105,abandoned,NGN,null,null
+106,success,USD,null,null
+107,abandoned,NGN,null,null
+108,success,NGN,GB,United Kingdom
+109,abandoned,NGN,null,null
+110,abandoned,NGN,null,null
+111,abandoned,USD,null,null
+112,abandoned,NGN,null,null
+113,success,NGN,NG,Nigeria
+114,abandoned,NGN,null,null
+115,abandoned,NGN,null,null
+116,success,NGN,NG,Nigeria
+117,abandoned,NGN,null,null
+118,abandoned,USD,null,null
+119,abandoned,NGN,null,null
+120,success,NGN,NG,Nigeria
+121,abandoned,NGN,null,null
+122,abandoned,NGN,null,null
+123,success,NGN,NG,Nigeria
+124,success,NGN,NG,Nigeria
+125,success,NGN,NG,Nigeria
+126,success,NGN,NG,Nigeria
+127,abandoned,USD,IT,Italy
+128,abandoned,USD,null,null
+129,success,NGN,NG,Nigeria
+130,success,NGN,US,United States
+131,success,NGN,NG,Nigeria
+132,failed,NGN,NG,Nigeria
+133,failed,NGN,NG,Nigeria
+134,abandoned,NGN,null,null
+135,success,NGN,NG,Nigeria
+136,success,NGN,NG,Nigeria
+137,failed,USD,US,United States
+138,abandoned,NGN,null,null
+139,success,NGN,NG,Nigeria
+140,success,NGN,NG,Nigeria
+141,success,NGN,NG,Nigeria
+142,success,NGN,NG,Nigeria
+143,abandoned,USD,null,null
+144,abandoned,NGN,null,null
+145,failed,USD,US,United States
+146,reversed,NGN,NG,Nigeria
+147,success,NGN,NG,Nigeria
+148,abandoned,USD,null,null
+149,abandoned,NGN,NG,Nigeria
+150,success,NGN,NG,Nigeria
+151,failed,NGN,NG,Nigeria
+152,success,NGN,NG,Nigeria
+153,abandoned,USD,null,null
+154,success,NGN,NG,Nigeria
+155,abandoned,NGN,null,null
+156,failed,NGN,NG,Nigeria
+157,success,NGN,NG,Nigeria
+158,success,NGN,NG,Nigeria
+159,abandoned,NGN,NG,Nigeria
+160,success,NGN,US,United States
+161,abandoned,NGN,null,null
+162,success,NGN,NG,Nigeria
+163,success,USD,GB,United Kingdom
+164,abandoned,NGN,null,null
+165,abandoned,NGN,null,null
+166,success,NGN,NG,Nigeria
+167,abandoned,USD,null,null
+168,abandoned,NGN,null,null
+169,abandoned,NGN,null,null
+170,failed,NGN,NG,Nigeria
+171,success,NGN,NG,Nigeria
+172,abandoned,NGN,null,null
+173,success,NGN,NG,Nigeria
+174,success,NGN,NG,Nigeria
+175,failed,NGN,US,United States
+176,abandoned,USD,null,null
+177,success,NGN,NG,Nigeria
+178,abandoned,NGN,null,null
+179,abandoned,NGN,null,null
+180,abandoned,USD,null,null
+181,success,NGN,NG,Nigeria
+182,failed,NGN,NG,Nigeria
+183,success,NGN,NG,Nigeria
+184,abandoned,NGN,null,null
+185,abandoned,USD,null,null
+186,abandoned,NGN,null,null
+187,success,NGN,NG,Nigeria
+188,abandoned,NGN,null,null
+189,abandoned,NGN,null,null
+190,failed,USD,US,United States
+191,abandoned,NGN,null,null
+192,abandoned,NGN,null,null
+193,success,NGN,NG,Nigeria
+194,success,NGN,NG,Nigeria
+195,abandoned,NGN,null,null
+196,success,NGN,NG,Nigeria
+197,failed,USD,NG,Nigeria
+198,success,NGN,NG,Nigeria
+199,success,USD,IE,Ireland
+200,success,NGN,NG,Nigeria
+201,abandoned,NGN,null,null
+202,abandoned,NGN,null,null
+203,abandoned,USD,null,null
+204,abandoned,NGN,null,null
+205,failed,NGN,NG,Nigeria
+206,success,USD,NG,Nigeria
+207,success,USD,ZA,South Africa
+208,abandoned,NGN,null,null
+209,success,NGN,NG,Nigeria
+210,abandoned,NGN,null,null
+211,abandoned,NGN,null,null
+212,success,NGN,NG,Nigeria
+213,success,NGN,NG,Nigeria
+214,abandoned,NGN,null,null
+215,failed,NGN,NG,Nigeria
+216,abandoned,NGN,null,null
+217,success,NGN,GB,United Kingdom
+218,abandoned,NGN,null,null
+219,success,USD,US,United States
+220,success,NGN,NG,Nigeria
+221,abandoned,USD,US,United States
+222,success,NGN,NG,Nigeria
+223,success,NGN,NG,Nigeria
+224,failed,USD,US,United States
+225,abandoned,NGN,null,null
+226,success,NGN,NG,Nigeria
+227,failed,USD,US,United States
+228,abandoned,USD,null,null
+229,abandoned,NGN,NG,Nigeria
+230,success,NGN,NG,Nigeria
+231,abandoned,NGN,null,null
+232,failed,NGN,CA,Canada
+233,abandoned,NGN,null,null
+234,success,NGN,NG,Nigeria
+235,abandoned,NGN,null,null
+236,abandoned,NGN,null,null
+237,success,NGN,NG,Nigeria
+238,abandoned,NGN,US,United States
+239,success,USD,GB,United Kingdom
+240,success,NGN,NG,Nigeria
+241,abandoned,USD,US,United States
+242,abandoned,NGN,null,null
+243,failed,NGN,NG,Nigeria
+244,failed,USD,US,United States
+245,abandoned,NGN,NG,Nigeria
+246,success,NGN,NG,Nigeria
+247,success,NGN,NG,Nigeria
+248,success,NGN,NG,Nigeria
+249,reversed,NGN,NG,Nigeria
+250,abandoned,NGN,null,null
+251,success,USD,CA,Canada
+252,abandoned,NGN,null,null
+253,success,NGN,NG,Nigeria
+254,success,NGN,NG,Nigeria
+255,success,NGN,NG,Nigeria
+256,success,NGN,NG,Nigeria
+257,abandoned,USD,null,null
+258,failed,USD,GB,United Kingdom
+259,failed,NGN,NG,Nigeria
+260,success,NGN,NG,Nigeria
+261,abandoned,NGN,null,null
+262,abandoned,NGN,null,null
+263,abandoned,USD,null,null
+264,success,NGN,GB,United Kingdom
+265,abandoned,NGN,null,null
+266,abandoned,NGN,null,null
+267,failed,NGN,NG,Nigeria
+268,success,NGN,NG,Nigeria
+269,abandoned,NGN,null,null
+270,abandoned,NGN,null,null
+271,success,USD,US,United States
+272,success,NGN,NG,Nigeria
+273,success,NGN,GB,United Kingdom
+274,success,NGN,NG,Nigeria
+275,abandoned,NGN,null,null
+276,failed,NGN,NG,Nigeria
+277,success,NGN,NG,Nigeria
+278,success,NGN,NG,Nigeria
+279,abandoned,NGN,null,null
+280,abandoned,USD,null,null
+281,abandoned,NGN,null,null
+282,abandoned,NGN,null,null
+283,success,NGN,NG,Nigeria
+284,abandoned,NGN,null,null
+285,abandoned,NGN,null,null
+286,success,NGN,NG,Nigeria
+287,abandoned,USD,null,null
+288,abandoned,NGN,null,null
+289,abandoned,NGN,NG,Nigeria
+290,abandoned,NGN,null,null
+291,abandoned,USD,null,null
+292,success,NGN,NG,Nigeria
+293,abandoned,NGN,null,null
+294,abandoned,NGN,NG,Nigeria
+295,success,NGN,NG,Nigeria
+296,abandoned,NGN,null,null
+297,success,NGN,NG,Nigeria
+298,abandoned,NGN,null,null
+299,success,NGN,NG,Nigeria
+300,abandoned,NGN,null,null
+301,success,USD,GB,United Kingdom
+302,success,NGN,ZA,South Africa
+303,success,NGN,NG,Nigeria
+304,abandoned,USD,null,null
+305,abandoned,NGN,null,null
+306,success,NGN,US,United States
+307,success,USD,null,null
+308,failed,USD,US,United States
+309,success,NGN,NG,Nigeria
+310,abandoned,NGN,null,null
+311,success,NGN,NG,Nigeria
+312,success,NGN,NG,Nigeria
+313,success,NGN,NG,Nigeria
+314,failed,NGN,NG,Nigeria
+315,success,NGN,NG,Nigeria
+316,abandoned,NGN,null,null
+317,abandoned,NGN,null,null
+318,success,NGN,NG,Nigeria
+319,success,NGN,NG,Nigeria
+320,success,NGN,NG,Nigeria
+321,abandoned,NGN,null,null
+322,success,NGN,NG,Nigeria
+323,success,NGN,NG,Nigeria
+324,success,NGN,NG,Nigeria
+325,failed,NGN,NG,Nigeria
+326,success,NGN,NG,Nigeria
+327,abandoned,NGN,null,null
+328,success,NGN,NG,Nigeria
+329,abandoned,USD,null,null
+330,abandoned,NGN,null,null
+331,success,USD,US,United States
+332,abandoned,NGN,null,null
+333,failed,NGN,NG,Nigeria
+334,abandoned,NGN,null,null
+335,success,NGN,NG,Nigeria
+336,abandoned,NGN,null,null
+337,abandoned,NGN,null,null
+338,failed,USD,US,United States
+339,success,NGN,NG,Nigeria
+340,abandoned,NGN,null,null
+341,abandoned,NGN,null,null
+342,success,NGN,NG,Nigeria
+343,success,USD,US,United States
+344,success,NGN,NG,Nigeria
+345,success,NGN,NG,Nigeria
+346,success,NGN,NG,Nigeria
+347,abandoned,NGN,null,null
+348,abandoned,NGN,null,null
+349,abandoned,NGN,null,null
+350,abandoned,NGN,null,null
+351,abandoned,NGN,null,null
+352,abandoned,NGN,null,null
+353,success,NGN,NG,Nigeria
+354,abandoned,USD,null,null
+355,success,NGN,NG,Nigeria
+356,failed,NGN,null,null
+357,failed,NGN,BD,Bangladesh
+358,success,USD,US,United States
+359,abandoned,NGN,null,null
+360,abandoned,NGN,null,null
+361,abandoned,NGN,null,null
+362,failed,USD,NA,Namibia
+363,success,NGN,NG,Nigeria
+364,success,NGN,NG,Nigeria
+365,success,NGN,NG,Nigeria
+366,abandoned,NGN,null,null
+367,abandoned,NGN,null,null
+368,success,NGN,NG,Nigeria
+369,failed,NGN,NG,Nigeria
+370,abandoned,NGN,null,null
+371,failed,NGN,GB,United Kingdom
+372,abandoned,NGN,null,null
+373,success,NGN,NG,Nigeria
+374,success,NGN,NG,Nigeria
+375,abandoned,NGN,null,null
+376,failed,NGN,NG,Nigeria
+377,abandoned,USD,null,null
+378,abandoned,NGN,NG,Nigeria
+379,abandoned,USD,null,null
+380,abandoned,NGN,null,null
+381,success,NGN,NG,Nigeria
+382,success,NGN,NG,Nigeria
+383,success,NGN,NG,Nigeria
+384,success,NGN,NG,Nigeria
+385,abandoned,USD,null,null
+386,abandoned,NGN,null,null
+387,abandoned,NGN,null,null
+388,success,NGN,NG,Nigeria
+389,success,NGN,NG,Nigeria
+390,abandoned,USD,US,United States
+391,abandoned,NGN,null,null
+392,abandoned,NGN,null,null
+393,success,NGN,NG,Nigeria
+394,abandoned,NGN,null,null
+395,abandoned,NGN,null,null
+396,abandoned,USD,null,null
+397,success,USD,ZA,South Africa
+398,success,NGN,GB,United Kingdom
+399,success,NGN,NG,Nigeria
+400,abandoned,NGN,null,null
+401,abandoned,NGN,null,null
+402,reversed,NGN,NG,Nigeria
+403,success,NGN,NG,Nigeria
+404,success,NGN,NG,Nigeria
+405,abandoned,NGN,null,null
+406,abandoned,NGN,null,null
+407,success,NGN,NG,Nigeria
+408,success,NGN,NG,Nigeria
+409,success,NGN,NG,Nigeria
+410,success,NGN,GB,United Kingdom
+411,reversed,NGN,NG,Nigeria
+412,failed,NGN,CA,Canada
+413,success,NGN,NG,Nigeria
+414,failed,NGN,NG,Nigeria
+415,abandoned,NGN,null,null
+416,failed,NGN,NG,Nigeria
+417,abandoned,NGN,null,null
+418,success,NGN,NG,Nigeria
+419,abandoned,NGN,null,null
+420,success,NGN,NG,Nigeria
+421,abandoned,NGN,null,null
+422,abandoned,NGN,null,null
+423,success,NGN,NG,Nigeria
+424,abandoned,NGN,null,null
+425,failed,NGN,US,United States
+426,failed,NGN,null,null
+427,success,NGN,NG,Nigeria
+428,abandoned,NGN,null,null
+429,abandoned,NGN,null,null
+430,success,NGN,NG,Nigeria
+431,success,NGN,NG,Nigeria
+432,success,NGN,NG,Nigeria
+433,success,NGN,NG,Nigeria
+434,abandoned,NGN,null,null
+435,success,NGN,NG,Nigeria
+436,success,USD,JP,Japan
+437,success,NGN,NG,Nigeria
+438,abandoned,NGN,null,null
+439,abandoned,NGN,null,null
+440,abandoned,NGN,null,null
+441,abandoned,NGN,null,null
+442,success,NGN,NG,Nigeria
+443,success,NGN,NG,Nigeria
+444,abandoned,NGN,null,null
+445,abandoned,NGN,null,null
+446,success,NGN,NG,Nigeria
+447,abandoned,NGN,null,null
+448,abandoned,USD,null,null
+449,abandoned,NGN,null,null
+450,reversed,USD,GB,United Kingdom
+451,abandoned,NGN,null,null
+452,abandoned,USD,null,null
+453,success,NGN,NG,Nigeria
+454,abandoned,NGN,null,null
+455,abandoned,NGN,null,null
+456,abandoned,NGN,null,null
+457,abandoned,NGN,null,null
+458,success,NGN,NG,Nigeria
+459,failed,USD,US,Nigeria
+460,success,USD,null,null
+461,abandoned,NGN,null,null
+462,abandoned,NGN,null,null
+463,abandoned,NGN,null,null
+464,abandoned,NGN,null,null
+465,failed,NGN,NG,Nigeria
+466,success,NGN,NG,Nigeria
+467,failed,NGN,US,United States
+468,abandoned,USD,null,null
+469,abandoned,NGN,null,null
+470,success,NGN,NG,Nigeria
+471,success,NGN,NG,Nigeria
+472,abandoned,NGN,null,null
+473,abandoned,NGN,null,null
+474,abandoned,NGN,null,null
+475,abandoned,NGN,null,null
+476,failed,NGN,NG,Nigeria
+477,abandoned,USD,null,null
+478,success,NGN,NG,Nigeria
+479,success,USD,US,United States
+480,abandoned,NGN,null,null
+481,abandoned,NGN,null,null
+482,failed,NGN,null,null
+483,abandoned,NGN,null,null
+484,success,USD,null,null
+485,abandoned,NGN,null,null
+486,success,NGN,NG,Nigeria
+487,success,NGN,NG,Nigeria
+488,failed,NGN,NG,Nigeria
+489,abandoned,NGN,null,null
+490,abandoned,NGN,null,null
+491,success,NGN,NG,Nigeria
+492,failed,NGN,null,null
+493,abandoned,NGN,NG,Nigeria
+494,abandoned,USD,null,null
+495,success,NGN,NG,Nigeria
+496,abandoned,NGN,null,null
+497,failed,NGN,NG,Nigeria
+498,success,NGN,NG,Nigeria
+499,abandoned,NGN,null,null
+500,abandoned,NGN,null,null
+501,success,NGN,NG,Nigeria
+502,abandoned,NGN,null,null
+503,abandoned,NGN,null,null
+504,abandoned,NGN,null,null
+505,success,NGN,NG,Nigeria
+506,abandoned,USD,null,null
+507,abandoned,NGN,null,null
+508,failed,NGN,NG,Nigeria
+509,abandoned,USD,null,null
+510,success,NGN,NG,Nigeria
+511,abandoned,NGN,null,null
+512,success,NGN,NG,Nigeria
+513,abandoned,NGN,null,null
+514,failed,NGN,NG,Nigeria
+515,abandoned,NGN,null,null
+516,abandoned,NGN,null,null
+517,success,NGN,NG,Nigeria
+518,success,NGN,NG,Nigeria
+519,success,NGN,NG,Nigeria
+520,success,NGN,NG,Nigeria
+521,abandoned,NGN,NG,Nigeria
+522,failed,USD,US,United States
+523,success,NGN,NG,Nigeria
+524,abandoned,NGN,null,null
+525,success,NGN,NG,Nigeria
+526,success,NGN,NG,Nigeria
+527,success,NGN,NG,Nigeria
+528,abandoned,NGN,null,null
+529,success,NGN,NG,Nigeria
+530,abandoned,NGN,null,null
+531,abandoned,NGN,null,null
+532,abandoned,NGN,NG,Nigeria
+533,success,NGN,NG,Nigeria
+534,failed,USD,US,United States
+535,failed,NGN,NG,Nigeria
+536,success,USD,GB,United Kingdom
+537,abandoned,NGN,null,null
+538,failed,USD,US,United States
+539,success,NGN,NG,Nigeria
+540,success,NGN,NG,Nigeria
+541,abandoned,NGN,null,null
+542,abandoned,NGN,null,null
+543,success,NGN,NG,Nigeria
+544,success,NGN,NG,Nigeria
+545,abandoned,NGN,null,null
+546,reversed,NGN,NG,Nigeria
+547,abandoned,NGN,null,null
+548,success,NGN,NG,Nigeria
+549,abandoned,NGN,null,null
+550,abandoned,NGN,null,null
+551,abandoned,USD,US,United States
+552,success,NGN,NG,Nigeria
+553,failed,NGN,null,null
+554,success,NGN,NG,Nigeria
+555,abandoned,NGN,null,null
+556,success,NGN,NG,Nigeria
+557,abandoned,NGN,null,null
+558,abandoned,NGN,null,null
+559,success,USD,US,United States
+560,abandoned,NGN,null,null
+561,success,NGN,NG,Nigeria
+562,abandoned,NGN,null,null
+563,failed,USD,US,United States
+564,abandoned,USD,null,null
+565,abandoned,NGN,null,null
+566,failed,NGN,NG,Nigeria
+567,abandoned,NGN,null,null
+568,success,NGN,NG,Nigeria
+569,failed,NGN,GB,United Kingdom
+570,abandoned,USD,null,null
+571,success,NGN,NG,Nigeria
+572,abandoned,NGN,null,null
+573,abandoned,USD,null,null
+574,abandoned,NGN,null,null
+575,success,USD,US,United States
+576,abandoned,USD,null,null
+577,abandoned,USD,FR,Nigeria
+578,failed,NGN,NG,Nigeria
+579,success,NGN,GB,United Kingdom
+580,abandoned,USD,null,null
+581,failed,NGN,NG,Nigeria
+582,abandoned,NGN,null,null
+583,success,NGN,NG,Nigeria
+584,success,NGN,NG,Nigeria
+585,abandoned,USD,null,null
+586,abandoned,NGN,null,null
+587,abandoned,NGN,null,null
+588,success,NGN,NG,Nigeria
+589,success,NGN,NG,Nigeria
+590,success,NGN,NG,Nigeria
+591,failed,NGN,NG,Nigeria
+592,abandoned,NGN,null,null
+593,success,NGN,NG,Nigeria
+594,abandoned,NGN,NG,Nigeria
+595,abandoned,NGN,null,null
+596,success,NGN,NG,Nigeria
+597,abandoned,NGN,null,null
+598,success,NGN,NG,Nigeria
+599,success,NGN,NG,Nigeria
+600,abandoned,NGN,null,null
+601,abandoned,NGN,null,null
+602,success,NGN,NG,Nigeria
+603,abandoned,NGN,null,null
+604,abandoned,NGN,null,null
+605,success,NGN,NG,Nigeria
+606,abandoned,NGN,null,null
+607,failed,NGN,NG,Nigeria
+608,success,NGN,NG,Nigeria
+609,failed,USD,US,United States
+610,success,NGN,NG,Nigeria
+611,success,NGN,NG,Nigeria
+612,abandoned,NGN,NG,Nigeria
+613,abandoned,NGN,null,null
+614,failed,NGN,NG,Nigeria
+615,success,NGN,NG,Nigeria
+616,success,NGN,NG,Nigeria
+617,success,NGN,NG,Nigeria
+618,abandoned,NGN,null,null
+619,success,NGN,NG,Nigeria
+620,abandoned,NGN,null,null
+621,abandoned,NGN,null,null
+622,abandoned,USD,GB,United Kingdom
+623,abandoned,NGN,null,null
+624,abandoned,NGN,null,null
+625,success,NGN,NG,Nigeria
+626,success,NGN,NG,Nigeria
+627,abandoned,NGN,null,null
+628,abandoned,USD,US,United States
+629,failed,NGN,GB,United Kingdom
+630,abandoned,NGN,null,null
+631,abandoned,NGN,null,null
+632,abandoned,NGN,null,null
+633,success,NGN,NG,Nigeria
+634,abandoned,NGN,null,null
+635,success,NGN,NG,Nigeria
+636,abandoned,NGN,null,null
+637,failed,NGN,NG,Nigeria
+638,success,NGN,NG,Nigeria
+639,success,NGN,NG,Nigeria
+640,failed,NGN,NG,Nigeria
+641,success,NGN,NG,Nigeria
+642,abandoned,USD,null,null
+643,abandoned,NGN,null,null
+644,success,NGN,NG,Nigeria
+645,success,NGN,NG,Nigeria
+646,failed,NGN,NG,Nigeria
+647,abandoned,NGN,null,null
+648,success,NGN,NG,Nigeria
+649,abandoned,NGN,null,null
+650,abandoned,NGN,null,null
+651,success,NGN,NG,Nigeria
+652,success,NGN,NG,Nigeria
+653,abandoned,NGN,null,null
+654,success,NGN,NG,Nigeria
+655,abandoned,NGN,NG,Nigeria
+656,success,NGN,NG,Nigeria
+657,abandoned,NGN,null,null
+658,success,NGN,NG,Nigeria
+659,success,NGN,NG,Nigeria
+660,success,NGN,NG,Nigeria
+661,success,NGN,NG,Nigeria
+662,success,NGN,NG,Nigeria
+663,failed,NGN,NG,Nigeria
+664,abandoned,NGN,null,null
+665,abandoned,USD,US,United States
+666,abandoned,NGN,null,null
+667,success,NGN,NG,Nigeria
+668,abandoned,NGN,null,null
+669,failed,USD,US,United States
+670,success,NGN,NG,Nigeria
+671,success,NGN,NG,Nigeria
+672,success,NGN,NG,Nigeria
+673,abandoned,NGN,null,null
+674,success,NGN,NG,Nigeria
+675,failed,USD,US,United States
+676,success,NGN,NG,Nigeria
+677,success,NGN,NG,Nigeria
+678,failed,NGN,NG,Nigeria
+679,success,NGN,NG,Nigeria
+680,abandoned,NGN,null,null
+681,success,NGN,NG,Nigeria
+682,abandoned,NGN,null,null
+683,failed,NGN,NG,Nigeria
+684,success,NGN,NG,Nigeria
+685,failed,NGN,CA,Canada
+686,success,NGN,NG,Nigeria
+687,failed,NGN,NG,Nigeria
+688,abandoned,NGN,null,null
+689,success,NGN,NG,Nigeria
+690,success,NGN,NG,Nigeria
+691,abandoned,NGN,null,null
+692,abandoned,USD,null,null
+693,success,NGN,NG,Nigeria
+694,success,NGN,NG,Nigeria
+695,abandoned,NGN,null,null
+696,success,NGN,NG,Nigeria
+697,success,USD,UA,Ukraine
+698,abandoned,NGN,null,null
+699,abandoned,NGN,null,null
+700,abandoned,NGN,NG,Nigeria
+701,success,USD,GB,United Kingdom
+702,success,NGN,NG,Nigeria
+703,success,NGN,NG,Nigeria
+704,abandoned,NGN,null,null
+705,success,NGN,NG,Nigeria
+706,abandoned,NGN,null,null
+707,success,NGN,NG,Nigeria
+708,abandoned,NGN,null,null
+709,abandoned,USD,null,null
+710,success,NGN,NG,Nigeria
+711,abandoned,NGN,null,null
+712,success,NGN,NG,Nigeria
+713,abandoned,NGN,null,null
+714,abandoned,NGN,null,null
+715,abandoned,NGN,null,null
+716,success,NGN,NG,Nigeria
+717,abandoned,NGN,null,null
+718,success,NGN,NG,Nigeria
+719,abandoned,NGN,null,null
+720,success,NGN,NG,Nigeria
+721,abandoned,NGN,null,null
+722,reversed,NGN,NG,Nigeria
+723,success,NGN,NG,Nigeria
+724,failed,NGN,NG,Nigeria
+725,abandoned,NGN,null,null
+726,abandoned,NGN,null,null
+727,abandoned,NGN,null,null
+728,failed,NGN,NG,Nigeria
+729,success,NGN,NG,Nigeria
+730,abandoned,USD,null,null
+731,success,NGN,NG,Nigeria
+732,abandoned,NGN,null,null
+733,success,NGN,NG,Nigeria
+734,success,NGN,NG,Nigeria
+735,abandoned,NGN,null,null
+736,abandoned,NGN,null,null
+737,success,NGN,NG,Nigeria
+738,abandoned,NGN,null,null
+739,success,NGN,NG,Nigeria
+740,abandoned,NGN,null,null
+741,failed,NGN,NG,Nigeria
+742,abandoned,NGN,null,null
+743,abandoned,NGN,null,null
+744,success,NGN,NG,Nigeria
+745,failed,NGN,GB,United Kingdom
+746,abandoned,NGN,null,null
+747,abandoned,NGN,null,null
+748,abandoned,NGN,null,null
+749,success,USD,GB,United Kingdom
+750,abandoned,NGN,null,null
+751,abandoned,NGN,null,null
+752,abandoned,USD,null,null
+753,failed,NGN,US,United States
+754,success,NGN,NG,Nigeria
+755,abandoned,NGN,null,null
+756,success,NGN,NG,Nigeria
+757,success,NGN,NG,Nigeria
+758,abandoned,NGN,null,null
+759,success,NGN,NG,Nigeria
+760,abandoned,USD,US,United States
+761,failed,NGN,GB,United Kingdom
+762,abandoned,NGN,null,null
+763,failed,NGN,NG,Nigeria
+764,failed,NGN,NG,Nigeria
+765,abandoned,USD,null,null
+766,abandoned,NGN,null,null
+767,success,NGN,NG,Nigeria
+768,abandoned,USD,US,United States
+769,success,NGN,NG,Nigeria
+770,abandoned,NGN,null,null
+771,abandoned,USD,US,United States
+772,success,NGN,NG,Nigeria
+773,abandoned,NGN,null,null
+774,abandoned,NGN,null,null
+775,success,NGN,NG,Nigeria
+776,success,NGN,NG,Nigeria
+777,abandoned,NGN,null,null
+778,success,NGN,NG,Nigeria
+779,success,NGN,NG,Nigeria
+780,success,NGN,NG,Nigeria
+781,abandoned,NGN,null,null
+782,reversed,NGN,NG,Nigeria
+783,abandoned,NGN,null,null
+784,success,NGN,NG,Nigeria
+785,abandoned,NGN,null,null
+786,failed,NGN,NG,Nigeria
+787,abandoned,USD,null,null
+788,abandoned,USD,null,null
+789,abandoned,USD,null,null
+790,success,NGN,NG,Nigeria
+791,abandoned,NGN,null,null
+792,success,USD,CA,Canada
+793,success,NGN,NG,Nigeria
+794,abandoned,USD,null,null
+795,success,NGN,NG,Nigeria
+796,success,USD,GB,United Kingdom
+797,abandoned,NGN,NG,Nigeria
+798,abandoned,NGN,GB,United Kingdom
+799,success,NGN,NG,Nigeria
+800,abandoned,NGN,null,null
+801,success,NGN,NG,Nigeria
+802,abandoned,NGN,null,null
+803,abandoned,NGN,null,null
+804,abandoned,NGN,null,null
+805,abandoned,USD,US,United States
+806,success,NGN,GB,United Kingdom
+807,abandoned,NGN,null,null
+808,abandoned,NGN,null,null
+809,success,NGN,NG,Nigeria
+810,success,NGN,NG,Nigeria
+811,abandoned,NGN,NG,Nigeria
+812,abandoned,NGN,null,null
+813,success,NGN,NG,Nigeria
+814,success,NGN,NG,Nigeria
+815,abandoned,USD,null,null
+816,abandoned,NGN,NG,Nigeria
+817,success,NGN,NG,Nigeria
+818,abandoned,USD,null,null
+819,abandoned,NGN,null,null
+820,abandoned,USD,FR,France
+821,abandoned,NGN,null,null
+822,success,NGN,NG,Nigeria
+823,failed,NGN,NG,Nigeria
+824,abandoned,NGN,null,null
+825,abandoned,NGN,null,null
+826,failed,USD,US,United States
+827,success,NGN,NG,Nigeria
+828,abandoned,NGN,null,null
+829,success,NGN,NG,Nigeria
+830,abandoned,NGN,null,null
+831,abandoned,NGN,null,null
+832,success,USD,US,United States
+833,success,NGN,NG,Nigeria
+834,abandoned,USD,US,United States
+835,abandoned,NGN,null,null
+836,failed,NGN,NG,Nigeria
+837,failed,NGN,NG,Nigeria
+838,success,NGN,NG,Nigeria
+839,success,NGN,NG,Nigeria
+840,abandoned,USD,null,null
+841,abandoned,NGN,null,null
+842,abandoned,NGN,null,null
+843,abandoned,NGN,null,null
+844,abandoned,NGN,null,null
+845,failed,NGN,NG,Nigeria
+846,abandoned,NGN,null,null
+847,success,NGN,NG,Nigeria
+848,abandoned,NGN,null,null
+849,success,NGN,NG,Nigeria
+850,failed,NGN,NG,Nigeria
+851,abandoned,NGN,null,null
+852,success,NGN,NG,Nigeria
+853,abandoned,NGN,null,null
+854,success,NGN,NG,Nigeria
+855,abandoned,USD,null,null
+856,abandoned,NGN,null,null
+857,failed,NGN,NG,Nigeria
+858,failed,NGN,NG,Nigeria
+859,success,NGN,NG,Nigeria
+860,success,NGN,NG,Nigeria
+861,success,NGN,NG,Nigeria
+862,success,NGN,NG,Nigeria
+863,abandoned,NGN,null,null
+864,abandoned,NGN,NG,Nigeria
+865,success,NGN,US,United States
+866,success,USD,GB,United Kingdom
+867,success,NGN,NG,Nigeria
+868,success,NGN,NG,Nigeria
+869,success,USD,GB,United Kingdom
+870,abandoned,USD,null,null
+871,abandoned,NGN,null,null
+872,abandoned,NGN,null,null
+873,success,NGN,NG,Nigeria
+874,failed,NGN,NG,Nigeria
+875,abandoned,NGN,null,null
+876,success,NGN,NG,Nigeria
+877,abandoned,NGN,null,null
+878,abandoned,NGN,null,null
+879,abandoned,NGN,null,null
+880,failed,USD,US,United States
+881,success,NGN,NG,Nigeria
+882,success,NGN,NG,Nigeria
+883,failed,NGN,US,United States
+884,success,NGN,NG,Nigeria
+885,abandoned,USD,US,United States
+886,success,NGN,NG,Nigeria
+887,success,NGN,NG,Nigeria
+888,success,NGN,NG,Nigeria
+889,abandoned,NGN,null,null
+890,success,NGN,NG,Nigeria
+891,success,USD,GB,United Kingdom
+892,success,USD,CM,Cameroon
+893,abandoned,NGN,null,null
+894,abandoned,NGN,null,null
+895,abandoned,NGN,null,null
+896,abandoned,NGN,null,null
+897,abandoned,NGN,null,null
+898,abandoned,USD,null,null
+899,abandoned,NGN,null,null
+900,success,NGN,NG,Nigeria
+901,success,NGN,NG,Nigeria
+902,success,NGN,NG,Nigeria
+903,success,USD,GB,United States
+904,success,NGN,NG,Nigeria
+905,abandoned,NGN,GB,United Kingdom
+906,success,NGN,NG,Nigeria
+907,success,NGN,US,United States
+908,reversed,NGN,NG,Nigeria
+909,success,USD,GB,United Kingdom
+910,success,NGN,NG,Nigeria
+911,success,NGN,NG,Nigeria
+912,success,NGN,NG,Nigeria
+913,success,NGN,NG,Nigeria
+914,abandoned,USD,null,null
+915,success,NGN,NG,Nigeria
+916,success,NGN,NG,Nigeria
+917,success,NGN,NG,Nigeria
+918,abandoned,NGN,null,null
+919,success,NGN,NG,Nigeria
+920,abandoned,NGN,null,null
+921,failed,NGN,NG,Nigeria
+922,success,NGN,null,Nigeria
+923,abandoned,NGN,null,null
+924,abandoned,NGN,null,null
+925,success,NGN,NG,Nigeria
+926,failed,NGN,NG,Nigeria
+927,abandoned,NGN,null,null
+928,abandoned,NGN,null,null
+929,abandoned,NGN,null,null
+930,success,NGN,NG,Nigeria
+931,abandoned,NGN,null,null
+932,abandoned,NGN,null,null
+933,abandoned,NGN,null,null
+934,abandoned,NGN,null,null
+935,abandoned,NGN,null,null
+936,success,NGN,null,null
+937,failed,USD,NG,Nigeria
+938,failed,NGN,NG,Nigeria
+939,success,NGN,NG,Nigeria
+940,success,USD,US,United States
+941,failed,USD,US,United States
+942,success,NGN,NG,Nigeria
+943,success,NGN,NG,Nigeria
+944,success,NGN,GB,United Kingdom
+945,success,NGN,NG,Nigeria
+946,abandoned,NGN,NG,Nigeria
+947,success,NGN,NG,Nigeria
+948,abandoned,USD,null,null
+949,success,NGN,NG,Nigeria
+950,abandoned,NGN,null,null
+951,success,NGN,NG,Nigeria
+952,abandoned,NGN,null,null
+953,failed,NGN,NG,Nigeria
+954,abandoned,NGN,null,null
+955,abandoned,NGN,null,null
+956,failed,NGN,NG,Nigeria
+957,success,USD,US,United States
+958,abandoned,USD,null,null
+959,abandoned,NGN,null,null
+960,abandoned,NGN,NG,Nigeria
+961,failed,NGN,NG,Nigeria
+962,success,USD,GB,United Kingdom
+963,success,NGN,NG,Nigeria
+964,abandoned,NGN,null,null
+965,abandoned,USD,null,null
+966,success,NGN,NG,Nigeria
+967,abandoned,NGN,null,null
+968,success,NGN,NG,Nigeria
+969,success,NGN,NG,Nigeria
+970,abandoned,USD,US,United States
+971,success,NGN,IN,Nigeria
+972,abandoned,NGN,NG,Nigeria
+973,failed,NGN,US,United States
+974,success,NGN,GB,United Kingdom
+975,success,NGN,NG,Nigeria
+976,abandoned,USD,null,null
+977,abandoned,NGN,null,null
+978,abandoned,NGN,null,null
+979,failed,NGN,NG,Nigeria
+980,abandoned,NGN,null,null
+981,abandoned,NGN,null,null
+982,abandoned,USD,US,United States
+983,success,NGN,NG,Nigeria
+984,success,NGN,NG,Nigeria
+985,failed,NGN,NG,Nigeria
+986,abandoned,NGN,null,null
+987,success,NGN,NG,Nigeria
+988,abandoned,NGN,null,null
+989,success,NGN,NG,Nigeria
+990,success,NGN,NG,Nigeria
+991,abandoned,NGN,null,null
+992,success,NGN,NG,Nigeria
+993,success,NGN,NG,Nigeria
+994,failed,NGN,NG,Nigeria
+995,success,NGN,NG,Nigeria
+996,success,USD,GB,United Kingdom
+997,abandoned,NGN,null,null
+998,success,NGN,NG,Nigeria
+999,success,NGN,NG,Nigeria
+1000,abandoned,NGN,null,null
+1001,success,USD,null,null
+1002,success,NGN,NG,Nigeria
+1003,failed,NGN,NG,Nigeria
+1004,abandoned,NGN,US,United States
+1005,abandoned,NGN,null,null
+1006,failed,NGN,NG,Nigeria
+1007,success,NGN,GB,United Kingdom
+1008,success,NGN,NG,Nigeria
+1009,abandoned,NGN,null,null
+1010,success,USD,US,United States
+1011,failed,NGN,NG,Nigeria
+1012,success,NGN,NG,Nigeria
+1013,abandoned,NGN,null,null
+1014,success,NGN,NG,Nigeria
+1015,abandoned,NGN,null,null
+1016,failed,NGN,NG,Nigeria
+1017,success,USD,US,United States
+1018,abandoned,NGN,null,null
+1019,success,NGN,NG,Nigeria
+1020,success,NGN,NG,Nigeria
+1021,failed,USD,NG,Nigeria
+1022,failed,NGN,NG,Nigeria
+1023,success,NGN,NG,Nigeria
+1024,abandoned,NGN,null,null
+1025,success,USD,KE,Kenya
+1026,abandoned,NGN,NG,Nigeria
+1027,abandoned,USD,null,null
+1028,abandoned,NGN,null,null
+1029,abandoned,NGN,null,null
+1030,abandoned,USD,null,null
+1031,success,NGN,NG,Nigeria
+1032,abandoned,USD,null,null
+1033,success,NGN,NG,Nigeria
+1034,failed,USD,US,United States
+1035,success,NGN,NG,Nigeria
+1036,abandoned,NGN,null,null
+1037,success,NGN,NG,Nigeria
+1038,abandoned,NGN,null,null
+1039,abandoned,NGN,null,null
+1040,abandoned,NGN,null,null
+1041,success,USD,GB,United Kingdom
+1042,reversed,NGN,NG,Nigeria
+1043,abandoned,NGN,null,null
+1044,failed,NGN,NG,Nigeria
+1045,success,USD,GB,United Kingdom
+1046,success,NGN,NG,Nigeria
+1047,abandoned,NGN,null,null
+1048,failed,USD,GB,United Kingdom
+1049,failed,USD,US,United States
+1050,success,NGN,NG,Nigeria
+1051,abandoned,USD,US,United States
+1052,success,NGN,NG,Nigeria
+1053,success,NGN,NG,Nigeria
+1054,success,NGN,NG,Nigeria
+1055,abandoned,NGN,null,null
+1056,failed,USD,US,United States
+1057,abandoned,NGN,null,null
+1058,abandoned,NGN,null,null
+1059,success,NGN,NG,Nigeria
+1060,abandoned,NGN,null,null
+1061,abandoned,USD,US,United States
+1062,success,NGN,NG,Nigeria
+1063,success,NGN,GB,United Kingdom
+1064,failed,NGN,NG,Nigeria
+1065,abandoned,NGN,null,null
+1066,success,NGN,NG,Nigeria
+1067,abandoned,NGN,null,null
+1068,success,NGN,NG,Nigeria
+1069,abandoned,NGN,null,null
+1070,success,NGN,NG,Nigeria
+1071,abandoned,NGN,NG,Nigeria
+1072,abandoned,NGN,null,null
+1073,abandoned,NGN,null,null
+1074,success,NGN,NG,Nigeria
+1075,abandoned,USD,null,null
+1076,success,NGN,NG,Nigeria
+1077,success,NGN,NG,Nigeria
+1078,failed,USD,US,United States
+1079,abandoned,NGN,null,null
+1080,success,USD,US,Nigeria
+1081,abandoned,NGN,null,null
+1082,failed,NGN,NG,Nigeria
+1083,abandoned,NGN,null,null
+1084,success,NGN,NG,Nigeria
+1085,success,NGN,NG,Nigeria
+1086,abandoned,NGN,null,null
+1087,abandoned,NGN,null,null
+1088,success,USD,US,United States
+1089,success,NGN,NG,Nigeria
+1090,failed,NGN,NG,Nigeria
+1091,success,NGN,NG,Nigeria
+1092,success,NGN,NG,Nigeria
+1093,abandoned,NGN,null,null
+1094,success,NGN,NG,Nigeria
+1095,abandoned,NGN,null,null
+1096,success,NGN,NG,Nigeria
+1097,success,NGN,NG,Nigeria
+1098,abandoned,USD,US,United States
+1099,abandoned,NGN,null,null
+1100,success,NGN,NG,Nigeria
+1101,reversed,NGN,NG,Nigeria
+1102,failed,USD,CA,Canada
+1103,success,NGN,NG,Nigeria
+1104,success,NGN,NG,Nigeria
+1105,abandoned,NGN,null,null
+1106,success,NGN,NG,Nigeria
+1107,success,NGN,NG,Nigeria
+1108,failed,NGN,CA,Canada
+1109,abandoned,NGN,NG,Nigeria
+1110,success,NGN,NG,Nigeria
+1111,abandoned,NGN,null,null
+1112,abandoned,NGN,null,null
+1113,abandoned,USD,null,null
+1114,abandoned,NGN,null,null
+1115,abandoned,NGN,null,null
+1116,abandoned,NGN,null,null
+1117,success,NGN,NG,Nigeria
+1118,abandoned,USD,US,United States
+1119,abandoned,NGN,null,null
+1120,success,NGN,NG,Nigeria
+1121,success,NGN,NG,Nigeria
+1122,failed,NGN,NG,Nigeria
+1123,abandoned,NGN,null,null
+1124,success,USD,GB,United Kingdom
+1125,failed,USD,US,United States
+1126,success,NGN,NG,Nigeria
+1127,failed,NGN,NG,Nigeria
+1128,success,NGN,NG,Nigeria
+1129,abandoned,NGN,null,null
+1130,abandoned,USD,NG,Nigeria
+1131,abandoned,NGN,null,null
+1132,abandoned,NGN,null,null
+1133,abandoned,NGN,null,null
+1134,success,NGN,NG,Nigeria
+1135,abandoned,NGN,null,null
+1136,success,NGN,NG,Nigeria
+1137,abandoned,NGN,null,null
+1138,success,NGN,NG,Nigeria
+1139,success,NGN,NG,Nigeria
+1140,abandoned,NGN,null,null
+1141,success,NGN,NG,Nigeria
+1142,abandoned,NGN,null,null
+1143,success,NGN,NG,Nigeria
+1144,abandoned,NGN,null,null
+1145,abandoned,NGN,null,null
+1146,success,NGN,NG,Nigeria
+1147,success,USD,GB,United Kingdom
+1148,abandoned,NGN,NG,Nigeria
+1149,abandoned,NGN,null,null
+1150,abandoned,USD,null,null
+1151,failed,NGN,NG,Nigeria
+1152,success,NGN,NG,Nigeria
+1153,success,NGN,null,null
+1154,success,NGN,NG,Nigeria
+1155,success,NGN,NG,Nigeria
+1156,failed,NGN,NG,Nigeria
+1157,failed,USD,NG,Nigeria
+1158,success,NGN,NG,Nigeria
+1159,success,NGN,NG,Nigeria
+1160,abandoned,NGN,null,null
+1161,abandoned,NGN,null,null
+1162,failed,NGN,NG,Nigeria
+1163,success,USD,GB,United Kingdom
+1164,success,NGN,NG,Nigeria
+1165,abandoned,NGN,null,null
+1166,success,NGN,NG,Nigeria
+1167,success,NGN,NG,Nigeria
+1168,failed,NGN,NG,Nigeria
+1169,success,NGN,NG,Nigeria
+1170,failed,NGN,NG,Nigeria
+1171,success,NGN,NG,Nigeria
+1172,abandoned,NGN,NG,Nigeria
+1173,abandoned,NGN,null,null
+1174,abandoned,NGN,null,null
+1175,success,NGN,US,United States
+1176,abandoned,NGN,null,null
+1177,success,NGN,NG,Nigeria
+1178,abandoned,NGN,null,null
+1179,failed,NGN,NG,Nigeria
+1180,success,USD,US,United States
+1181,success,NGN,NG,Nigeria
+1182,abandoned,NGN,null,null
+1183,reversed,NGN,NG,Nigeria
+1184,success,USD,GB,United Kingdom
+1185,failed,NGN,NG,Nigeria
+1186,failed,NGN,NG,Nigeria
+1187,success,NGN,NG,Nigeria
+1188,abandoned,NGN,NG,Nigeria
+1189,reversed,USD,GH,Ghana
+1190,success,NGN,NG,Nigeria
+1191,success,NGN,NG,Nigeria
+1192,success,NGN,NG,Nigeria
+1193,success,NGN,NG,Nigeria
+1194,failed,NGN,US,United States
+1195,success,NGN,NG,Nigeria
+1196,success,USD,GB,United Kingdom
+1197,abandoned,NGN,null,null
+1198,abandoned,USD,null,null
+1199,abandoned,NGN,null,null
+1200,abandoned,NGN,null,null
+1201,abandoned,NGN,null,null
+1202,success,NGN,NG,Nigeria
+1203,reversed,NGN,NG,Nigeria
+1204,abandoned,NGN,null,null
+1205,failed,NGN,NG,Nigeria
+1206,abandoned,USD,null,null
+1207,abandoned,NGN,null,null
+1208,abandoned,NGN,null,null
+1209,failed,NGN,NG,Nigeria
+1210,failed,NGN,NG,Nigeria
+1211,success,NGN,NG,Nigeria
+1212,success,NGN,NG,Nigeria
+1213,failed,USD,US,United States
+1214,reversed,NGN,NG,Nigeria
+1215,abandoned,NGN,null,null
+1216,success,NGN,NG,Nigeria
+1217,success,NGN,NG,Nigeria
+1218,success,NGN,NG,Nigeria
+1219,success,NGN,NG,Nigeria
+1220,abandoned,NGN,null,null
+1221,success,NGN,NG,Nigeria
+1222,abandoned,NGN,null,null
+1223,failed,NGN,null,null
+1224,failed,NGN,NG,Nigeria
+1225,abandoned,NGN,null,null
+1226,success,NGN,NG,Nigeria
+1227,abandoned,NGN,NG,Nigeria
+1228,success,NGN,NG,Nigeria
+1229,abandoned,NGN,null,null
+1230,success,NGN,NG,Nigeria
+1231,success,NGN,NG,Nigeria
+1232,success,USD,US,United States
+1233,success,USD,US,United States
+1234,success,NGN,NG,Nigeria
+1235,success,NGN,NG,Nigeria
+1236,reversed,NGN,US,United States
+1237,success,NGN,NG,Nigeria
+1238,abandoned,USD,null,null
+1239,abandoned,NGN,null,null
+1240,success,NGN,NG,Nigeria
+1241,failed,USD,US,United States
+1242,abandoned,NGN,null,null
+1243,success,NGN,NG,Nigeria
+1244,success,USD,US,United States
+1245,abandoned,NGN,NG,Nigeria
+1246,success,NGN,NG,Nigeria
+1247,abandoned,NGN,null,null
+1248,success,NGN,NG,Nigeria
+1249,success,NGN,NG,Nigeria
+1250,success,USD,US,United States
+1251,abandoned,NGN,null,null
+1252,abandoned,USD,null,null
+1253,success,NGN,NG,Nigeria
+1254,success,NGN,NG,Nigeria
+1255,abandoned,NGN,NG,Nigeria
+1256,failed,NGN,NG,Nigeria
+1257,success,NGN,NG,Nigeria
+1258,abandoned,NGN,null,null
+1259,success,NGN,NG,Nigeria
+1260,abandoned,NGN,null,null
+1261,abandoned,NGN,null,null
+1262,failed,NGN,NG,Nigeria
+1263,abandoned,NGN,null,null
+1264,abandoned,NGN,null,null
+1265,abandoned,NGN,null,null
+1266,abandoned,NGN,null,null
+1267,failed,NGN,NG,Nigeria
+1268,abandoned,NGN,null,null
+1269,success,NGN,NG,Nigeria
+1270,failed,USD,US,United States
+1271,success,NGN,NG,Nigeria
+1272,abandoned,NGN,US,United States
+1273,abandoned,NGN,null,null
+1274,failed,NGN,NG,Nigeria
+1275,success,NGN,NG,Nigeria
+1276,failed,NGN,NG,Nigeria
+1277,success,USD,KE,Kenya
+1278,abandoned,USD,NG,Nigeria
+1279,failed,NGN,NG,Nigeria
+1280,abandoned,NGN,null,null
+1281,abandoned,NGN,null,null
+1282,success,NGN,NG,Nigeria
+1283,success,NGN,NG,Nigeria
+1284,failed,NGN,NG,Nigeria
+1285,abandoned,NGN,NG,Nigeria
+1286,success,NGN,NG,Nigeria
+1287,success,USD,US,United States
+1288,success,NGN,NG,Nigeria
+1289,abandoned,NGN,null,null
+1290,success,USD,US,United States
+1291,success,NGN,NG,Nigeria
+1292,abandoned,NGN,null,null
+1293,success,USD,null,null
+1294,success,NGN,NG,Nigeria
+1295,failed,NGN,NG,Nigeria
+1296,abandoned,NGN,null,null
+1297,abandoned,NGN,null,null
+1298,failed,NGN,NG,Nigeria
+1299,abandoned,NGN,null,null
+1300,success,NGN,NG,Nigeria
+1301,abandoned,NGN,null,null
+1302,success,NGN,NG,Nigeria
+1303,abandoned,NGN,null,null
+1304,abandoned,NGN,null,null
+1305,success,NGN,NG,Nigeria
+1306,reversed,NGN,NG,Nigeria
+1307,abandoned,NGN,null,null
+1308,abandoned,NGN,null,null
+1309,abandoned,NGN,null,null
+1310,abandoned,NGN,null,null
+1311,abandoned,NGN,null,null
+1312,abandoned,NGN,null,null
+1313,failed,NGN,NG,Nigeria
+1314,abandoned,NGN,null,null
+1315,abandoned,NGN,null,null
+1316,abandoned,USD,US,United States
+1317,failed,NGN,NG,Nigeria
+1318,success,USD,NG,Nigeria
+1319,success,NGN,NG,Nigeria
+1320,abandoned,NGN,null,null
+1321,success,NGN,NG,Nigeria
+1322,success,NGN,NG,Nigeria
+1323,abandoned,NGN,null,null
+1324,abandoned,NGN,null,null
+1325,abandoned,NGN,null,null
+1326,success,NGN,NG,Nigeria
+1327,abandoned,NGN,NG,Nigeria
+1328,abandoned,NGN,null,null
+1329,success,NGN,NG,Nigeria
+1330,success,NGN,NG,Nigeria
+1331,success,NGN,NG,Nigeria
+1332,abandoned,NGN,null,null
+1333,abandoned,NGN,null,null
+1334,reversed,NGN,NG,Nigeria
+1335,success,NGN,NG,Nigeria
+1336,abandoned,NGN,null,null
+1337,success,NGN,NG,Nigeria
+1338,success,NGN,NG,Nigeria
+1339,abandoned,NGN,null,null
+1340,abandoned,USD,US,United States
+1341,abandoned,NGN,null,null
+1342,success,NGN,NG,Nigeria
+1343,failed,NGN,NG,Nigeria
+1344,abandoned,USD,null,null
+1345,failed,NGN,NG,Nigeria
+1346,success,NGN,NG,Nigeria
+1347,abandoned,NGN,null,null
+1348,abandoned,USD,null,null
+1349,abandoned,NGN,null,null
+1350,success,NGN,NG,Nigeria
+1351,abandoned,NGN,null,null
+1352,success,NGN,NG,Nigeria
+1353,abandoned,NGN,null,null
+1354,abandoned,NGN,null,null
+1355,abandoned,NGN,null,null
+1356,success,NGN,NG,Nigeria
+1357,abandoned,NGN,null,null
+1358,success,NGN,NG,Nigeria
+1359,abandoned,NGN,null,null
+1360,abandoned,USD,null,null
+1361,abandoned,NGN,null,null
+1362,failed,NGN,NG,Nigeria
+1363,success,NGN,NG,Nigeria
+1364,success,NGN,NG,Nigeria
+1365,failed,NGN,NG,Nigeria
+1366,success,NGN,NG,Nigeria
+1367,failed,NGN,null,null
+1368,abandoned,NGN,null,null
+1369,failed,NGN,NG,Nigeria
+1370,success,NGN,NG,Nigeria
+1371,success,USD,US,United States
+1372,success,NGN,NG,Nigeria
+1373,abandoned,NGN,null,null
+1374,failed,USD,US,United States
+1375,failed,NGN,NG,Nigeria
+1376,success,NGN,NG,Nigeria
+1377,success,NGN,NG,Nigeria
+1378,success,NGN,UG,Uganda
+1379,failed,NGN,NG,Nigeria
+1380,success,NGN,NG,Nigeria
+1381,success,USD,null,null
+1382,abandoned,NGN,null,null
+1383,success,NGN,NG,Nigeria
+1384,abandoned,NGN,NG,Nigeria
+1385,success,NGN,NG,Nigeria
+1386,abandoned,NGN,null,null
+1387,success,NGN,NG,Nigeria
+1388,abandoned,NGN,null,null
+1389,success,NGN,NG,Nigeria
+1390,failed,USD,US,United States
+1391,abandoned,NGN,null,null
+1392,success,USD,US,United States
+1393,abandoned,NGN,null,null
+1394,success,NGN,NG,Nigeria
+1395,success,NGN,NG,Nigeria
+1396,abandoned,NGN,null,null
+1397,abandoned,NGN,NG,Nigeria
+1398,failed,USD,US,United States
+1399,failed,NGN,NG,Nigeria
+1400,success,USD,US,United States
+1401,reversed,NGN,NG,Nigeria
+1402,abandoned,NGN,null,null
+1403,abandoned,NGN,NG,Nigeria
+1404,success,USD,KE,Kenya
+1405,abandoned,NGN,null,null
+1406,abandoned,USD,null,null
+1407,failed,NGN,NG,Nigeria
+1408,success,NGN,NG,Nigeria
+1409,success,NGN,NG,Nigeria
+1410,failed,NGN,NG,Nigeria
+1411,abandoned,NGN,null,null
+1412,abandoned,NGN,null,null
+1413,abandoned,NGN,null,null
+1414,success,NGN,NG,Nigeria
+1415,failed,NGN,NG,Nigeria
+1416,success,NGN,NG,Nigeria
+1417,abandoned,NGN,NG,Nigeria
+1418,abandoned,NGN,null,null
+1419,abandoned,USD,US,United States
+1420,failed,USD,US,United States
+1421,abandoned,USD,null,null
+1422,abandoned,NGN,NG,Nigeria
+1423,failed,NGN,NG,Nigeria
+1424,success,NGN,NG,Nigeria
+1425,abandoned,USD,null,null
+1426,reversed,NGN,NG,Nigeria
+1427,abandoned,NGN,null,null
+1428,success,NGN,GB,United Kingdom
+1429,abandoned,NGN,null,null
+1430,abandoned,NGN,null,null
+1431,failed,NGN,NG,Nigeria
+1432,abandoned,NGN,GB,United Kingdom
+1433,reversed,NGN,NG,Nigeria
+1434,success,NGN,NG,Nigeria
+1435,success,NGN,NG,Nigeria
+1436,abandoned,NGN,null,null
+1437,abandoned,NGN,null,null
+1438,abandoned,NGN,null,null
+1439,abandoned,NGN,null,null
+1440,success,NGN,NG,Nigeria
+1441,success,NGN,NG,Nigeria
+1442,failed,USD,US,United States
+1443,abandoned,NGN,null,null
+1444,success,USD,NG,Nigeria
+1445,abandoned,NGN,null,null
+1446,success,NGN,NG,Nigeria
+1447,abandoned,NGN,null,null
+1448,success,NGN,NG,Nigeria
+1449,success,USD,GB,United Kingdom
+1450,success,NGN,NG,Nigeria
+1451,failed,USD,GB,United Kingdom
+1452,success,NGN,NG,Nigeria
+1453,success,NGN,NG,Nigeria
+1454,abandoned,NGN,null,null
+1455,abandoned,NGN,null,null
+1456,failed,NGN,NG,Nigeria
+1457,success,USD,GB,United Kingdom
+1458,success,NGN,NG,Nigeria
+1459,abandoned,NGN,null,null
+1460,success,USD,GB,United Kingdom
+1461,success,NGN,NG,Nigeria
+1462,abandoned,NGN,null,null
+1463,success,NGN,NG,Nigeria
+1464,success,NGN,NG,Nigeria
+1465,abandoned,USD,null,null
+1466,failed,NGN,US,United States
+1467,abandoned,NGN,null,null
+1468,success,NGN,NG,Nigeria
+1469,failed,NGN,NG,Nigeria
+1470,abandoned,NGN,null,null
+1471,failed,NGN,US,United States
+1472,success,NGN,NG,Nigeria
+1473,abandoned,USD,GB,United Kingdom
+1474,abandoned,NGN,null,null
+1475,success,NGN,NG,Nigeria
+1476,success,NGN,NG,Nigeria
+1477,abandoned,NGN,null,null
+1478,success,NGN,NG,Nigeria
+1479,reversed,NGN,NG,Nigeria
+1480,abandoned,NGN,null,null
+1481,success,NGN,NG,Nigeria
+1482,success,NGN,NG,Nigeria
+1483,abandoned,USD,null,null
+1484,success,NGN,NG,Nigeria
+1485,failed,NGN,NG,Nigeria
+1486,success,NGN,NG,Nigeria
+1487,success,NGN,NG,Nigeria
+1488,failed,USD,US,United States
+1489,abandoned,NGN,null,null
+1490,success,NGN,NG,Nigeria
+1491,success,NGN,NG,Nigeria
+1492,abandoned,NGN,null,null
+1493,failed,USD,US,United States
+1494,success,NGN,NG,Nigeria
+1495,success,NGN,NG,Nigeria
+1496,abandoned,NGN,null,null
+1497,success,NGN,NG,Nigeria
+1498,abandoned,NGN,null,null
+1499,success,NGN,NG,Nigeria
+1500,success,NGN,NG,Nigeria
+1501,abandoned,NGN,null,null
+1502,success,NGN,NG,Nigeria
+1503,abandoned,NGN,null,null
+1504,success,NGN,NG,Nigeria
+1505,abandoned,NGN,null,null
+1506,abandoned,NGN,null,null
+1507,success,NGN,NG,Nigeria
+1508,success,NGN,NG,Nigeria
+1509,abandoned,NGN,NG,Nigeria
+1510,abandoned,NGN,NG,Nigeria
+1511,success,NGN,NG,Nigeria
+1512,abandoned,NGN,null,null
+1513,abandoned,NGN,NG,Nigeria
+1514,success,NGN,NG,Nigeria
+1515,success,NGN,NG,Nigeria
+1516,success,NGN,NG,Nigeria
+1517,success,NGN,NG,Nigeria
+1518,success,NGN,NG,Nigeria
+1519,success,USD,KE,Kenya
+1520,success,NGN,NG,Nigeria
+1521,failed,USD,NG,Nigeria
+1522,success,NGN,NG,Nigeria
+1523,success,NGN,NG,Nigeria
+1524,success,NGN,NG,Nigeria
+1525,failed,USD,US,United States
+1526,success,NGN,NG,Nigeria
+1527,abandoned,NGN,NG,Nigeria
+1528,abandoned,NGN,null,null
+1529,abandoned,NGN,null,null
+1530,failed,USD,US,Nigeria
+1531,abandoned,USD,null,null
+1532,success,USD,GB,United Kingdom
+1533,success,NGN,NG,Nigeria
+1534,abandoned,NGN,null,null
+1535,abandoned,USD,US,United States
+1536,abandoned,NGN,null,null
+1537,abandoned,USD,null,null
+1538,abandoned,NGN,null,null
+1539,abandoned,NGN,null,null
+1540,success,NGN,NG,Nigeria
+1541,abandoned,NGN,null,null
+1542,success,NGN,NG,Nigeria
+1543,success,NGN,NG,Nigeria
+1544,abandoned,NGN,null,null
+1545,abandoned,NGN,null,null
+1546,failed,NGN,NG,Nigeria
+1547,abandoned,NGN,null,null
+1548,success,NGN,NG,Nigeria
+1549,success,NGN,NG,Nigeria
+1550,abandoned,NGN,null,null
+1551,abandoned,NGN,NG,Nigeria
+1552,success,NGN,NG,Nigeria
+1553,failed,NGN,NG,Nigeria
+1554,reversed,NGN,NG,Nigeria
+1555,abandoned,NGN,null,null
+1556,success,NGN,NG,Nigeria
+1557,abandoned,NGN,null,null
+1558,success,NGN,NG,Nigeria
+1559,success,NGN,NG,Nigeria
+1560,success,NGN,NG,Nigeria
+1561,failed,NGN,NG,Nigeria
+1562,abandoned,NGN,null,null
+1563,abandoned,NGN,null,null
+1564,success,NGN,NG,Nigeria
+1565,abandoned,NGN,null,null
+1566,failed,USD,GB,United Kingdom
+1567,success,NGN,NG,Nigeria
+1568,abandoned,NGN,null,null
+1569,failed,NGN,NG,Nigeria
+1570,abandoned,NGN,null,null
+1571,abandoned,NGN,null,null
+1572,abandoned,USD,null,null
+1573,abandoned,USD,US,United States
+1574,success,NGN,NG,Nigeria
+1575,success,NGN,NG,Nigeria
+1576,failed,NGN,NG,Nigeria
+1577,success,NGN,NG,Nigeria
+1578,abandoned,NGN,null,null
+1579,abandoned,NGN,null,null
+1580,success,NGN,NG,Nigeria
+1581,success,NGN,GB,United Kingdom
+1582,abandoned,NGN,null,null
+1583,failed,USD,CA,canada
+1584,success,NGN,NG,Nigeria
+1585,abandoned,NGN,null,null
+1586,success,NGN,NG,Nigeria
+1587,failed,NGN,NG,Nigeria
+1588,success,NGN,NG,Nigeria
+1589,success,NGN,NG,Nigeria
+1590,abandoned,NGN,null,null
+1591,reversed,NGN,NG,Nigeria
+1592,failed,NGN,GB,United Kingdom
+1593,abandoned,USD,null,null
+1594,abandoned,NGN,null,null
+1595,abandoned,NGN,null,null
+1596,success,NGN,NG,Nigeria
+1597,success,NGN,NG,Nigeria
+1598,success,NGN,NG,Nigeria
+1599,abandoned,NGN,NG,Nigeria
+1600,abandoned,NGN,null,null
+1601,abandoned,NGN,null,null
+1602,abandoned,USD,null,null
+1603,abandoned,NGN,null,null
+1604,failed,NGN,NG,Nigeria
+1605,success,NGN,NG,Nigeria
+1606,success,NGN,NG,Nigeria
+1607,success,NGN,NG,Nigeria
+1608,success,NGN,NG,Nigeria
+1609,abandoned,NGN,null,null
+1610,abandoned,NGN,null,null
+1611,abandoned,NGN,null,null
+1612,abandoned,NGN,null,null
+1613,success,NGN,NG,Nigeria
+1614,success,NGN,NG,Nigeria
+1615,success,NGN,NG,Nigeria
+1616,success,NGN,NG,Nigeria
+1617,abandoned,USD,US,United States
+1618,abandoned,NGN,null,null
+1619,abandoned,NGN,null,null
+1620,abandoned,USD,US,United States
+1621,abandoned,NGN,NG,Nigeria
+1622,success,NGN,NG,Nigeria
+1623,failed,NGN,NG,Nigeria
+1624,abandoned,NGN,null,null
+1625,success,NGN,NG,Nigeria
+1626,failed,NGN,NG,Nigeria
+1627,failed,USD,GB,United Kingdom
+1628,abandoned,NGN,null,null
+1629,abandoned,NGN,null,null
+1630,abandoned,NGN,null,null
+1631,failed,NGN,NG,Nigeria
+1632,success,NGN,GB,United Kingdom
+1633,success,NGN,NG,Nigeria
+1634,failed,NGN,US,United States
+1635,abandoned,NGN,null,null
+1636,abandoned,NGN,null,null
+1637,abandoned,NGN,null,null
+1638,abandoned,USD,null,null
+1639,success,NGN,NG,Nigeria
+1640,abandoned,USD,NG,Nigeria
+1641,success,NGN,NG,Nigeria
+1642,success,NGN,GB,United Kingdom
+1643,abandoned,NGN,null,null
+1644,success,NGN,NG,Nigeria
+1645,abandoned,NGN,null,null
+1646,success,NGN,NG,Nigeria
+1647,success,NGN,NG,Nigeria
+1648,abandoned,NGN,null,null
+1649,abandoned,NGN,null,null
+1650,abandoned,NGN,null,null
+1651,success,NGN,NG,Nigeria
+1652,abandoned,USD,null,null
+1653,failed,NGN,GB,United Kingdom
+1654,abandoned,NGN,null,null
+1655,abandoned,USD,null,null
+1656,success,USD,US,United States
+1657,success,NGN,NG,Nigeria
+1658,success,USD,GB,United Kingdom
+1659,abandoned,NGN,null,null
+1660,abandoned,NGN,null,null
+1661,failed,NGN,NG,Nigeria
+1662,abandoned,NGN,NG,Nigeria
+1663,abandoned,NGN,null,null
+1664,failed,NGN,NG,Nigeria
+1665,abandoned,USD,null,null
+1666,success,NGN,IE,Ireland
+1667,abandoned,NGN,null,null
+1668,abandoned,NGN,null,null
+1669,abandoned,NGN,null,null
+1670,abandoned,NGN,null,null
+1671,failed,USD,US,United States
+1672,abandoned,NGN,null,null
+1673,abandoned,NGN,null,null
+1674,success,NGN,NG,Nigeria
+1675,abandoned,NGN,null,null
+1676,abandoned,NGN,null,null
+1677,abandoned,NGN,NG,Nigeria
+1678,abandoned,NGN,null,null
+1679,abandoned,USD,null,null
+1680,failed,NGN,NG,Nigeria
+1681,success,NGN,NG,Nigeria
+1682,success,NGN,NG,Nigeria
+1683,abandoned,NGN,null,null
+1684,success,NGN,NG,Nigeria
+1685,failed,USD,US,United States
+1686,success,NGN,NG,Nigeria
+1687,failed,NGN,NG,Nigeria
+1688,success,USD,NG,Nigeria
+1689,failed,NGN,NG,Nigeria
+1690,success,NGN,NG,Nigeria
+1691,abandoned,NGN,null,null
+1692,abandoned,USD,US,United States
+1693,success,NGN,US,United States
+1694,success,NGN,NG,Nigeria
+1695,failed,NGN,NG,Nigeria
+1696,abandoned,NGN,null,null
+1697,failed,NGN,US,United States
+1698,abandoned,NGN,null,null
+1699,success,NGN,NG,Nigeria
+1700,abandoned,NGN,null,null
+1701,abandoned,NGN,null,null
+1702,success,NGN,NG,Nigeria
+1703,success,NGN,NG,Nigeria
+1704,success,NGN,NG,Nigeria
+1705,success,NGN,NG,Nigeria
+1706,success,NGN,NG,Nigeria
+1707,success,NGN,NG,Nigeria
+1708,success,USD,AE,United Arab Emirate
+1709,abandoned,USD,null,null
+1710,success,NGN,NG,Nigeria
+1711,success,NGN,NG,Nigeria
+1712,success,NGN,NG,Nigeria
+1713,abandoned,NGN,null,null
+1714,abandoned,NGN,NG,Nigeria
+1715,success,NGN,NG,Nigeria
+1716,failed,NGN,NG,Nigeria
+1717,success,USD,GB,United Kingdom
+1718,success,NGN,NG,Nigeria
+1719,failed,USD,NG,Nigeria
+1720,abandoned,NGN,null,null
+1721,failed,NGN,NG,Nigeria
+1722,success,NGN,NG,Nigeria
+1723,failed,NGN,NG,Nigeria
+1724,success,NGN,NG,Nigeria
+1725,success,NGN,NG,Nigeria
+1726,abandoned,NGN,null,null
+1727,success,NGN,NG,Nigeria
+1728,abandoned,NGN,null,null
+1729,failed,USD,NG,Nigeria
+1730,success,USD,GB,United Kingdom
+1731,abandoned,NGN,null,null
+1732,abandoned,NGN,null,null
+1733,success,USD,PL,Poland
+1734,abandoned,NGN,null,null
+1735,abandoned,NGN,null,null
+1736,failed,NGN,NG,Nigeria
+1737,abandoned,USD,null,null
+1738,success,NGN,NG,Nigeria
+1739,success,NGN,NG,Nigeria
+1740,failed,NGN,US,United States
+1741,abandoned,NGN,null,null
+1742,abandoned,NGN,null,null
+1743,abandoned,NGN,null,null
+1744,abandoned,USD,null,null
+1745,abandoned,NGN,null,null
+1746,success,NGN,NG,Nigeria
+1747,abandoned,NGN,null,null
+1748,success,NGN,NG,Nigeria
+1749,success,NGN,NG,Nigeria
+1750,abandoned,NGN,null,null
+1751,success,NGN,NG,Nigeria
+1752,success,NGN,NG,Nigeria
+1753,success,NGN,NG,Nigeria
+1754,reversed,NGN,NG,Nigeria
+1755,abandoned,NGN,null,null
+1756,success,NGN,NG,Nigeria
+1757,abandoned,NGN,null,null
+1758,success,NGN,NG,Nigeria
+1759,abandoned,NGN,null,null
+1760,abandoned,NGN,null,null
+1761,success,NGN,NG,Nigeria
+1762,abandoned,NGN,NG,Nigeria
+1763,success,USD,US,United States
+1764,success,USD,US,United States
+1765,failed,NGN,NG,Nigeria
+1766,abandoned,NGN,null,null
+1767,abandoned,NGN,null,null
+1768,abandoned,USD,null,null
+1769,abandoned,NGN,null,null
+1770,success,NGN,NG,Nigeria
+1771,abandoned,NGN,null,null
+1772,success,USD,US,United States
+1773,failed,USD,GB,United Kingdom
+1774,failed,NGN,NG,Nigeria
+1775,abandoned,NGN,null,null
+1776,abandoned,NGN,null,null
+1777,success,NGN,NG,Nigeria
+1778,success,NGN,NG,Nigeria
+1779,success,NGN,NG,Nigeria
+1780,abandoned,NGN,null,null
+1781,success,NGN,NG,Nigeria
+1782,abandoned,NGN,NG,Nigeria
+1783,abandoned,NGN,null,null
+1784,failed,USD,BD,Bangladesh
+1785,success,NGN,NG,Nigeria
+1786,abandoned,NGN,NG,Nigeria
+1787,abandoned,NGN,null,null
+1788,success,NGN,NG,Nigeria
+1789,success,NGN,NG,Nigeria
+1790,success,NGN,NG,Nigeria
+1791,success,NGN,NG,Nigeria
+1792,abandoned,NGN,NG,Nigeria
+1793,success,NGN,NG,Nigeria
+1794,success,NGN,NG,Nigeria
+1795,success,NGN,NG,Nigeria
+1796,failed,NGN,NG,Nigeria
+1797,abandoned,NGN,null,null
+1798,abandoned,NGN,null,null
+1799,success,NGN,NG,Nigeria
+1800,abandoned,NGN,null,null
+1801,abandoned,NGN,null,null
+1802,success,NGN,NG,Nigeria
+1803,success,NGN,GB,United Kingdom
+1804,success,NGN,NG,Nigeria
+1805,abandoned,NGN,NG,Nigeria
+1806,success,USD,GB,United Kingdom
+1807,abandoned,NGN,null,null
+1808,failed,NGN,NG,Nigeria
+1809,failed,USD,US,United States
+1810,abandoned,NGN,null,null
+1811,success,NGN,NG,Nigeria
+1812,abandoned,NGN,null,null
+1813,success,NGN,NG,Nigeria
+1814,abandoned,NGN,null,null
+1815,abandoned,NGN,null,null
+1816,abandoned,NGN,null,null
+1817,success,NGN,NG,Nigeria
+1818,success,NGN,NG,Nigeria
+1819,abandoned,NGN,null,null
+1820,abandoned,USD,null,null
+1821,abandoned,NGN,null,null
+1822,failed,NGN,GB,United Kingdom
+1823,failed,USD,US,United States
+1824,abandoned,NGN,null,null
+1825,failed,NGN,GB,United Kingdom
+1826,abandoned,USD,US,United States
+1827,abandoned,USD,null,null
+1828,abandoned,NGN,null,null
+1829,success,NGN,NG,Nigeria
+1830,abandoned,NGN,GB,United Kingdom
+1831,failed,NGN,NG,Nigeria
+1832,success,NGN,NG,Nigeria
+1833,failed,NGN,NG,Nigeria
+1834,abandoned,NGN,null,null
+1835,abandoned,NGN,null,null
+1836,success,NGN,NG,Nigeria
+1837,abandoned,NGN,null,null
+1838,abandoned,USD,null,null
+1839,abandoned,NGN,null,null
+1840,success,NGN,NG,Nigeria
+1841,abandoned,NGN,null,null
+1842,success,NGN,NG,Nigeria
+1843,success,NGN,NG,Nigeria
+1844,reversed,NGN,UG,Uganda
+1845,abandoned,USD,US,United States
+1846,success,USD,GB,United Kingdom
+1847,abandoned,USD,null,null
+1848,abandoned,NGN,NG,Nigeria
+1849,success,NGN,NG,Nigeria
+1850,success,NGN,NG,Nigeria
+1851,abandoned,NGN,null,null
+1852,abandoned,NGN,null,null
+1853,success,NGN,NG,Nigeria
+1854,success,NGN,NG,Nigeria
+1855,success,NGN,NG,Nigeria
+1856,success,NGN,NG,Nigeria
+1857,abandoned,NGN,null,null
+1858,success,NGN,NG,Nigeria
+1859,abandoned,USD,null,null
+1860,success,NGN,NG,Nigeria
+1861,abandoned,NGN,null,null
+1862,success,NGN,NG,Nigeria
+1863,success,NGN,NG,Nigeria
+1864,success,NGN,NG,Nigeria
+1865,success,NGN,NG,Nigeria
+1866,success,NGN,NG,Nigeria
+1867,failed,NGN,null,null
+1868,abandoned,NGN,null,null
+1869,success,NGN,NG,Nigeria
+1870,abandoned,NGN,null,null
+1871,failed,NGN,NG,Nigeria
+1872,failed,NGN,NG,Nigeria
+1873,success,NGN,NG,Nigeria
+1874,success,NGN,NG,Nigeria
+1875,success,NGN,NG,Nigeria
+1876,success,USD,US,United States
+1877,success,NGN,NG,Nigeria
+1878,abandoned,USD,null,null
+1879,failed,NGN,NG,Nigeria
+1880,failed,NGN,NG,Nigeria
+1881,abandoned,NGN,null,null
+1882,failed,NGN,NG,Nigeria
+1883,success,NGN,NG,Nigeria
+1884,success,NGN,NG,Nigeria
+1885,success,NGN,NG,Nigeria
+1886,abandoned,USD,null,null
+1887,abandoned,NGN,null,null
+1888,failed,NGN,NG,Nigeria
+1889,abandoned,NGN,null,null
+1890,success,NGN,NG,Nigeria
+1891,abandoned,NGN,null,null
+1892,abandoned,NGN,null,null
+1893,success,NGN,NG,Nigeria
+1894,failed,NGN,NG,Nigeria
+1895,abandoned,NGN,null,null
+1896,abandoned,USD,null,null
+1897,abandoned,USD,JP,Japan
+1898,success,NGN,NG,Nigeria
+1899,success,NGN,NG,Nigeria
+1900,success,NGN,NG,Nigeria
+1901,abandoned,NGN,null,null
+1902,success,NGN,NG,Nigeria
+1903,success,NGN,NG,Nigeria
+1904,success,NGN,NG,Nigeria
+1905,success,USD,US,United States
+1906,failed,NGN,NG,Nigeria
+1907,failed,NGN,US,United States
+1908,abandoned,NGN,null,null
+1909,failed,USD,US,United States
+1910,success,NGN,NG,Nigeria
+1911,abandoned,NGN,null,null
+1912,abandoned,NGN,NG,Nigeria
+1913,success,NGN,NO,Norway
+1914,reversed,NGN,NG,Nigeria
+1915,abandoned,NGN,null,null
+1916,abandoned,NGN,null,null
+1917,success,NGN,NG,Nigeria
+1918,abandoned,NGN,null,null
+1919,abandoned,NGN,null,null
+1920,success,NGN,NG,Nigeria
+1921,success,NGN,US,United States
+1922,abandoned,NGN,null,null
+1923,success,USD,GB,United Kingdom
+1924,failed,NGN,NG,Nigeria
+1925,abandoned,NGN,null,null
+1926,abandoned,NGN,null,null
+1927,abandoned,NGN,null,null
+1928,abandoned,USD,null,null
+1929,success,NGN,GH,Ghana
+1930,failed,NGN,NG,Nigeria
+1931,failed,NGN,NG,Nigeria
+1932,success,NGN,NG,Nigeria
+1933,abandoned,NGN,null,null
+1934,abandoned,NGN,null,null
+1935,abandoned,NGN,NG,Nigeria
+1936,success,NGN,NG,Nigeria
+1937,abandoned,NGN,null,null
+1938,success,NGN,NG,Nigeria
+1939,success,NGN,NG,Nigeria
+1940,success,NGN,NG,Nigeria
+1941,success,NGN,NG,Nigeria
+1942,abandoned,NGN,null,null
+1943,abandoned,NGN,null,null
+1944,success,NGN,NG,Nigeria
+1945,abandoned,USD,null,null
+1946,abandoned,NGN,null,null
+1947,success,NGN,NG,Nigeria
+1948,abandoned,NGN,null,null
+1949,failed,NGN,NG,Nigeria
+1950,success,NGN,NG,Nigeria
+1951,success,NGN,NG,Nigeria
+1952,success,NGN,NG,Nigeria
+1953,abandoned,NGN,null,null
+1954,success,NGN,NG,Nigeria
+1955,abandoned,NGN,null,null
+1956,success,NGN,NG,Nigeria
+1957,success,NGN,NG,Nigeria
+1958,success,NGN,NG,Nigeria
+1959,abandoned,NGN,null,null
+1960,abandoned,NGN,null,null
+1961,success,NGN,NG,Nigeria
+1962,success,NGN,NG,Nigeria
+1963,success,NGN,NG,Nigeria
+1964,abandoned,NGN,null,null
+1965,success,NGN,NG,Nigeria
+1966,abandoned,NGN,null,null
+1967,abandoned,NGN,null,null
+1968,failed,NGN,CA,canada
+1969,success,NGN,NG,Nigeria
+1970,success,NGN,NG,Nigeria
+1971,success,NGN,NG,Nigeria
+1972,abandoned,USD,null,null
+1973,failed,NGN,NG,Nigeria
+1974,failed,USD,US,United States
+1975,success,NGN,NG,Nigeria
+1976,abandoned,NGN,null,null
+1977,failed,NGN,NG,Nigeria
+1978,success,NGN,NG,Nigeria
+1979,abandoned,NGN,NG,Nigeria
+1980,failed,NGN,NG,Nigeria
+1981,abandoned,NGN,null,null
+1982,failed,USD,US,United States
+1983,abandoned,NGN,null,null
+1984,success,USD,US,United States
+1985,abandoned,NGN,null,null
+1986,success,NGN,NG,Nigeria
+1987,failed,NGN,NG,Nigeria
+1988,failed,NGN,NG,Nigeria
+1989,abandoned,NGN,null,null
+1990,abandoned,NGN,NG,Nigeria
+1991,abandoned,NGN,null,null
+1992,abandoned,NGN,null,null
+1993,success,NGN,NG,Nigeria
+1994,failed,NGN,NG,Nigeria
+1995,success,NGN,NG,Nigeria
+1996,success,NGN,NG,Nigeria
+1997,failed,USD,US,United States
+1998,success,NGN,NG,Nigeria
+1999,success,NGN,NG,Nigeria
+2000,abandoned,NGN,null,null
+2001,success,NGN,NG,Nigeria
+2002,success,NGN,NG,Nigeria
+2003,success,NGN,NG,Nigeria
+2004,success,NGN,NG,Nigeria
+2005,success,NGN,NG,Nigeria
+2006,failed,NGN,NG,Nigeria
+2007,success,NGN,US,United States
+2008,abandoned,NGN,null,null
+2009,failed,NGN,NG,Nigeria
+2010,abandoned,NGN,null,null
+2011,abandoned,NGN,NG,Nigeria
+2012,success,NGN,NG,Nigeria
+2013,abandoned,NGN,null,null
+2014,success,NGN,NG,Nigeria
+2015,abandoned,NGN,null,null
+2016,success,NGN,NG,Nigeria
+2017,success,NGN,NG,Nigeria
+2018,success,NGN,NG,Nigeria
+2019,success,NGN,NG,Nigeria
+2020,abandoned,USD,null,null
+2021,failed,NGN,NG,Nigeria
+2022,abandoned,NGN,null,null
+2023,failed,NGN,NG,Nigeria
+2024,abandoned,NGN,null,null
+2025,success,NGN,NG,Nigeria
+2026,success,NGN,NG,Nigeria
+2027,success,NGN,NG,Nigeria
+2028,success,NGN,NG,Nigeria
+2029,success,NGN,NG,Nigeria
+2030,abandoned,USD,null,null
+2031,abandoned,NGN,null,null
+2032,success,NGN,NG,Nigeria
+2033,abandoned,NGN,null,null
+2034,success,NGN,NG,Nigeria
+2035,success,NGN,NG,Nigeria
+2036,success,NGN,NG,Nigeria
+2037,success,NGN,NG,Nigeria
+2038,success,USD,NG,Nigeria
+2039,abandoned,NGN,null,null
+2040,success,NGN,NG,Nigeria
+2041,abandoned,NGN,null,null
+2042,abandoned,USD,null,null
+2043,abandoned,NGN,null,null
+2044,success,NGN,NG,Nigeria
+2045,failed,NGN,NG,Nigeria
+2046,success,NGN,NG,Nigeria
+2047,abandoned,NGN,null,null
+2048,abandoned,NGN,null,null
+2049,abandoned,NGN,null,null
+2050,abandoned,NGN,null,null
+2051,abandoned,NGN,null,null
+2052,abandoned,NGN,null,null
+2053,abandoned,USD,null,null
+2054,failed,USD,US,United States
+2055,failed,NGN,US,United States
+2056,abandoned,NGN,null,null
+2057,abandoned,NGN,null,null
+2058,abandoned,NGN,null,null
+2059,abandoned,NGN,null,null
+2060,abandoned,USD,null,null
+2061,success,NGN,NG,Nigeria
+2062,abandoned,NGN,NG,Nigeria
+2063,success,NGN,null,null
+2064,success,NGN,NG,Nigeria
+2065,failed,NGN,NG,Nigeria
+2066,failed,NGN,NG,Nigeria
+2067,success,NGN,NG,Nigeria
+2068,failed,NGN,NG,Nigeria
+2069,abandoned,NGN,null,null
+2070,success,NGN,NG,Nigeria
+2071,abandoned,NGN,null,null
+2072,abandoned,NGN,null,null
+2073,abandoned,NGN,null,null
+2074,success,NGN,NG,Nigeria
+2075,success,NGN,NG,Nigeria
+2076,failed,NGN,NG,Nigeria
+2077,abandoned,NGN,null,null
+2078,abandoned,NGN,null,null
+2079,abandoned,NGN,null,null
+2080,success,NGN,NG,Nigeria
+2081,abandoned,NGN,null,null
+2082,success,NGN,NG,Nigeria
+2083,abandoned,NGN,null,null
+2084,abandoned,NGN,null,null
+2085,abandoned,NGN,null,null
+2086,success,NGN,NG,Nigeria
+2087,abandoned,NGN,null,null
+2088,success,NGN,NG,Nigeria
+2089,success,NGN,NG,Nigeria
+2090,abandoned,USD,null,null
+2091,success,NGN,NG,Nigeria
+2092,success,NGN,NG,Nigeria
+2093,abandoned,NGN,null,null
+2094,success,NGN,NG,Nigeria
+2095,success,NGN,NG,Nigeria
+2096,failed,NGN,NG,Nigeria
+2097,success,NGN,NG,Nigeria
+2098,failed,NGN,NG,Nigeria
+2099,failed,NGN,NG,Nigeria
+2100,abandoned,NGN,null,null
+2101,success,NGN,NG,Nigeria
+2102,failed,USD,NG,Nigeria
+2103,abandoned,NGN,null,null
+2104,success,USD,US,United States
+2105,success,NGN,NG,Nigeria
+2106,success,NGN,NG,Nigeria
+2107,abandoned,NGN,null,null
+2108,failed,NGN,NG,Nigeria
+2109,abandoned,NGN,null,null
+2110,abandoned,USD,null,null
+2111,abandoned,NGN,null,null
+2112,abandoned,USD,null,null
+2113,abandoned,NGN,null,null
+2114,failed,NGN,NG,Nigeria
+2115,abandoned,NGN,null,null
+2116,success,USD,GB,United Kingdom
+2117,success,NGN,NG,Nigeria
+2118,failed,NGN,NG,Nigeria
+2119,success,NGN,NG,Nigeria
+2120,abandoned,NGN,null,null
+2121,success,NGN,NG,Nigeria
+2122,success,NGN,NG,Nigeria
+2123,abandoned,USD,null,null
+2124,failed,USD,US,United States
+2125,success,NGN,NG,Nigeria
+2126,abandoned,USD,US,United States
+2127,abandoned,USD,null,null
+2128,success,NGN,UG,Uganda
+2129,abandoned,NGN,null,null
+2130,abandoned,NGN,null,null
+2131,abandoned,NGN,NG,Nigeria
+2132,abandoned,NGN,NG,Nigeria
+2133,success,NGN,NG,Nigeria
+2134,success,NGN,NG,Nigeria
+2135,failed,NGN,GB,United Kingdom
+2136,abandoned,NGN,null,null
+2137,abandoned,USD,null,null
+2138,abandoned,NGN,NG,Nigeria
+2139,success,NGN,NG,Nigeria
+2140,success,NGN,NG,Nigeria
+2141,abandoned,NGN,null,null
+2142,success,NGN,NG,Nigeria
+2143,success,NGN,NG,Nigeria
+2144,failed,USD,US,United States
+2145,abandoned,NGN,null,null
+2146,abandoned,USD,null,null
+2147,abandoned,NGN,null,null
+2148,success,NGN,NG,Nigeria
+2149,success,NGN,NG,Nigeria
+2150,success,NGN,NG,Nigeria
+2151,abandoned,NGN,null,null
+2152,abandoned,NGN,NG,Nigeria
+2153,abandoned,NGN,null,null
+2154,failed,USD,US,United States
+2155,success,USD,KE,Kenya
+2156,abandoned,NGN,null,null
+2157,success,NGN,NG,Nigeria
+2158,abandoned,NGN,null,null
+2159,failed,NGN,US,United States
+2160,abandoned,USD,null,null
+2161,success,NGN,NG,Nigeria
+2162,success,NGN,NG,Nigeria
+2163,abandoned,NGN,null,null
+2164,abandoned,NGN,null,null
+2165,failed,NGN,GB,United Kingdom
+2166,success,NGN,NG,Nigeria
+2167,success,NGN,NG,Nigeria
+2168,success,NGN,NG,Nigeria
+2169,abandoned,NGN,null,null
+2170,success,NGN,GB,United Kingdom
+2171,success,NGN,NG,Nigeria
+2172,abandoned,NGN,null,null
+2173,abandoned,NGN,null,null
+2174,abandoned,NGN,null,null
+2175,success,NGN,NG,Nigeria
+2176,success,NGN,NG,Nigeria
+2177,success,NGN,NG,Nigeria
+2178,success,NGN,NG,Nigeria
+2179,failed,NGN,NG,Nigeria
+2180,success,NGN,NG,Nigeria
+2181,success,NGN,NG,Nigeria
+2182,success,NGN,NG,Nigeria
+2183,failed,NGN,NG,Nigeria
+2184,abandoned,NGN,null,null
+2185,abandoned,NGN,null,null
+2186,success,NGN,NG,Nigeria
+2187,success,NGN,CA,Canada
+2188,abandoned,NGN,null,null
+2189,success,NGN,NG,Nigeria
+2190,abandoned,USD,null,null
+2191,success,NGN,NG,Nigeria
+2192,failed,USD,US,United States
+2193,abandoned,NGN,null,null
+2194,failed,NGN,NG,Nigeria
+2195,abandoned,NGN,null,null
+2196,success,NGN,NG,Nigeria
+2197,abandoned,NGN,null,null
+2198,abandoned,NGN,null,null
+2199,abandoned,NGN,null,null
+2200,success,NGN,NG,Nigeria
+2201,success,NGN,NG,Nigeria
+2202,abandoned,NGN,null,null
+2203,success,NGN,NG,Nigeria
+2204,failed,NGN,NG,Nigeria
+2205,abandoned,USD,null,null
+2206,abandoned,NGN,null,null
+2207,success,NGN,NG,Nigeria
+2208,success,NGN,NG,Nigeria
+2209,abandoned,NGN,null,null
+2210,success,NGN,NG,Nigeria
+2211,abandoned,NGN,null,null
+2212,success,NGN,NG,Nigeria
+2213,success,NGN,NG,Nigeria
+2214,abandoned,NGN,null,null
+2215,success,NGN,NG,Nigeria
+2216,abandoned,NGN,null,null
+2217,success,NGN,NG,Nigeria
+2218,abandoned,NGN,null,null
+2219,success,NGN,NG,Nigeria
+2220,success,NGN,NG,Nigeria
+2221,abandoned,NGN,null,null
+2222,success,NGN,NG,Nigeria
+2223,abandoned,NGN,null,null
+2224,abandoned,NGN,null,null
+2225,reversed,NGN,NG,Nigeria
+2226,success,NGN,NG,Nigeria
+2227,abandoned,NGN,null,null
+2228,success,NGN,NG,Nigeria
+2229,success,NGN,NG,Nigeria
+2230,abandoned,NGN,null,null
+2231,abandoned,NGN,null,null
+2232,success,USD,US,United States
+2233,success,USD,US,United States
+2234,abandoned,NGN,null,null
+2235,abandoned,USD,US,United States
+2236,failed,NGN,NG,Nigeria
+2237,abandoned,NGN,null,null
+2238,success,NGN,NG,Nigeria
+2239,success,NGN,NG,Nigeria
+2240,abandoned,NGN,null,null
+2241,abandoned,NGN,null,null
+2242,abandoned,NGN,null,null
+2243,success,NGN,GH,Ghana
+2244,abandoned,NGN,null,null
+2245,abandoned,NGN,null,null
+2246,success,NGN,NG,Nigeria
+2247,success,NGN,NG,Nigeria
+2248,failed,NGN,NG,Nigeria
+2249,success,NGN,NG,Nigeria
+2250,success,NGN,NG,Nigeria
+2251,abandoned,NGN,null,null
+2252,success,NGN,NG,Nigeria
+2253,abandoned,USD,US,United States
+2254,failed,USD,CA,Canada
+2255,abandoned,USD,US,United States
+2256,success,NGN,NG,Nigeria
+2257,success,NGN,NG,Nigeria
+2258,success,NGN,NG,Nigeria
+2259,success,NGN,NG,Nigeria
+2260,success,NGN,NG,Nigeria
+2261,success,NGN,NG,Nigeria
+2262,success,NGN,NG,Nigeria
+2263,success,USD,null,null
+2264,reversed,NGN,NG,Nigeria
+2265,abandoned,NGN,null,null
+2266,success,NGN,NG,Nigeria
+2267,success,NGN,NG,Nigeria
+2268,success,NGN,NG,Nigeria
+2269,success,USD,US,United States
+2270,success,NGN,NG,Nigeria
+2271,abandoned,NGN,null,null
+2272,abandoned,NGN,null,null
+2273,success,NGN,NG,Nigeria
+2274,abandoned,NGN,null,null
+2275,abandoned,NGN,null,null
+2276,success,NGN,NG,Nigeria
+2277,abandoned,NGN,null,null
+2278,success,NGN,NG,Nigeria
+2279,abandoned,NGN,null,null
+2280,success,NGN,NG,Nigeria
+2281,abandoned,NGN,null,null
+2282,abandoned,NGN,null,null
+2283,abandoned,NGN,null,null
+2284,success,NGN,NG,Nigeria
+2285,success,NGN,NG,Nigeria
+2286,reversed,NGN,NG,Nigeria
+2287,success,NGN,NG,Nigeria
+2288,abandoned,NGN,null,null
+2289,failed,NGN,NG,Nigeria
+2290,abandoned,NGN,null,null
+2291,abandoned,NGN,null,null
+2292,failed,NGN,GB,United States
+2293,failed,USD,null,null
+2294,abandoned,NGN,null,null
+2295,abandoned,NGN,null,null
+2296,abandoned,NGN,null,null
+2297,success,NGN,NG,Nigeria
+2298,abandoned,NGN,null,null
+2299,failed,NGN,NG,Nigeria
+2300,success,NGN,NG,Nigeria
+2301,success,USD,US,United States
+2302,success,NGN,NG,Nigeria
+2303,abandoned,NGN,null,null
+2304,abandoned,USD,NA,Nigeria
+2305,failed,NGN,NG,Nigeria
+2306,success,NGN,NG,Nigeria
+2307,failed,NGN,NG,Nigeria
+2308,abandoned,NGN,null,null
+2309,success,NGN,NG,Nigeria
+2310,success,NGN,NG,Nigeria
+2311,failed,NGN,NG,Nigeria
+2312,abandoned,NGN,null,null
+2313,abandoned,USD,null,null
+2314,failed,NGN,US,United States
+2315,failed,NGN,NG,Nigeria
+2316,success,NGN,NG,Nigeria
+2317,failed,NGN,NG,Nigeria
+2318,success,NGN,NG,Nigeria
+2319,success,NGN,NG,Nigeria
+2320,failed,NGN,NG,Nigeria
+2321,failed,NGN,NG,Nigeria
+2322,abandoned,NGN,null,null
+2323,abandoned,NGN,null,null
+2324,success,NGN,NG,Nigeria
+2325,success,USD,GB,United Kingdom
+2326,abandoned,USD,null,null
+2327,success,NGN,NG,Nigeria
+2328,abandoned,NGN,NG,Nigeria
+2329,success,NGN,NG,Nigeria
+2330,success,NGN,NG,Nigeria
+2331,failed,NGN,null,null
+2332,abandoned,NGN,null,null
+2333,failed,NGN,NG,Nigeria
+2334,abandoned,NGN,null,null
+2335,abandoned,NGN,null,null
+2336,success,NGN,NG,Nigeria
+2337,success,NGN,NG,Nigeria
+2338,failed,NGN,NG,Nigeria
+2339,success,NGN,NG,Nigeria
+2340,success,NGN,NG,Nigeria
+2341,success,NGN,GB,United Kingdom
+2342,success,NGN,NG,Nigeria
+2343,abandoned,USD,US,United States
+2344,success,NGN,NG,Nigeria
+2345,success,NGN,NG,Nigeria
+2346,success,NGN,NG,Nigeria
+2347,abandoned,NGN,null,null
+2348,success,USD,US,United States
+2349,abandoned,USD,US,United States
+2350,success,NGN,NG,Nigeria
+2351,abandoned,NGN,NG,Nigeria
+2352,abandoned,NGN,null,null
+2353,success,NGN,NG,Nigeria
+2354,abandoned,USD,null,null
+2355,success,NGN,NG,Nigeria
+2356,success,USD,JP,Japan
+2357,abandoned,NGN,NG,Nigeria
+2358,abandoned,NGN,null,null
+2359,abandoned,NGN,null,null
+2360,abandoned,USD,null,null
+2361,failed,USD,GB,United Kingdom
+2362,success,NGN,NG,Nigeria
+2363,success,NGN,NG,Nigeria
+2364,success,NGN,NG,Nigeria
+2365,abandoned,NGN,null,null
+2366,success,NGN,NG,Nigeria
+2367,abandoned,NGN,null,null
+2368,abandoned,USD,null,null
+2369,success,NGN,NG,Nigeria
+2370,abandoned,NGN,null,null
+2371,failed,NGN,NG,Nigeria
+2372,abandoned,NGN,null,null
+2373,abandoned,USD,CA,Canada
+2374,abandoned,NGN,null,null
+2375,success,NGN,NG,Nigeria
+2376,failed,NGN,NG,Nigeria
+2377,success,NGN,NG,Nigeria
+2378,abandoned,NGN,NG,Nigeria
+2379,abandoned,NGN,null,null
+2380,abandoned,NGN,GB,United Kingdom
+2381,abandoned,NGN,null,null
+2382,abandoned,NGN,null,null
+2383,failed,NGN,NG,Nigeria
+2384,reversed,NGN,NG,Nigeria
+2385,success,NGN,NG,Nigeria
+2386,failed,NGN,NG,Nigeria
+2387,success,NGN,NG,Nigeria
+2388,success,NGN,NG,Nigeria
+2389,abandoned,NGN,NG,Nigeria
+2390,success,NGN,NG,Nigeria
+2391,success,USD,US,United States
+2392,success,NGN,NG,Nigeria
+2393,success,USD,QA,Qatar
+2394,abandoned,NGN,null,null
+2395,success,NGN,NG,Nigeria
+2396,failed,NGN,NG,Nigeria
+2397,abandoned,NGN,null,null
+2398,abandoned,USD,null,null
+2399,success,NGN,NG,Nigeria
+2400,success,NGN,NG,Nigeria
+2401,failed,USD,null,null
+2402,success,NGN,NG,Nigeria
+2403,failed,NGN,NG,Nigeria
+2404,success,NGN,NG,Nigeria
+2405,success,NGN,NG,Nigeria
+2406,abandoned,NGN,null,null
+2407,success,NGN,NG,Nigeria
+2408,abandoned,NGN,null,null
+2409,abandoned,NGN,null,null
+2410,failed,USD,US,United States
+2411,success,NGN,NG,Nigeria
+2412,abandoned,USD,null,null
+2413,abandoned,NGN,ZA,South Africa
+2414,abandoned,NGN,null,null
+2415,abandoned,USD,US,United States
+2416,success,NGN,NG,Nigeria
+2417,abandoned,NGN,null,null
+2418,abandoned,NGN,null,null
+2419,abandoned,NGN,null,null
+2420,success,NGN,US,United States
+2421,abandoned,USD,null,null
+2422,abandoned,USD,null,null
+2423,abandoned,NGN,null,null
+2424,success,USD,GB,United Kingdom
+2425,abandoned,NGN,null,null
+2426,abandoned,NGN,null,null
+2427,success,NGN,NG,Nigeria
+2428,failed,NGN,CA,Canada
+2429,abandoned,NGN,null,null
+2430,abandoned,NGN,null,null
+2431,abandoned,NGN,null,null
+2432,abandoned,NGN,null,null
+2433,abandoned,USD,US,United States
+2434,abandoned,NGN,null,null
+2435,abandoned,USD,null,null
+2436,success,USD,GB,United Kingdom
+2437,abandoned,NGN,null,null
+2438,success,NGN,NG,Nigeria
+2439,success,NGN,NG,Nigeria
+2440,success,NGN,NG,Nigeria
+2441,success,NGN,NG,Nigeria
+2442,failed,NGN,NG,Nigeria
+2443,success,NGN,NG,Nigeria
+2444,success,NGN,NG,Nigeria
+2445,abandoned,NGN,null,null
+2446,abandoned,NGN,null,null
+2447,abandoned,NGN,null,null
+2448,success,USD,US,United States
+2449,success,NGN,NG,Nigeria
+2450,success,NGN,NG,Nigeria
+2451,abandoned,NGN,null,null
+2452,abandoned,NGN,null,null
+2453,abandoned,NGN,null,null
+2454,abandoned,NGN,null,null
+2455,success,NGN,NG,Nigeria
+2456,failed,USD,US,United States
+2457,abandoned,NGN,null,null
+2458,failed,USD,NG,Nigeria
+2459,success,NGN,NG,Nigeria
+2460,abandoned,NGN,null,null
+2461,failed,NGN,NG,Nigeria
+2462,abandoned,NGN,null,null
+2463,failed,NGN,NG,Nigeria
+2464,failed,NGN,NG,Nigeria
+2465,success,NGN,NG,Nigeria
+2466,success,NGN,NG,Nigeria
+2467,abandoned,NGN,null,null
+2468,abandoned,NGN,NG,Nigeria
+2469,abandoned,NGN,null,null
+2470,success,NGN,NG,Nigeria
+2471,success,NGN,NG,Nigeria
+2472,success,NGN,NG,Nigeria
+2473,success,NGN,NG,Nigeria
+2474,abandoned,NGN,null,null
+2475,abandoned,NGN,null,null
+2476,success,NGN,NG,Nigeria
+2477,success,USD,US,United States
+2478,success,NGN,NG,Nigeria
+2479,success,NGN,NG,Nigeria
+2480,abandoned,USD,null,null
+2481,abandoned,NGN,null,null
+2482,abandoned,NGN,null,null
+2483,abandoned,NGN,null,null
+2484,success,USD,US,United States
+2485,success,NGN,NG,Nigeria
+2486,success,NGN,NG,Nigeria
+2487,abandoned,NGN,null,null
+2488,abandoned,USD,null,null
+2489,failed,NGN,NG,Nigeria
+2490,abandoned,USD,null,null
+2491,abandoned,NGN,null,null
+2492,failed,NGN,NG,Nigeria
+2493,success,NGN,NG,Nigeria
+2494,success,NGN,NG,Nigeria
+2495,success,USD,GB,United Kingdom
+2496,abandoned,NGN,null,null
+2497,abandoned,NGN,null,null
+2498,failed,NGN,US,United States
+2499,success,NGN,NG,Nigeria
+2500,abandoned,NGN,NG,Nigeria
+2501,success,NGN,NG,Nigeria
+2502,success,NGN,NG,Nigeria
+2503,abandoned,NGN,null,null
+2504,abandoned,NGN,null,null
+2505,failed,NGN,NG,Nigeria
+2506,success,NGN,NG,Nigeria
+2507,success,NGN,NG,Nigeria
+2508,success,NGN,NG,Nigeria
+2509,success,NGN,NG,Nigeria
+2510,abandoned,USD,null,null
+2511,abandoned,NGN,US,United States
+2512,failed,NGN,NG,Nigeria
+2513,abandoned,NGN,null,null
+2514,abandoned,NGN,null,null
+2515,abandoned,NGN,null,null
+2516,success,NGN,NG,Nigeria
+2517,abandoned,NGN,null,null
+2518,success,USD,US,United States
+2519,abandoned,NGN,null,null
+2520,success,NGN,GB,Nigeria
+2521,success,NGN,NG,Nigeria
+2522,success,NGN,NG,Nigeria
+2523,abandoned,NGN,null,null
+2524,abandoned,USD,US,United States
+2525,abandoned,USD,null,null
+2526,failed,NGN,NG,Nigeria
+2527,failed,NGN,NG,Nigeria
+2528,abandoned,NGN,null,null
+2529,success,NGN,NG,Nigeria
+2530,success,NGN,NG,Nigeria
+2531,abandoned,NGN,null,null
+2532,abandoned,NGN,null,null
+2533,success,NGN,NG,Nigeria
+2534,failed,NGN,NG,Nigeria
+2535,success,NGN,NG,Nigeria
+2536,failed,USD,US,United States
+2537,abandoned,NGN,null,null
+2538,success,NGN,NG,Nigeria
+2539,failed,NGN,NG,Nigeria
+2540,success,NGN,NG,Nigeria
+2541,failed,NGN,NG,Nigeria
+2542,success,NGN,NG,Nigeria
+2543,success,NGN,NG,Nigeria
+2544,success,NGN,NG,Nigeria
+2545,success,NGN,NG,Nigeria
+2546,success,NGN,NG,Nigeria
+2547,abandoned,NGN,null,null
+2548,abandoned,NGN,NG,Nigeria
+2549,failed,NGN,NG,Nigeria
+2550,success,USD,GB,United Kingdom
+2551,abandoned,NGN,null,null
+2552,success,NGN,NG,Nigeria
+2553,abandoned,NGN,null,null
+2554,failed,NGN,NG,Nigeria
+2555,abandoned,NGN,null,null
+2556,success,NGN,NG,Nigeria
+2557,success,NGN,NG,Nigeria
+2558,success,NGN,US,United States
+2559,success,NGN,NG,Nigeria
+2560,abandoned,NGN,null,null
+2561,abandoned,USD,null,null
+2562,failed,NGN,US,United States
+2563,success,NGN,NG,Nigeria
+2564,failed,NGN,NG,Nigeria
+2565,abandoned,NGN,NG,Nigeria
+2566,success,NGN,NG,Nigeria
+2567,success,NGN,NG,Nigeria
+2568,abandoned,NGN,null,null
+2569,abandoned,NGN,null,null
+2570,failed,NGN,NG,Nigeria
+2571,reversed,USD,GB,United Kingdom
+2572,failed,NGN,NG,Nigeria
+2573,success,NGN,NG,Nigeria
+2574,success,NGN,NG,Nigeria
+2575,success,NGN,NG,Nigeria
+2576,abandoned,NGN,null,null
+2577,success,NGN,NG,Nigeria
+2578,abandoned,USD,null,null
+2579,abandoned,NGN,null,null
+2580,success,NGN,NG,Nigeria
+2581,success,NGN,NG,Nigeria
+2582,success,NGN,GB,United Kingdom
+2583,success,NGN,NG,Nigeria
+2584,abandoned,NGN,null,null
+2585,success,NGN,NG,Nigeria
+2586,success,USD,CA,Canada
+2587,failed,NGN,NG,Nigeria
+2588,success,NGN,NG,Nigeria
+2589,abandoned,USD,GB,United Kingdom
+2590,success,NGN,NG,Nigeria
+2591,abandoned,NGN,null,null
+2592,success,NGN,NG,Nigeria
+2593,success,NGN,NG,Nigeria
+2594,abandoned,NGN,null,null
+2595,abandoned,NGN,null,null
+2596,success,NGN,NG,Nigeria
+2597,abandoned,NGN,null,null
+2598,success,NGN,NG,Nigeria
+2599,abandoned,NGN,null,null
+2600,success,NGN,NG,Nigeria
+2601,abandoned,NGN,null,null
+2602,success,NGN,NG,Nigeria
+2603,success,NGN,NG,Nigeria
+2604,abandoned,NGN,null,null
+2605,abandoned,NGN,null,null
+2606,success,USD,US,United States
+2607,success,NGN,NG,Nigeria
+2608,abandoned,NGN,null,null
+2609,success,NGN,NG,Nigeria
+2610,failed,NGN,NG,Nigeria
+2611,abandoned,NGN,null,null
+2612,abandoned,USD,null,null
+2613,failed,NGN,NG,Nigeria
+2614,success,NGN,NG,Nigeria
+2615,abandoned,USD,null,null
+2616,failed,NGN,US,United States
+2617,success,NGN,NG,Nigeria
+2618,abandoned,NGN,null,null
+2619,failed,NGN,NG,Nigeria
+2620,success,NGN,NG,Nigeria
+2621,abandoned,NGN,null,null
+2622,abandoned,USD,null,null
+2623,failed,NGN,null,null
+2624,success,NGN,NG,Nigeria
+2625,success,NGN,NG,Nigeria
+2626,abandoned,USD,null,null
+2627,abandoned,NGN,null,null
+2628,abandoned,NGN,null,null
+2629,abandoned,NGN,null,null
+2630,abandoned,NGN,null,null
+2631,success,NGN,NG,Nigeria
+2632,success,NGN,NG,Nigeria
+2633,abandoned,NGN,null,null
+2634,success,NGN,NG,Nigeria
+2635,failed,NGN,NG,Nigeria
+2636,success,NGN,NG,Nigeria
+2637,abandoned,NGN,NG,Nigeria
+2638,abandoned,NGN,null,null
+2639,abandoned,NGN,null,null
+2640,abandoned,NGN,null,null
+2641,success,NGN,NG,Nigeria
+2642,success,NGN,NG,Nigeria
+2643,success,NGN,NG,Nigeria
+2644,abandoned,NGN,null,null
+2645,abandoned,NGN,null,null
+2646,abandoned,NGN,null,null
+2647,failed,USD,US,United States
+2648,abandoned,NGN,null,null
+2649,abandoned,NGN,null,null
+2650,success,NGN,NG,Nigeria
+2651,abandoned,NGN,null,null
+2652,success,NGN,NG,Nigeria
+2653,abandoned,NGN,null,null
+2654,abandoned,NGN,null,null
+2655,success,NGN,NG,Nigeria
+2656,abandoned,NGN,null,null
+2657,abandoned,NGN,null,null
+2658,failed,NGN,NG,Nigeria
+2659,failed,NGN,NG,Nigeria
+2660,success,NGN,NG,Nigeria
+2661,abandoned,NGN,null,null
+2662,abandoned,NGN,null,null
+2663,success,NGN,NG,Nigeria
+2664,success,NGN,CA,Canada
+2665,abandoned,NGN,null,null
+2666,success,NGN,GB,United Kingdom
+2667,failed,NGN,NG,Nigeria
+2668,success,NGN,NG,Nigeria
+2669,abandoned,NGN,null,null
+2670,success,NGN,NG,Nigeria
+2671,abandoned,NGN,null,null
+2672,success,NGN,NG,Nigeria
+2673,success,NGN,NG,Nigeria
+2674,success,USD,GB,United Kingdom
+2675,success,NGN,NG,Nigeria
+2676,abandoned,NGN,null,null
+2677,success,USD,US,United States
+2678,abandoned,USD,null,null
+2679,abandoned,USD,null,null
+2680,failed,NGN,NG,Nigeria
+2681,abandoned,NGN,null,null
+2682,success,NGN,NG,Nigeria
+2683,success,NGN,NG,Nigeria
+2684,abandoned,USD,null,null
+2685,success,NGN,NG,Nigeria
+2686,abandoned,NGN,null,null
+2687,success,NGN,NG,Nigeria
+2688,abandoned,NGN,null,null
+2689,abandoned,NGN,null,null
+2690,abandoned,NGN,null,null
+2691,abandoned,NGN,null,null
+2692,failed,NGN,NG,Nigeria
+2693,abandoned,NGN,null,null
+2694,success,USD,NG,Nigeria
+2695,success,NGN,NG,Nigeria
+2696,abandoned,NGN,null,null
+2697,abandoned,NGN,null,null
+2698,failed,NGN,NG,Nigeria
+2699,success,NGN,NG,Nigeria
+2700,failed,NGN,NG,Nigeria
+2701,success,NGN,NG,Nigeria
+2702,success,NGN,NG,Nigeria
+2703,success,NGN,NG,Nigeria
+2704,success,NGN,NG,Nigeria
+2705,success,NGN,NG,Nigeria
+2706,abandoned,NGN,null,null
+2707,failed,NGN,NG,Nigeria
+2708,abandoned,NGN,NG,Nigeria
+2709,failed,USD,NG,Nigeria
+2710,success,NGN,GB,United Kingdom
+2711,success,NGN,NG,Nigeria
+2712,success,NGN,NG,Nigeria
+2713,success,NGN,NG,Nigeria
+2714,success,NGN,NG,Nigeria
+2715,success,NGN,NG,Nigeria
+2716,success,NGN,NG,Nigeria
+2717,abandoned,NGN,null,null
+2718,abandoned,USD,CA,Canada
+2719,failed,NGN,NG,Nigeria
+2720,success,NGN,NG,Nigeria
+2721,success,USD,US,United States
+2722,success,NGN,NG,Nigeria
+2723,abandoned,NGN,null,null
+2724,abandoned,NGN,null,null
+2725,success,NGN,NG,Nigeria
+2726,abandoned,NGN,null,null
+2727,success,NGN,NG,Nigeria
+2728,abandoned,NGN,null,null
+2729,failed,USD,NG,Nigeria
+2730,abandoned,NGN,null,null
+2731,success,NGN,NG,Nigeria
+2732,abandoned,NGN,null,null
+2733,success,NGN,NG,Nigeria
+2734,failed,NGN,NG,Nigeria
+2735,abandoned,USD,null,null
+2736,abandoned,NGN,null,null
+2737,abandoned,NGN,NG,Nigeria
+2738,abandoned,NGN,null,null
+2739,success,NGN,NG,Nigeria
+2740,abandoned,NGN,null,null
+2741,abandoned,NGN,NG,Nigeria
+2742,reversed,NGN,NG,Nigeria
+2743,success,NGN,NG,Nigeria
+2744,failed,USD,US,United States
+2745,failed,USD,null,null
+2746,abandoned,NGN,null,null
+2747,success,NGN,NG,Nigeria
+2748,success,NGN,NG,Nigeria
+2749,failed,USD,KY,Cayman Islands
+2750,success,NGN,NG,Nigeria
+2751,abandoned,NGN,null,null
+2752,success,USD,GB,United Kingdom
+2753,success,USD,IE,Ireland
+2754,abandoned,NGN,null,null
+2755,abandoned,NGN,null,null
+2756,abandoned,NGN,null,null
+2757,abandoned,NGN,null,null
+2758,failed,NGN,US,United States
+2759,failed,NGN,NG,Nigeria
+2760,abandoned,USD,null,null
+2761,abandoned,NGN,null,null
+2762,success,NGN,NG,Nigeria
+2763,success,NGN,NG,Nigeria
+2764,success,NGN,NG,Nigeria
+2765,success,NGN,NG,Nigeria
+2766,abandoned,USD,null,null
+2767,success,USD,GB,United Kingdom
+2768,success,NGN,NG,Nigeria
+2769,reversed,NGN,NG,Nigeria
+2770,abandoned,NGN,null,null
+2771,abandoned,NGN,null,null
+2772,abandoned,NGN,null,null
+2773,success,NGN,NG,Nigeria
+2774,success,NGN,NG,Nigeria
+2775,success,NGN,NG,Nigeria
+2776,success,NGN,NG,Nigeria
+2777,reversed,NGN,NG,Nigeria
+2778,abandoned,NGN,null,null
+2779,success,NGN,NG,Nigeria
+2780,failed,NGN,NG,Nigeria
+2781,abandoned,NGN,null,null
+2782,success,NGN,NG,Nigeria
+2783,success,NGN,NG,Nigeria
+2784,abandoned,USD,null,null
+2785,abandoned,NGN,null,null
+2786,abandoned,NGN,null,null
+2787,success,NGN,null,null
+2788,success,NGN,NG,Nigeria
+2789,abandoned,NGN,NG,Nigeria
+2790,abandoned,USD,null,null
+2791,success,NGN,NG,Nigeria
+2792,success,NGN,NG,Nigeria
+2793,abandoned,NGN,null,null
+2794,abandoned,NGN,null,null
+2795,failed,NGN,NG,Nigeria
+2796,success,NGN,NG,Nigeria
+2797,abandoned,NGN,null,null
+2798,abandoned,NGN,null,null
+2799,success,NGN,NG,Nigeria
+2800,success,USD,NG,Nigeria
+2801,success,NGN,NG,Nigeria
+2802,abandoned,NGN,null,null
+2803,success,NGN,NG,Nigeria
+2804,abandoned,NGN,null,null
+2805,success,NGN,NG,Nigeria
+2806,abandoned,NGN,null,null
+2807,success,NGN,IE,Ireland
+2808,success,NGN,NG,Nigeria
+2809,success,NGN,NG,Nigeria
+2810,failed,NGN,NG,Nigeria
+2811,success,NGN,NG,Nigeria
+2812,success,NGN,NG,Nigeria
+2813,success,NGN,NG,Nigeria
+2814,success,NGN,NG,Nigeria
+2815,success,NGN,NG,Nigeria
+2816,abandoned,NGN,null,null
+2817,abandoned,NGN,null,null
+2818,failed,USD,US,United States
+2819,abandoned,NGN,null,null
+2820,failed,USD,US,United States
+2821,success,NGN,NG,Nigeria
+2822,failed,NGN,GB,United Kingdom
+2823,success,NGN,NG,Nigeria
+2824,abandoned,NGN,null,null
+2825,success,NGN,NG,Nigeria
+2826,failed,NGN,NG,Nigeria
+2827,abandoned,USD,BD,Bangladesh
+2828,abandoned,NGN,null,null
+2829,success,NGN,FR,France
+2830,abandoned,NGN,null,null
+2831,success,NGN,GB,United Kingdom
+2832,failed,NGN,NG,Nigeria
+2833,abandoned,NGN,null,null
+2834,abandoned,NGN,null,null
+2835,abandoned,USD,null,null
+2836,success,USD,US,United States
+2837,failed,NGN,NG,Nigeria
+2838,abandoned,NGN,null,null
+2839,abandoned,USD,null,null
+2840,abandoned,NGN,null,null
+2841,success,NGN,NG,Nigeria
+2842,abandoned,USD,null,null
+2843,abandoned,NGN,null,null
+2844,success,NGN,NG,Nigeria
+2845,abandoned,USD,US,United States
+2846,abandoned,USD,null,null
+2847,failed,NGN,NG,Nigeria
+2848,failed,NGN,NG,Nigeria
+2849,success,NGN,NG,Nigeria
+2850,success,NGN,NG,Nigeria
+2851,abandoned,NGN,null,null
+2852,failed,NGN,GB,United Kingdom
+2853,success,NGN,NG,Nigeria
+2854,success,NGN,NG,Nigeria
+2855,success,NGN,NG,Nigeria
+2856,success,NGN,NG,Nigeria
+2857,success,USD,AE,United Arab Emirate
+2858,success,NGN,NG,Nigeria
+2859,abandoned,NGN,NG,Nigeria
+2860,abandoned,NGN,null,null
+2861,success,NGN,NG,Nigeria
+2862,success,NGN,NG,Nigeria
+2863,success,NGN,NG,Nigeria
+2864,reversed,NGN,NG,Nigeria
+2865,abandoned,USD,null,null
+2866,abandoned,NGN,null,null
+2867,success,NGN,NG,Nigeria
+2868,success,NGN,NG,Nigeria
+2869,success,NGN,NG,Nigeria
+2870,abandoned,NGN,null,null
+2871,abandoned,NGN,null,null
+2872,success,NGN,US,United States
+2873,abandoned,NGN,null,null
+2874,success,NGN,NG,Nigeria
+2875,abandoned,NGN,null,null
+2876,abandoned,NGN,null,null
+2877,abandoned,USD,null,null
+2878,abandoned,NGN,null,null
+2879,success,NGN,NG,Nigeria
+2880,success,NGN,CA,Canada
+2881,abandoned,NGN,null,null
+2882,success,NGN,NG,Nigeria
+2883,success,NGN,NG,Nigeria
+2884,abandoned,NGN,null,null
+2885,abandoned,USD,null,null
+2886,failed,NGN,NG,Nigeria
+2887,success,NGN,NG,Nigeria
+2888,success,USD,US,United States
+2889,abandoned,NGN,null,null
+2890,abandoned,NGN,null,null
+2891,success,USD,CA,Canada
+2892,failed,NGN,NG,Nigeria
+2893,abandoned,NGN,null,null
+2894,abandoned,NGN,null,null
+2895,abandoned,NGN,null,null
+2896,success,NGN,NG,Nigeria
+2897,failed,NGN,NG,Nigeria
+2898,failed,NGN,NG,Nigeria
+2899,success,NGN,NG,Nigeria
+2900,abandoned,NGN,null,null
+2901,success,NGN,NG,Nigeria
+2902,success,NGN,NG,Nigeria
+2903,abandoned,NGN,null,null
+2904,success,NGN,NG,Nigeria
+2905,failed,USD,US,Nigeria
+2906,success,NGN,NG,Nigeria
+2907,success,NGN,NG,Nigeria
+2908,success,NGN,NG,Nigeria
+2909,abandoned,NGN,null,null
+2910,abandoned,NGN,null,null
+2911,success,NGN,NG,Nigeria
+2912,success,NGN,NG,Nigeria
+2913,abandoned,NGN,null,null
+2914,success,NGN,NG,Nigeria
+2915,abandoned,NGN,NG,Nigeria
+2916,success,NGN,NG,Nigeria
+2917,abandoned,NGN,null,null
+2918,abandoned,NGN,null,null
+2919,success,USD,GB,United Kingdom
+2920,success,NGN,NG,Nigeria
+2921,abandoned,NGN,null,null
+2922,abandoned,NGN,null,null
+2923,abandoned,USD,null,null
+2924,success,NGN,NG,Nigeria
+2925,failed,NGN,NG,Nigeria
+2926,abandoned,NGN,null,null
+2927,failed,USD,GB,United Kingdom
+2928,abandoned,NGN,null,null
+2929,abandoned,NGN,null,null
+2930,abandoned,NGN,null,null
+2931,success,NGN,NG,Nigeria
+2932,abandoned,NGN,null,null
+2933,abandoned,NGN,null,null
+2934,abandoned,NGN,null,null
+2935,abandoned,NGN,null,null
+2936,success,NGN,NG,Nigeria
+2937,failed,NGN,US,United States
+2938,abandoned,NGN,null,null
+2939,abandoned,NGN,null,null
+2940,success,NGN,NG,Nigeria
+2941,success,NGN,NG,Nigeria
+2942,success,NGN,NG,Nigeria
+2943,abandoned,USD,null,null
+2944,abandoned,NGN,null,null
+2945,abandoned,NGN,null,null
+2946,success,NGN,NG,Nigeria
+2947,success,NGN,NG,Nigeria
+2948,abandoned,NGN,null,null
+2949,abandoned,NGN,null,null
+2950,failed,NGN,NG,Nigeria
+2951,success,NGN,NG,Nigeria
+2952,abandoned,NGN,null,null
+2953,success,USD,US,United States
+2954,abandoned,NGN,null,null
+2955,success,NGN,NG,Nigeria
+2956,failed,NGN,NG,Nigeria
+2957,success,NGN,NG,Nigeria
+2958,success,NGN,US,United States
+2959,success,USD,US,United States
+2960,abandoned,NGN,null,null
+2961,success,NGN,NG,Nigeria
+2962,abandoned,NGN,null,null
+2963,abandoned,NGN,null,null
+2964,abandoned,NGN,null,null
+2965,abandoned,NGN,null,null
+2966,failed,NGN,NG,Nigeria
+2967,success,NGN,NG,Nigeria
+2968,failed,USD,US,United States
+2969,success,NGN,NG,Nigeria
+2970,success,NGN,NG,Nigeria
+2971,abandoned,NGN,null,null
+2972,abandoned,NGN,null,null
+2973,abandoned,USD,null,null
+2974,success,NGN,NG,Nigeria
+2975,abandoned,NGN,null,null
+2976,abandoned,NGN,null,null
+2977,abandoned,NGN,null,null
+2978,success,NGN,NG,Nigeria
+2979,abandoned,NGN,null,null
+2980,abandoned,NGN,null,null
+2981,reversed,NGN,GB,United Kingdom
+2982,success,NGN,NG,Nigeria
+2983,success,NGN,NG,Nigeria
+2984,abandoned,NGN,NG,Nigeria
+2985,abandoned,USD,null,null
+2986,success,USD,US,United States
+2987,failed,NGN,NG,Nigeria
+2988,failed,NGN,NG,Nigeria
+2989,abandoned,NGN,null,null
+2990,success,NGN,NG,Nigeria
+2991,abandoned,NGN,null,null
+2992,failed,NGN,NG,Nigeria
+2993,success,NGN,NG,Nigeria
+2994,abandoned,NGN,NG,Nigeria
+2995,reversed,NGN,NG,Nigeria
+2996,success,NGN,NG,Nigeria
+2997,abandoned,NGN,null,null
+2998,success,NGN,NG,Nigeria
+2999,success,USD,GB,United Kingdom
+3000,reversed,NGN,NG,Nigeria
+3001,success,NGN,NG,Nigeria
+3002,abandoned,NGN,null,null
+3003,abandoned,NGN,null,null
+3004,success,NGN,NG,Nigeria
+3005,abandoned,NGN,null,null
+3006,abandoned,NGN,NG,Nigeria
+3007,success,NGN,NG,Nigeria
+3008,success,NGN,NG,Nigeria
+3009,abandoned,NGN,null,null
+3010,success,NGN,NG,Nigeria
+3011,failed,USD,US,United States
+3012,reversed,NGN,NG,Nigeria
+3013,abandoned,NGN,null,null
+3014,failed,USD,US,United States
+3015,abandoned,NGN,null,null
+3016,success,NGN,NG,Nigeria
+3017,abandoned,USD,null,null
+3018,abandoned,NGN,null,null
+3019,success,NGN,NG,Nigeria
+3020,abandoned,NGN,null,null
+3021,success,NGN,NG,Nigeria
+3022,abandoned,NGN,null,null
+3023,abandoned,NGN,null,null
+3024,success,NGN,NG,Nigeria
+3025,abandoned,NGN,NG,Nigeria
+3026,success,NGN,NG,Nigeria
+3027,reversed,NGN,NG,Nigeria
+3028,abandoned,NGN,null,null
+3029,success,NGN,NG,Nigeria
+3030,abandoned,NGN,null,null
+3031,abandoned,NGN,null,null
+3032,success,NGN,NG,Nigeria
+3033,abandoned,NGN,null,null
+3034,abandoned,NGN,null,null
+3035,abandoned,NGN,null,null
+3036,success,NGN,NG,Nigeria
+3037,success,NGN,NG,Nigeria
+3038,abandoned,NGN,null,null
+3039,success,NGN,NG,Nigeria
+3040,abandoned,USD,null,null
+3041,success,NGN,NG,Nigeria
+3042,success,NGN,NG,Nigeria
+3043,success,NGN,NG,Nigeria
+3044,success,NGN,NG,Nigeria
+3045,success,NGN,NG,Nigeria
+3046,abandoned,NGN,null,null
+3047,success,NGN,NG,Nigeria
+3048,abandoned,NGN,null,null
+3049,success,NGN,NG,Nigeria
+3050,success,NGN,NG,Nigeria
+3051,failed,NGN,NG,Nigeria
+3052,success,NGN,NG,Nigeria
+3053,success,NGN,NG,Nigeria
+3054,abandoned,NGN,null,null
+3055,abandoned,NGN,null,null
+3056,success,NGN,NG,Nigeria
+3057,abandoned,NGN,null,null
+3058,abandoned,NGN,null,null
+3059,abandoned,USD,null,null
+3060,abandoned,USD,null,null
+3061,abandoned,NGN,null,null
+3062,abandoned,USD,null,null
+3063,success,USD,US,United States
+3064,abandoned,NGN,null,null
+3065,success,NGN,NG,Nigeria
+3066,success,NGN,NG,Nigeria
+3067,abandoned,NGN,null,null
+3068,success,NGN,NG,Nigeria
+3069,success,NGN,NG,Nigeria
+3070,abandoned,NGN,null,null
+3071,success,NGN,GB,United Kingdom
+3072,abandoned,NGN,null,null
+3073,failed,NGN,NG,Nigeria
+3074,abandoned,NGN,NG,Nigeria
+3075,abandoned,NGN,null,null
+3076,abandoned,NGN,null,null
+3077,abandoned,NGN,null,null
+3078,success,NGN,NG,Nigeria
+3079,success,NGN,NG,Nigeria
+3080,success,NGN,NG,Nigeria
+3081,abandoned,USD,null,null
+3082,success,NGN,NG,Nigeria
+3083,failed,NGN,US,United States
+3084,abandoned,NGN,NG,Nigeria
+3085,abandoned,NGN,null,null
+3086,abandoned,NGN,null,null
+3087,failed,USD,CA,Canada
+3088,success,NGN,NG,Nigeria
+3089,success,NGN,NG,Nigeria
+3090,success,NGN,NG,Nigeria
+3091,success,NGN,NG,Nigeria
+3092,abandoned,NGN,null,null
+3093,abandoned,USD,null,null
+3094,abandoned,NGN,null,null
+3095,failed,USD,US,United States
+3096,failed,NGN,NG,Nigeria
+3097,abandoned,USD,null,null
+3098,abandoned,USD,US,United States
+3099,abandoned,NGN,null,null
+3100,abandoned,NGN,NG,Nigeria
+3101,success,NGN,NG,Nigeria
+3102,success,NGN,NG,Nigeria
+3103,abandoned,USD,null,null
+3104,success,NGN,NG,Nigeria
+3105,success,NGN,NG,Nigeria
+3106,abandoned,NGN,NG,Nigeria
+3107,success,NGN,NG,Nigeria
+3108,abandoned,NGN,null,null
+3109,abandoned,NGN,null,null
+3110,failed,NGN,NG,Nigeria
+3111,abandoned,NGN,null,null
+3112,abandoned,NGN,null,null
+3113,success,NGN,NG,Nigeria
+3114,abandoned,NGN,NG,Nigeria
+3115,success,NGN,NG,Nigeria
+3116,success,NGN,NG,Nigeria
+3117,abandoned,NGN,null,null
+3118,success,NGN,NG,Nigeria
+3119,success,NGN,NG,Nigeria
+3120,abandoned,USD,null,null
+3121,abandoned,NGN,null,null
+3122,success,NGN,GB,United Kingdom
+3123,success,NGN,NG,Nigeria
+3124,success,NGN,NG,Nigeria
+3125,success,NGN,NG,Nigeria
+3126,abandoned,NGN,null,null
+3127,success,NGN,NG,Nigeria
+3128,success,USD,US,United States
+3129,abandoned,NGN,null,null
+3130,success,NGN,NG,Nigeria
+3131,abandoned,NGN,null,null
+3132,abandoned,NGN,null,null
+3133,abandoned,USD,null,null
+3134,success,USD,null,null
+3135,failed,NGN,US,United States
+3136,success,NGN,NG,Nigeria
+3137,abandoned,NGN,null,null
+3138,success,NGN,NG,Nigeria
+3139,success,NGN,NG,Nigeria
+3140,abandoned,NGN,null,null
+3141,failed,NGN,NG,Nigeria
+3142,abandoned,NGN,null,null
+3143,failed,NGN,NG,Nigeria
+3144,success,NGN,NG,Nigeria
+3145,success,NGN,NG,Nigeria
+3146,abandoned,NGN,null,null
+3147,success,NGN,NG,Nigeria
+3148,success,NGN,NG,Nigeria
+3149,success,NGN,NG,Nigeria
+3150,success,NGN,NG,Nigeria
+3151,abandoned,NGN,null,null
+3152,abandoned,NGN,null,null
+3153,abandoned,NGN,null,null
+3154,success,NGN,NG,Nigeria
+3155,abandoned,NGN,null,null
+3156,abandoned,USD,null,null
+3157,success,NGN,NG,Nigeria
+3158,abandoned,NGN,NG,Nigeria
+3159,abandoned,USD,US,United States
+3160,failed,NGN,NG,Nigeria
+3161,abandoned,NGN,null,null
+3162,success,NGN,NG,Nigeria
+3163,success,NGN,NG,Nigeria
+3164,abandoned,NGN,null,null
+3165,success,NGN,NG,Nigeria
+3166,abandoned,NGN,null,null
+3167,success,USD,IE,Ireland
+3168,abandoned,NGN,null,null
+3169,failed,NGN,NG,Nigeria
+3170,abandoned,NGN,NG,Nigeria
+3171,success,NGN,NG,Nigeria
+3172,abandoned,NGN,null,null
+3173,failed,NGN,NG,Nigeria
+3174,abandoned,NGN,null,null
+3175,abandoned,USD,null,null
+3176,success,NGN,NG,Nigeria
+3177,abandoned,NGN,null,null
+3178,abandoned,NGN,null,null
+3179,abandoned,NGN,null,null
+3180,failed,NGN,NG,Nigeria
+3181,success,NGN,NG,Nigeria
+3182,success,NGN,NG,Nigeria
+3183,success,NGN,NG,Nigeria
+3184,abandoned,USD,null,null
+3185,abandoned,NGN,null,null
+3186,abandoned,NGN,null,null
+3187,abandoned,NGN,null,null
+3188,success,NGN,NG,Nigeria
+3189,failed,USD,US,United States
+3190,failed,NGN,NG,Nigeria
+3191,abandoned,NGN,null,null
+3192,success,NGN,NG,Nigeria
+3193,failed,NGN,NG,Nigeria
+3194,abandoned,USD,null,null
+3195,abandoned,NGN,null,null
+3196,failed,NGN,AU,Australia
+3197,abandoned,NGN,null,null
+3198,abandoned,USD,null,null
+3199,success,NGN,NG,Nigeria
+3200,success,NGN,NG,Nigeria
+3201,success,NGN,NG,Nigeria
+3202,failed,USD,NG,Nigeria
+3203,abandoned,NGN,null,null
+3204,failed,NGN,NG,Nigeria
+3205,abandoned,NGN,null,null
+3206,success,NGN,NG,Nigeria
+3207,abandoned,NGN,NG,Nigeria
+3208,success,USD,GB,United Kingdom
+3209,abandoned,NGN,null,null
+3210,abandoned,NGN,null,null
+3211,abandoned,USD,null,null
+3212,abandoned,NGN,null,null
+3213,success,NGN,NG,Nigeria
+3214,abandoned,NGN,null,null
+3215,abandoned,NGN,null,null
+3216,abandoned,NGN,null,null
+3217,failed,USD,US,United States
+3218,abandoned,NGN,null,null
+3219,abandoned,NGN,null,null
+3220,success,NGN,NG,Nigeria
+3221,abandoned,USD,null,null
+3222,success,NGN,NG,Nigeria
+3223,abandoned,NGN,null,null
+3224,abandoned,NGN,null,null
+3225,abandoned,NGN,null,null
+3226,success,NGN,NG,Nigeria
+3227,abandoned,NGN,null,null
+3228,failed,NGN,NG,Nigeria
+3229,abandoned,NGN,null,null
+3230,abandoned,NGN,NG,Nigeria
+3231,success,NGN,NG,Nigeria
+3232,abandoned,NGN,null,null
+3233,success,NGN,NG,Nigeria
+3234,success,NGN,NG,Nigeria
+3235,abandoned,NGN,null,null
+3236,abandoned,NGN,null,null
+3237,abandoned,NGN,null,null
+3238,abandoned,NGN,null,null
+3239,success,NGN,NG,Nigeria
+3240,success,NGN,NG,Nigeria
+3241,failed,NGN,GB,United Kingdom
+3242,success,NGN,NG,Nigeria
+3243,abandoned,USD,IT,Italy
+3244,abandoned,USD,null,null
+3245,abandoned,NGN,null,null
+3246,abandoned,NGN,null,null
+3247,abandoned,USD,null,null
+3248,success,NGN,NG,Nigeria
+3249,abandoned,NGN,NG,Nigeria
+3250,failed,NGN,US,United States
+3251,abandoned,NGN,null,null
+3252,success,USD,GB,United Kingdom
+3253,abandoned,NGN,null,null
+3254,abandoned,NGN,null,null
+3255,success,NGN,US,United States
+3256,abandoned,NGN,NG,Nigeria
+3257,failed,NGN,NG,Nigeria
+3258,abandoned,NGN,null,null
+3259,failed,USD,NG,Nigeria
+3260,abandoned,NGN,null,null
+3261,failed,NGN,NG,Nigeria
+3262,abandoned,NGN,null,null
+3263,failed,USD,US,United States
+3264,abandoned,NGN,null,null
+3265,success,USD,GB,United Kingdom
+3266,abandoned,USD,null,null
+3267,success,USD,US,United States
+3268,success,NGN,NG,Nigeria
+3269,abandoned,NGN,null,null
+3270,abandoned,NGN,null,null
+3271,abandoned,USD,FR,France
+3272,abandoned,NGN,null,null
+3273,abandoned,NGN,NG,Nigeria
+3274,abandoned,NGN,null,null
+3275,abandoned,USD,null,null
+3276,success,NGN,NG,Nigeria

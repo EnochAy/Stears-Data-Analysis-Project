@@ -5,6 +5,13 @@ order by name desc;
 
 
 
+-- Write only the SQL statement that solves the problem and nothing else
+--- select all names in desc order
+select name
+from cities
+order by name desc;
+
+
 
 ---Given the following data definition, write a query that returns the number of students whose first name is John.
 
